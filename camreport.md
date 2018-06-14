@@ -1,6 +1,6 @@
 Camera Status report
 ================
-14/06/2018 - 14:09:59
+14/06/2018 - 14:14:40
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -75,7 +75,7 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9491172  88330812  10% /
+/dev/root      103081248   9862280  87959704  11% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
@@ -88,7 +88,7 @@ cgmfs                100         0       100   0% /run/cgmanager/fs
 Latest-Images
 -------------
 
-![test](figures/Cam1.png) \#\#TEMPERATURES:
+![test](pictures/Cam1.png) \#\#TEMPERATURES:
 
 ``` text
 NO SENSOR INFORMATION THIS YEAR
