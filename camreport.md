@@ -1,12 +1,14 @@
 Camera Status report
 ================
-14/06/2018 - 11:15:06
+14/06/2018 - 11:45:05
 
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
 -   [TEMPERATURES:](#temperatures)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    All cameras are up and running
+    Cameras currently down:
+      Names Status
+    1 cam87   down
 
 ![](camreport_files/figure-markdown_github/unnamed-chunk-2-1.png)
 
@@ -15,13 +17,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9860944  87961040  11% /
+/dev/root      103081248   9861632  87960352  11% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 181981064 503657680  27% /home
+/dev/sda3      722355288 182125264 503513480  27% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
@@ -36,7 +38,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 119790664
+total 119934864
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -1125,6 +1127,7 @@ total 119790664
 -rw-r--r-- 1 user1 users 147927040 Jun 14 10:00 MT20180614095611.tar
 -rw-r--r-- 1 user1 users 148797440 Jun 14 10:21 MT20180614101717.tar
 -rw-r--r-- 1 user1 users 147886080 Jun 14 10:51 MT20180614104716.tar
+-rw-r--r-- 1 user1 users 147660800 Jun 14 11:21 MT20180614111716.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
