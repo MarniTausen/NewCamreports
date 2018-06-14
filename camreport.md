@@ -1,17 +1,20 @@
 Camera Status report
 ================
-14/06/2018 - 14:14:40
+14/06/2018 - 14:15:18
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
 -   [Latest-Images](#latest-images)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    Cameras currently down:
-      Names Status
-    1 cam87   down
+    Warning in file(file, "rt"): cannot open file 'camreport.csv': No such file
+    or directory
 
-![](camreport_files/figure-markdown_github/unnamed-chunk-2-1.png)
+    Error in file(file, "rt"): cannot open the connection
+
+    Error in eval(lhs, parent, parent): object 'report' not found
+
+    Error in nrow(downlist): object 'downlist' not found
 
 Latest number of pictures from the Cameras
 ------------------------------------------
