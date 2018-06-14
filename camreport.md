@@ -1,10 +1,11 @@
 Camera Status report
 ================
-14/06/2018 - 12:45:06
+14/06/2018 - 13:36:27
 
--   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
--   [TEMPERATURES:](#temperatures)
--   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
+-   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
+    -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
+    -   [TEMPERATURES:](#temperatures)
+    -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
     Cameras currently down:
       Names Status
@@ -12,18 +13,70 @@ Camera Status report
 
 ![](camreport_files/figure-markdown_github/unnamed-chunk-2-1.png)
 
+Latest number of pictures from the Cameras
+==========================================
+
+Images from day: MT20180613
+
+       Camera nPictures Camera nPictures Camera nPictures Camera nPictures
+    1    Cam1        14  Cam46        14  Cam91        14 Cam136        14
+    2    Cam2        14  Cam47        14  Cam92        14 Cam137        14
+    3    Cam3        14  Cam48        14  Cam93        14 Cam138        14
+    4    Cam4        14  Cam49        14  Cam94        14 Cam139        14
+    5    Cam5        14  Cam50        14  Cam95        14 Cam140        14
+    6    Cam6        14  Cam51        14  Cam96        14 Cam141        14
+    7    Cam7        14  Cam52        14  Cam97        14 Cam142        14
+    8    Cam8        14  Cam53        14  Cam98        14 Cam143        14
+    9    Cam9        14  Cam54        14  Cam99        14 Cam144        14
+    10  Cam10        14  Cam55        14 Cam100        14 Cam145        14
+    11  Cam11        14  Cam56        14 Cam101        14 Cam146        14
+    12  Cam12        14  Cam57        14 Cam102        14 Cam147        14
+    13  Cam13        14  Cam58        14 Cam103        14 Cam148        14
+    14  Cam14        14  Cam59        14 Cam104        14 Cam149        14
+    15  Cam15        14  Cam60        14 Cam105        14 Cam150        14
+    16  Cam16        14  Cam61        14 Cam106        14 Cam151        14
+    17  Cam17        14  Cam62        14 Cam107        14 Cam152        14
+    18  Cam18        14  Cam63        14 Cam108        14 Cam153        14
+    19  Cam19        14  Cam64        14 Cam109        14 Cam154        14
+    20  Cam20        14  Cam65        14 Cam110        14 Cam155        14
+    21  Cam21        14  Cam66        14 Cam111        14 Cam156        14
+    22  Cam22        14  Cam67        14 Cam112        14 Cam157        14
+    23  Cam23        14  Cam68        14 Cam113        14 Cam158        14
+    24  Cam24        14  Cam69        14 Cam114        14 Cam159        14
+    25  Cam25        14  Cam70        14 Cam115        14 Cam160        14
+    26  Cam26        14  Cam71        14 Cam116        14 Cam161        14
+    27  Cam27        14  Cam72        14 Cam117        14 Cam162        14
+    28  Cam28        14  Cam73        14 Cam118        14 Cam163        14
+    29  Cam29        14  Cam74        14 Cam119        14 Cam164        14
+    30  Cam30        14  Cam75        14 Cam120        14 Cam165        14
+    31  Cam31        14  Cam76        14 Cam121        14 Cam166        14
+    32  Cam32        14  Cam77        14 Cam122        14 Cam167        14
+    33  Cam33        14  Cam78        14 Cam123        14 Cam168        14
+    34  Cam34        14  Cam79        14 Cam124        14 Cam169        14
+    35  Cam35        14  Cam80        14 Cam125        14 Cam170        14
+    36  Cam36        14  Cam81        14 Cam126        14 Cam171        14
+    37  Cam37        14  Cam82        14 Cam127        14 Cam172        14
+    38  Cam38        14  Cam83        14 Cam128        14 Cam173        14
+    39  Cam39        14  Cam84        14 Cam129        14 Cam174        14
+    40  Cam40        14  Cam85        14 Cam130        14 Cam175        14
+    41  Cam41        14  Cam86        14 Cam131        14 Cam176        14
+    42  Cam42        14  Cam87         0 Cam132        14 Cam177        14
+    43  Cam43        14  Cam88        14 Cam133        14 Cam178        14
+    44  Cam44        14  Cam89        14 Cam134        14 Cam179        14
+    45  Cam45        14  Cam90        14 Cam135        14 Cam180        14
+
 LIST OF DIRECTORIES AND FREE SPACE:
 -----------------------------------
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9863432  87958552  11% /
+/dev/root      103081248   9490768  88331216  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 182415320 503223424  27% /home
+/dev/sda3      722355288 182703824 502934920  27% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
@@ -38,7 +91,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 120224244
+total 120512748
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -1130,6 +1183,8 @@ total 120224244
 -rw-r--r-- 1 user1 users 147660800 Jun 14 11:21 MT20180614111716.tar
 -rw-r--r-- 1 user1 users 148234240 Jun 14 11:51 MT20180614114719.tar
 -rw-r--r-- 1 user1 users 148090880 Jun 14 12:22 MT20180614121719.tar
+-rw-r--r-- 1 user1 users 147957760 Jun 14 12:52 MT20180614124720.tar
+-rw-r--r-- 1 user1 users 147466240 Jun 14 13:21 MT20180614131719.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
