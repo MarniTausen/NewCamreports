@@ -1,6 +1,6 @@
 Camera Status report
 ================
-14/06/2018 - 13:36:27
+14/06/2018 - 13:45:17
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
     -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -65,12 +65,17 @@ Images from day: MT20180613
     44  Cam44        14  Cam89        14 Cam134        14 Cam179        14
     45  Cam45        14  Cam90        14 Cam135        14 Cam180        14
 
+    Problematic cameras
+
+      Camera nPictures
+    1  Cam87         0
+
 LIST OF DIRECTORIES AND FREE SPACE:
 -----------------------------------
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9490768  88331216  10% /
+/dev/root      103081248   9860372  87961612  11% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
