@@ -1,6 +1,6 @@
 Camera Status report
 ================
-14/06/2018 - 13:59:02
+14/06/2018 - 14:09:59
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -88,7 +88,7 @@ cgmfs                100         0       100   0% /run/cgmanager/fs
 Latest-Images
 -------------
 
-![test](../RAWSTORAGE/MT20180613%20/Cam164_MT20180613100603_C130_326_327.jpg) \#\#TEMPERATURES:
+![test](figures/Cam1.png) \#\#TEMPERATURES:
 
 ``` text
 NO SENSOR INFORMATION THIS YEAR
