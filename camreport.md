@@ -1,6 +1,6 @@
 Camera Status report
 ================
-22/06/2018 - 19:56:25
+22/06/2018 - 20:58:56
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -8,14 +8,9 @@ Camera Status report
 -   [Latest-Images](#latest-images)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    Warning in file(file, "rt"): cannot open file 'camreport.csv': No such file
-    or directory
+    All cameras are up and running
 
-    Error in file(file, "rt"): cannot open the connection
-
-    Error in eval(lhs, parent, parent): object 'report' not found
-
-    Error in nrow(downlist): object 'downlist' not found
+![](camreport_files/figure-markdown_github/unnamed-chunk-2-1.png)
 
 Latest number of pictures from the Cameras
 ------------------------------------------
@@ -79,13 +74,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9502576  88319408  10% /
+/dev/root      103081248   9507748  88314236  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728         0   1019728   0% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 214115644 471523100  32% /home
+/dev/sda3      722355288 214276604 471362140  32% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
@@ -239,7 +234,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 151775528
+total 151936488
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -1573,6 +1568,7 @@ total 151775528
 -rw-r--r-- 1 user1 users 156313600 Jun 22 16:25 MT20180622162054.tar
 -rw-r--r-- 1 user1 users 156682240 Jun 22 16:55 MT20180622165055.tar
 -rw-r--r-- 1 user1 users 159518720 Jun 22 18:00 MT20180622175548.tar
+-rw-r--r-- 1 user1 users 164823040 Jun 22 19:05 MT20180622190040.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
