@@ -1,12 +1,12 @@
 Camera Status report
 ================
-25/06/2018 - 14:01:05
+25/06/2018 - 15:13:22
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
 -   [QR-detection](#qr-detection)
+-   [Pot-detection](#pot-detection)
 -   [Latest-Images](#latest-images)
--   [TEMPERATURES:](#temperatures)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
     All cameras are up and running
@@ -16,7 +16,7 @@ Camera Status report
 Latest number of pictures from the Cameras
 ------------------------------------------
 
-Images from day: MT20180623
+Images from day: MT20180624
 
        Camera nPictures Camera nPictures Camera nPictures Camera nPictures
     1    Cam1        14  Cam46        14  Cam91        14 Cam136        14
@@ -75,28 +75,48 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9499308  88322676  10% /
+/dev/root      103081248   9499284  88322700  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728         0   1019728   0% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 224633276 461005468  33% /home
+/dev/sda3      722355288 224937528 460701216  33% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
 QR-detection
 ------------
 
-Critical cameras, where the position QR code is not included
+    Critical QR cameras where the center codes are missing!
 
-Cameras where the QR code is not properly detected
+    Error in ccodes(.): could not find function "ccodes"
+
+    Error in print(ccodes): object 'ccodes' not found
+
+    Cameras where other QR codes are missing!
+
+    Error in ccodes(.): could not find function "ccodes"
+
+    Error in print(ccodes): object 'ccodes' not found
+
+Pot-detection
+-------------
+
+    Total number of pots identified
+
+    685 
+
+    List of cameras with failed pot identifictation
+
+    Error in ccodes(.): could not find function "ccodes"
+
+    Error in print(ccodes): object 'ccodes' not found
 
 Latest-Images
 -------------
 
-TEMPERATURES:
--------------
+Cam1\_MT20180624163441\_C35\_254\_255.jpg ![](pictures/Cam1_MT20180624163441_C35_254_255.jpg) Cam2\_MT20180624163441\_C76\_14\_140.jpg ![](pictures/Cam2_MT20180624163441_C76_14_140.jpg) Cam3\_MT20180624163441\_C6\_108\_109.jpg ![](pictures/Cam3_MT20180624163441_C6_108_109.jpg) Cam4\_MT20180624163441\_C15\_116.jpg ![](pictures/Cam4_MT20180624163441_C15_116.jpg) Cam5\_MT20180624163441\_C60\_102\_103.jpg ![](pictures/Cam5_MT20180624163441_C60_102_103.jpg) Cam6\_MT20180624163441\_C84\_145\_147.jpg ![](pictures/Cam6_MT20180624163441_C84_145_147.jpg) Cam7\_MT20180624163441\_C51\_238\_260.jpg ![](pictures/Cam7_MT20180624163441_C51_238_260.jpg) Cam8\_MT20180624163441\_C64\_240\_241.jpg ![](pictures/Cam8_MT20180624163441_C64_240_241.jpg) Cam9\_MT20180624163441\_C50\_125.jpg ![](pictures/Cam9_MT20180624163441_C50_125.jpg) Cam10\_MT20180624163441\_C58\_101\_300.jpg ![](pictures/Cam10_MT20180624163441_C58_101_300.jpg) Cam11\_MT20180624163441\_135.jpg ![](pictures/Cam11_MT20180624163441_135.jpg) Cam12\_MT20180624163441\_C53\_104\_105.jpg ![](pictures/Cam12_MT20180624163441_C53_104_105.jpg) Cam13\_MT20180624163441\_C34\_252\_253\_254.jpg ![](pictures/Cam13_MT20180624163441_C34_252_253_254.jpg) Cam14\_MT20180624163441\_C54\_106\_107.jpg ![](pictures/Cam14_MT20180624163441_C54_106_107.jpg) Cam15\_MT20180624163441\_C44\_267.jpg ![](pictures/Cam15_MT20180624163441_C44_267.jpg) Cam16\_MT20180624163441\_C16\_1\_10.jpg ![](pictures/Cam16_MT20180624163441_C16_1_10.jpg) Cam17\_MT20180624163441\_.jpg ![](pictures/Cam17_MT20180624163441_.jpg) Cam18\_MT20180624163441\_265\_266.jpg ![](pictures/Cam18_MT20180624163441_265_266.jpg) Cam19\_MT20180624163441\_C36\_256.jpg ![](pictures/Cam19_MT20180624163441_C36_256.jpg) Cam20\_MT20180624163441\_C57\_249.jpg ![](pictures/Cam20_MT20180624163441_C57_249.jpg) Cam21\_MT20180624163441\_C45\_236\_237.jpg ![](pictures/Cam21_MT20180624163441_C45_236_237.jpg) Cam22\_MT20180624163441\_C42\_55\_232\_233.jpg ![](pictures/Cam22_MT20180624163441_C42_55_232_233.jpg) Cam23\_MT20180624163441\_C19\_100.jpg ![](pictures/Cam23_MT20180624163441_C19_100.jpg) Cam24\_MT20180624163441\_.jpg ![](pictures/Cam24_MT20180624163441_.jpg) Cam25\_MT20180624163441\_.jpg ![](pictures/Cam25_MT20180624163441_.jpg) Cam26\_MT20180624163441\_C23\_118\_120.jpg ![](pictures/Cam26_MT20180624163441_C23_118_120.jpg) Cam27\_MT20180624163441\_C27\_245\_246.jpg ![](pictures/Cam27_MT20180624163441_C27_245_246.jpg) Cam28\_MT20180624163441\_C24\_12\_119.jpg ![](pictures/Cam28_MT20180624163441_C24_12_119.jpg) Cam29\_MT20180624163441\_138\_139.jpg ![](pictures/Cam29_MT20180624163441_138_139.jpg) Cam30\_MT20180624163441\_C56\_11\_110.jpg ![](pictures/Cam30_MT20180624163441_C56_11_110.jpg) Cam31\_MT20180624163441\_C31\_263\_264.jpg ![](pictures/Cam31_MT20180624163441_C31_263_264.jpg) Cam32\_MT20180624163441\_C80\_141\_142.jpg ![](pictures/Cam32_MT20180624163441_C80_141_142.jpg) Cam33\_MT20180624163441\_C25\_243\_244.jpg ![](pictures/Cam33_MT20180624163441_C25_243_244.jpg) Cam34\_MT20180624163441\_C49\_259.jpg ![](pictures/Cam34_MT20180624163441_C49_259.jpg) Cam35\_MT20180624163441\_C28\_247\_248.jpg ![](pictures/Cam35_MT20180624163441_C28_247_248.jpg) Cam36\_MT20180624163441\_251.jpg ![](pictures/Cam36_MT20180624163441_251.jpg) Cam37\_MT20180624163441\_C29\_261\_262.jpg ![](pictures/Cam37_MT20180624163441_C29_261_262.jpg) Cam38\_MT20180624163441\_C30\_173\_263.jpg ![](pictures/Cam38_MT20180624163441_C30_173_263.jpg) Cam39\_MT20180624163441\_C17\_168\_169.jpg ![](pictures/Cam39_MT20180624163441_C17_168_169.jpg) Cam40\_MT20180624163441\_C21\_17.jpg ![](pictures/Cam40_MT20180624163441_C21_17.jpg) Cam140\_MT20180624163441\_346\_347.jpg ![](pictures/Cam140_MT20180624163441_346_347.jpg) Cam141\_MT20180624163441\_C137\_21.jpg ![](pictures/Cam141_MT20180624163441_C137_21.jpg) Cam142\_MT20180624163441\_C164\_190.jpg ![](pictures/Cam142_MT20180624163441_C164_190.jpg) Cam143\_MT20180624163441\_19\_209.jpg ![](pictures/Cam143_MT20180624163441_19_209.jpg) Cam144\_MT20180624163441\_C140\_191.jpg ![](pictures/Cam144_MT20180624163441_C140_191.jpg) Cam145\_MT20180624163441\_192\_350.jpg ![](pictures/Cam145_MT20180624163441_192_350.jpg) Cam146\_MT20180624163441\_C99\_351\_352.jpg ![](pictures/Cam146_MT20180624163441_C99_351_352.jpg) Cam147\_MT20180624163441\_C122\_353\_354.jpg ![](pictures/Cam147_MT20180624163441_C122_353_354.jpg) Cam148\_MT20180624163441\_C108\_355\_356.jpg ![](pictures/Cam148_MT20180624163441_C108_355_356.jpg) Cam149\_MT20180624163441\_C146\_52\_357.jpg ![](pictures/Cam149_MT20180624163441_C146_52_357.jpg) Cam150\_MT20180624163441\_C132\_298\_299.jpg ![](pictures/Cam150_MT20180624163441_C132_298_299.jpg) Cam151\_MT20180624163441\_C150\_296\_297.jpg ![](pictures/Cam151_MT20180624163441_C150_296_297.jpg) Cam152\_MT20180624163441\_C104\_295.jpg ![](pictures/Cam152_MT20180624163441_C104_295.jpg) Cam153\_MT20180624163441\_365.jpg ![](pictures/Cam153_MT20180624163441_365.jpg) Cam154\_MT20180624163441\_316\_317.jpg ![](pictures/Cam154_MT20180624163441_316_317.jpg) Cam155\_MT20180624163441\_C121\_318\_319.jpg ![](pictures/Cam155_MT20180624163441_C121_318_319.jpg) Cam156\_MT20180624163441\_C156\_342\_343.jpg ![](pictures/Cam156_MT20180624163441_C156_342_343.jpg) Cam157\_MT20180624163441\_C153\_341.jpg ![](pictures/Cam157_MT20180624163441_C153_341.jpg) Cam158\_MT20180624163441\_C90\_338\_339.jpg ![](pictures/Cam158_MT20180624163441_C90_338_339.jpg) Cam159\_MT20180624163441\_335\_337.jpg ![](pictures/Cam159_MT20180624163441_335_337.jpg) Cam160\_MT20180624163441\_C157\_334\_336.jpg ![](pictures/Cam160_MT20180624163441_C157_334_336.jpg) Cam161\_MT20180624163441\_333.jpg ![](pictures/Cam161_MT20180624163441_333.jpg) Cam162\_MT20180624163441\_C119\_329\_331.jpg ![](pictures/Cam162_MT20180624163441_C119_329_331.jpg) Cam163\_MT20180624163441\_C175\_283\_330.jpg ![](pictures/Cam163_MT20180624163441_C175_283_330.jpg) Cam164\_MT20180624163441\_C130\_326\_327.jpg ![](pictures/Cam164_MT20180624163441_C130_326_327.jpg) Cam165\_MT20180624163441\_C101\_324\_325.jpg ![](pictures/Cam165_MT20180624163441_C101_324_325.jpg) Cam166\_MT20180624163441\_C143\_322\_323.jpg ![](pictures/Cam166_MT20180624163441_C143_322_323.jpg) Cam167\_MT20180624163441\_64\_320\_321.jpg ![](pictures/Cam167_MT20180624163441_64_320_321.jpg) Cam168\_MT20180624163441\_C113\_293\_309.jpg ![](pictures/Cam168_MT20180624163441_C113_293_309.jpg) Cam169\_MT20180624163441\_C97\_292.jpg ![](pictures/Cam169_MT20180624163441_C97_292.jpg) Cam170\_MT20180624163441\_C176\_288\_289.jpg ![](pictures/Cam170_MT20180624163441_C176_288_289.jpg) Cam171\_MT20180624163441\_C100\_286\_287.jpg ![](pictures/Cam171_MT20180624163441_C100_286_287.jpg) Cam172\_MT20180624163441\_C91\_284\_285.jpg ![](pictures/Cam172_MT20180624163441_C91_284_285.jpg) Cam173\_MT20180624163441\_C174\_282.jpg ![](pictures/Cam173_MT20180624163441_C174_282.jpg) Cam174\_MT20180624163441\_C123\_280\_281.jpg ![](pictures/Cam174_MT20180624163441_C123_280_281.jpg) Cam175\_MT20180624163441\_C155\_279.jpg ![](pictures/Cam175_MT20180624163441_C155_279.jpg) Cam176\_MT20180624163441\_C173\_276\_277.jpg ![](pictures/Cam176_MT20180624163441_C173_276_277.jpg) Cam177\_MT20180624163441\_274.jpg ![](pictures/Cam177_MT20180624163441_274.jpg) Cam178\_MT20180624163441\_C69\_272\_273.jpg ![](pictures/Cam178_MT20180624163441_C69_272_273.jpg) Cam179\_MT20180624163441\_C120\_270\_271.jpg ![](pictures/Cam179_MT20180624163441_C120_270_271.jpg) Cam180\_MT20180624163441\_C136\_268\_269.jpg ![](pictures/Cam180_MT20180624163441_C136_268_269.jpg) \#\#TEMPERATURES:
 
 ``` text
 NO SENSOR INFORMATION THIS YEAR
@@ -106,7 +126,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 162293156
+total 162597408
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -1520,6 +1540,8 @@ total 162293156
 -rw-r--r-- 1 user1 users 157071360 Jun 25 12:55 MT20180625125104.tar
 -rw-r--r-- 1 user1 users 156037120 Jun 25 13:25 MT20180625132103.tar
 -rw-r--r-- 1 user1 users 156170240 Jun 25 13:55 MT20180625135104.tar
+-rw-r--r-- 1 user1 users 155412480 Jun 25 14:25 MT20180625142105.tar
+-rw-r--r-- 1 user1 users 156139520 Jun 25 14:55 MT20180625145103.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
