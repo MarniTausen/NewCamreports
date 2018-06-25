@@ -1,6 +1,6 @@
 Camera Status report
 ================
-25/06/2018 - 15:58:45
+25/06/2018 - 16:05:41
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -9,14 +9,9 @@ Camera Status report
 -   [Latest-Images](#latest-images)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    Warning in file(file, "rt"): cannot open file 'camreport.csv': No such file
-    or directory
+    All cameras are up and running
 
-    Error in file(file, "rt"): cannot open the connection
-
-    Error in eval(lhs, parent, parent): object 'report' not found
-
-    Error in nrow(downlist): object 'downlist' not found
+![](camreport_files/figure-markdown_github/unnamed-chunk-2-1.png)
 
 Latest number of pictures from the Cameras
 ------------------------------------------
@@ -80,13 +75,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9499284  88322700  10% /
+/dev/root      103081248   9499736  88322248  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728         0   1019728   0% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 224937528 460701216  33% /home
+/dev/sda3      722355288 225244648 460394096  33% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
@@ -106,98 +101,85 @@ QR-detection
     Cameras where other QR codes are missing!
 
        Camera CCODE QRCODES POTS
-    1  Cam141     1       2   10
-    2    Cam4     1       2   10
-    3  Cam144     1       2   10
-    4    Cam9     1       2   10
-    5  Cam152     1       2   10
-    6  Cam153     1       2   10
-    7  Cam157     1       2    0
-    8   Cam19     1       2    9
-    9   Cam20     1       2   10
-    10  Cam22     1       2   10
-    11  Cam23     1       2   10
-    12  Cam24     1       1   10
-    13 Cam173     1       2   10
-    14 Cam177     1       2   10
-    15  Cam51     1       2   10
-    16  Cam54     1       2    0
-    17  Cam60     1       2    0
-    18  Cam61     1       2    9
-    19  Cam67     1       2   10
-    20  Cam76     1       2   10
-    21  Cam77     1       2   10
-    22  Cam80     1       2    0
-    23  Cam81     1       2   10
-    24  Cam83     1       1   10
-    25  Cam85     1       2   10
-    26  Cam89     1       2   10
-    27  Cam91     1       2   10
-    28  Cam94     1       2   10
-    29  Cam98     1       2   10
-    30  Cam99     1       2   10
-    31 Cam100     1       2   10
-    32 Cam105     1       2   10
-    33 Cam113     1       2   10
-    34 Cam115     1       2    0
-    35 Cam129     1       2   10
-    36 Cam131     1       2    0
-    37 Cam134     1       2   10
-    38 Cam141     1       2   10
-    39 Cam144     1       2   10
-    40 Cam152     1       2   10
-    41 Cam153     1       2   10
-    42 Cam157     1       2    0
-    43 Cam173     1       2   10
-    44 Cam177     1       2   10
+    1    Cam4     1       2   10
+    2    Cam9     1       2   10
+    3   Cam19     1       2    9
+    4   Cam20     1       2   10
+    5   Cam22     1       2   10
+    6   Cam23     1       2   10
+    7   Cam24     1       1   10
+    8   Cam51     1       2   10
+    9   Cam54     1       2    0
+    10  Cam60     1       2    0
+    11  Cam61     1       2    9
+    12  Cam67     1       2   10
+    13  Cam76     1       2   10
+    14  Cam77     1       2   10
+    15  Cam80     1       2    0
+    16  Cam81     1       2   10
+    17  Cam83     1       1   10
+    18  Cam85     1       2   10
+    19  Cam89     1       2   10
+    20  Cam91     1       2   10
+    21  Cam94     1       2   10
+    22  Cam98     1       2   10
+    23  Cam99     1       2   10
+    24 Cam100     1       2   10
+    25 Cam105     1       2   10
+    26 Cam113     1       2   10
+    27 Cam115     1       2    0
+    28 Cam129     1       2   10
+    29 Cam131     1       2    0
+    30 Cam134     1       2   10
+    31 Cam141     1       2   10
+    32 Cam144     1       2   10
+    33 Cam152     1       2   10
+    34 Cam153     1       2   10
+    35 Cam157     1       2    0
+    36 Cam173     1       2   10
+    37 Cam177     1       2   10
 
 Pot-detection
 -------------
 
     Total number of pots identified
 
-    1939 
+    1583 
 
     List of cameras with failed pot identifictation
 
        Camera CCODE QRCODES POTS
-    1  Cam150     1       3    9
-    2   Cam17     0       2    0
-    3  Cam157     1       2    0
-    4   Cam19     1       2    9
-    5  Cam161     1       3    9
-    6  Cam169     1       3    0
-    7  Cam175     1       3    9
-    8   Cam36     0       2    0
-    9   Cam38     1       4    0
-    10 Cam179     1       3    9
-    11  Cam49     0       2    0
-    12  Cam54     1       2    0
-    13  Cam55     0       2    0
-    14  Cam60     1       2    0
-    15  Cam61     1       2    9
-    16  Cam69     0       3    0
-    17  Cam79     1       3    9
-    18  Cam80     1       2    0
-    19  Cam90     1       3    9
-    20  Cam95     1       3    9
-    21  Cam96     1       3    8
-    22 Cam108     1       3    9
-    23 Cam109     1       3    9
-    24 Cam112     1       3    0
-    25 Cam115     1       2    0
-    26 Cam120     1       3    9
-    27 Cam127     1       3    9
-    28 Cam130     1       3    9
-    29 Cam131     1       2    0
-    30 Cam136     1       3    9
-    31 Cam145     0       2    0
-    32 Cam150     1       3    9
-    33 Cam157     1       2    0
-    34 Cam161     1       3    9
-    35 Cam169     1       3    0
-    36 Cam175     1       3    9
-    37 Cam179     1       3    9
+    1   Cam17     0       2    0
+    2   Cam19     1       2    9
+    3   Cam36     0       2    0
+    4   Cam38     1       4    0
+    5   Cam49     0       2    0
+    6   Cam54     1       2    0
+    7   Cam55     0       2    0
+    8   Cam60     1       2    0
+    9   Cam61     1       2    9
+    10  Cam69     0       3    0
+    11  Cam79     1       3    9
+    12  Cam80     1       2    0
+    13  Cam90     1       3    9
+    14  Cam95     1       3    9
+    15  Cam96     1       3    8
+    16 Cam108     1       3    9
+    17 Cam109     1       3    9
+    18 Cam112     1       3    0
+    19 Cam115     1       2    0
+    20 Cam120     1       3    9
+    21 Cam127     1       3    9
+    22 Cam130     1       3    9
+    23 Cam131     1       2    0
+    24 Cam136     1       3    9
+    25 Cam145     0       2    0
+    26 Cam150     1       3    9
+    27 Cam157     1       2    0
+    28 Cam161     1       3    9
+    29 Cam169     1       3    0
+    30 Cam175     1       3    9
+    31 Cam179     1       3    9
 
 Latest-Images
 -------------
@@ -212,7 +194,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 162597408
+total 162904528
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -1628,6 +1610,8 @@ total 162597408
 -rw-r--r-- 1 user1 users 156170240 Jun 25 13:55 MT20180625135104.tar
 -rw-r--r-- 1 user1 users 155412480 Jun 25 14:25 MT20180625142105.tar
 -rw-r--r-- 1 user1 users 156139520 Jun 25 14:55 MT20180625145103.tar
+-rw-r--r-- 1 user1 users 157859840 Jun 25 15:25 MT20180625152103.tar
+-rw-r--r-- 1 user1 users 156631040 Jun 25 15:55 MT20180625155103.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
