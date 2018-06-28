@@ -1,6 +1,6 @@
 Camera Status report
 ================
-28/06/2018 - 09:30:27
+28/06/2018 - 10:43:48
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -90,25 +90,110 @@ QR-detection
 
     Critical QR cameras where the center codes are missing!
 
-    [1] Camera  CCODE   QRCODES POTS   
-    <0 rows> (or 0-length row.names)
+      Camera CCODE QRCODES POTS
+    1 Cam161     0       2    0
 
     Cameras where other QR codes are missing!
 
-    [1] Camera  CCODE   QRCODES POTS   
-    <0 rows> (or 0-length row.names)
+       Camera CCODE QRCODES POTS
+    1    Cam3     1       2   10
+    2    Cam8     1       2   10
+    3   Cam14     1       2   10
+    4   Cam15     1       2   10
+    5   Cam19     1       2   10
+    6   Cam20     1       2   10
+    7   Cam22     1       2    0
+    8   Cam24     1       2    0
+    9   Cam30     1       2   10
+    10  Cam31     1       2   10
+    11  Cam32     1       2   10
+    12  Cam35     1       2   10
+    13  Cam40     1       2   10
+    14  Cam45     1       2   10
+    15  Cam52     1       2    0
+    16  Cam53     1       2   10
+    17  Cam57     1       2   10
+    18  Cam60     1       2   10
+    19  Cam61     1       2    9
+    20  Cam62     1       2    0
+    21  Cam64     1       1    0
+    22  Cam67     1       2   10
+    23  Cam70     1       2   10
+    24  Cam71     1       2   10
+    25  Cam72     1       2   10
+    26  Cam76     1       2   10
+    27  Cam82     1       2   10
+    28  Cam83     1       2   10
+    29  Cam85     1       2    0
+    30  Cam88     1       1    9
+    31  Cam90     1       2    9
+    32  Cam94     1       2   10
+    33  Cam99     1       2   10
+    34 Cam103     1       2   10
+    35 Cam111     1       2    0
+    36 Cam112     1       2   10
+    37 Cam113     1       2   10
+    38 Cam114     1       2   10
+    39 Cam117     1       1   10
+    40 Cam120     1       2    9
+    41 Cam125     1       2   10
+    42 Cam127     1       2   10
+    43 Cam129     1       2   10
+    44 Cam131     1       2   10
+    45 Cam132     1       2   10
+    46 Cam140     1       2   10
+    47 Cam142     1       2   10
+    48 Cam146     1       2   10
+    49 Cam151     1       1   10
+    50 Cam154     1       2   10
+    51 Cam155     1       2   10
+    52 Cam156     1       2   10
+    53 Cam158     1       2   10
+    54 Cam160     1       2   10
+    55 Cam162     1       2   10
+    56 Cam168     1       2   10
+    57 Cam169     1       2   10
+    58 Cam171     1       1   10
+    59 Cam175     1       2    9
 
 Pot-detection
 -------------
 
     Total number of pots identified
 
-    0 
+    1598 
 
     List of cameras with failed pot identifictation
 
-    [1] Camera  CCODE   QRCODES POTS   
-    <0 rows> (or 0-length row.names)
+       Camera CCODE QRCODES POTS
+    1   Cam11     1       3    0
+    2   Cam22     1       2    0
+    3   Cam24     1       2    0
+    4   Cam25     1       3    0
+    5   Cam26     1       3    0
+    6   Cam52     1       2    0
+    7   Cam61     1       2    9
+    8   Cam62     1       2    0
+    9   Cam64     1       1    0
+    10  Cam85     1       2    0
+    11  Cam86     1       3    0
+    12  Cam88     1       1    9
+    13  Cam90     1       2    9
+    14  Cam96     1       3    9
+    15 Cam101     1       3    0
+    16 Cam108     1       3    9
+    17 Cam109     1       3    9
+    18 Cam111     1       2    0
+    19 Cam116     1       3    9
+    20 Cam120     1       2    9
+    21 Cam134     1       3    9
+    22 Cam157     1       3    0
+    23 Cam161     0       2    0
+    24 Cam165     1       3    9
+    25 Cam172     1       3    0
+    26 Cam175     1       2    9
+    27 Cam177     1       3    0
+    28 Cam179     1       3    9
 
 Latest-Images
 -------------
