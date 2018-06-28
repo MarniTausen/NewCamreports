@@ -1,6 +1,6 @@
 Camera Status report
 ================
-28/06/2018 - 09:16:50
+28/06/2018 - 09:24:19
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -9,16 +9,9 @@ Camera Status report
 -   [Latest-Images](#latest-images)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    Error in library(dplyr): there is no package called 'dplyr'
+    All cameras are up and running
 
-    Warning in file(file, "rt"): cannot open file 'camreport.csv': No such file
-    or directory
-
-    Error in file(file, "rt"): cannot open the connection
-
-    Error in report %>% filter(Status == "down"): could not find function "%>%"
-
-    Error in nrow(downlist): object 'downlist' not found
+![](camreport_files/figure-markdown_github/unnamed-chunk-3-1.svg)
 
 Latest number of pictures from the Cameras
 ------------------------------------------
@@ -74,9 +67,8 @@ Images from day: MT20180627
 
     Problematic cameras
 
-    Error in data %>% filter(nPictures < maxv): could not find function "%>%"
-
-    Error in print(fdata): object 'fdata' not found
+    [1] Camera    nPictures
+    <0 rows> (or 0-length row.names)
 
 LIST OF DIRECTORIES AND FREE SPACE:
 -----------------------------------
@@ -98,15 +90,13 @@ QR-detection
 
     Critical QR cameras where the center codes are missing!
 
-    Error in data %>% filter(CCODE == 0): could not find function "%>%"
-
-    Error in print(ccodes): object 'ccodes' not found
+    [1] Camera  CCODE   QRCODES POTS   
+    <0 rows> (or 0-length row.names)
 
     Cameras where other QR codes are missing!
 
-    Error in data %>% filter(CCODE == 1, QRCODES < 3): could not find function "%>%"
-
-    Error in print(ccodes): object 'ccodes' not found
+    [1] Camera  CCODE   QRCODES POTS   
+    <0 rows> (or 0-length row.names)
 
 Pot-detection
 -------------
@@ -117,9 +107,8 @@ Pot-detection
 
     List of cameras with failed pot identifictation
 
-    Error in data %>% filter(POTS < 10): could not find function "%>%"
-
-    Error in print(ccodes): object 'ccodes' not found
+    [1] Camera  CCODE   QRCODES POTS   
+    <0 rows> (or 0-length row.names)
 
 Latest-Images
 -------------
