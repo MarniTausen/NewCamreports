@@ -1,6 +1,6 @@
 Camera Status report
 ================
-12/07/2018 - 14:02:10
+12/07/2018 - 15:00:38
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -75,13 +75,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9490516  88331468  10% /
+/dev/root      103081248   9488760  88333224  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 285774396 399864348  42% /home
+/dev/sda3      722355288 286059328 399579416  42% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
@@ -209,7 +209,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 223433044
+total 223717976
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -2097,6 +2097,8 @@ total 223433044
 -rw-r--r-- 1 user1 users 147578880 Jul 12 12:56 MT20180712125158.tar
 -rw-r--r-- 1 user1 users 147343360 Jul 12 13:26 MT20180712132158.tar
 -rw-r--r-- 1 user1 users 147169280 Jul 12 13:56 MT20180712135158.tar
+-rw-r--r-- 1 user1 users 146401280 Jul 12 14:26 MT20180712142216.tar
+-rw-r--r-- 1 user1 users 145356800 Jul 12 14:56 MT20180712145158.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
