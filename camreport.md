@@ -1,6 +1,6 @@
 Camera Status report
 ================
-20/07/2018 - 11:59:53
+20/07/2018 - 12:05:27
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -9,9 +9,14 @@ Camera Status report
 -   [Latest-Images](#latest-images)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    All cameras are up and running
+    Warning in file(file, "rt"): cannot open file 'camreport.csv': No such file
+    or directory
 
-![](camreport_files/figure-markdown_github/unnamed-chunk-3-1.svg)
+    Error in file(file, "rt"): cannot open the connection
+
+    Error in eval(lhs, parent, parent): object 'report' not found
+
+    Error in nrow(downlist): object 'downlist' not found
 
 Latest number of pictures from the Cameras
 ------------------------------------------
@@ -206,6 +211,8 @@ QR-detection
     113 Cam175     0       1    0
     114 Cam175     0       1    0
     115 Cam175     0       1    0
+    116 Cam135     0       2    0
+    117 Cam175     0       1    0
 
     Cameras where other QR codes are missing!
 
@@ -1384,13 +1391,40 @@ QR-detection
     1172 Cam177     1       2   10
     1173 Cam109     1       2   10
     1174 Cam111     1       2   10
+    1175 Cam113     1       2   10
+    1176 Cam114     1       2   10
+    1177 Cam120     1       2    9
+    1178 Cam121     1       2   10
+    1179 Cam122     1       2   10
+    1180 Cam123     1       2   10
+    1181 Cam124     1       2   10
+    1182 Cam126     1       1    9
+    1183 Cam131     1       2   10
+    1184 Cam132     1       2   10
+    1185 Cam139     1       2   10
+    1186 Cam142     1       2   10
+    1187 Cam146     1       2   10
+    1188 Cam151     1       2   10
+    1189 Cam153     1       1   10
+    1190 Cam154     1       2   10
+    1191 Cam156     1       2   10
+    1192 Cam157     1       2   10
+    1193 Cam158     1       2   10
+    1194 Cam160     1       2   10
+    1195 Cam161     1       2    9
+    1196 Cam165     1       2   10
+    1197 Cam168     1       1   10
+    1198 Cam171     1       2    0
+    1199 Cam172     1       2   10
+    1200 Cam176     1       2   10
+    1201 Cam177     1       2   10
 
 Pot-detection
 -------------
 
     Total number of pots identified
 
-    25701 
+    26315 
 
     List of cameras with failed pot identifictation
 
@@ -1876,6 +1910,18 @@ Pot-detection
     479 Cam175     0       1    0
     480 Cam175     0       1    0
     481 Cam175     0       1    0
+    482 Cam117     1       3    0
+    483 Cam118     1       3    9
+    484 Cam120     1       2    9
+    485 Cam126     1       1    9
+    486 Cam128     1       3    9
+    487 Cam130     1       3    0
+    488 Cam134     1       3    9
+    489 Cam135     0       2    0
+    490 Cam148     1       3    0
+    491 Cam161     1       2    9
+    492 Cam171     1       2    0
+    493 Cam175     0       1    0
 
 Latest-Images
 -------------
