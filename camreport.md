@@ -1,6 +1,6 @@
 Camera Status report
 ================
-20/07/2018 - 14:59:46
+20/07/2018 - 15:06:27
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -9,9 +9,14 @@ Camera Status report
 -   [Latest-Images](#latest-images)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    All cameras are up and running
+    Warning in file(file, "rt"): cannot open file 'camreport.csv': No such file
+    or directory
 
-![](camreport_files/figure-markdown_github/unnamed-chunk-3-1.svg)
+    Error in file(file, "rt"): cannot open the connection
+
+    Error in eval(lhs, parent, parent): object 'report' not found
+
+    Error in nrow(downlist): object 'downlist' not found
 
 Latest number of pictures from the Cameras
 ------------------------------------------
@@ -93,6 +98,10 @@ QR-detection
       Camera CCODE QRCODES POTS
     1  Cam13     0       1    0
     2 Cam175     0       1    0
+    3  Cam89     0       2    0
+    4 Cam100     0       2    0
+    5 Cam135     0       2    0
+    6 Cam175     0       1    0
 
     Cameras where other QR codes are missing!
 
@@ -112,22 +121,109 @@ QR-detection
     13 Cam176     1       2   10
     14 Cam177     1       2   10
     15  Cam18     1       2    9
+    16  Cam22     1       2   10
+    17  Cam27     1       2    0
+    18  Cam30     1       2   10
+    19  Cam32     1       2   10
+    20  Cam35     1       2    0
+    21  Cam36     1       2    0
+    22  Cam38     1       2   10
+    23  Cam43     1       2    0
+    24  Cam45     1       2   10
+    25  Cam49     1       1   10
+    26  Cam53     1       2   10
+    27  Cam56     1       1   10
+    28  Cam62     1       2   10
+    29  Cam63     1       2   10
+    30  Cam64     1       1    0
+    31  Cam67     1       2   10
+    32  Cam70     1       2   10
+    33  Cam76     1       2   10
+    34  Cam78     1       2   10
+    35  Cam80     1       1    0
+    36  Cam82     1       2    0
+    37  Cam83     1       2   10
+    38  Cam85     1       2   10
+    39  Cam86     1       2   10
+    40  Cam88     1       2   10
+    41  Cam90     1       1   10
+    42  Cam94     1       2   10
+    43  Cam96     1       2    0
+    44 Cam101     1       2   10
+    45 Cam102     1       2   10
+    46 Cam103     1       2   10
+    47 Cam108     1       2   10
+    48 Cam109     1       2   10
+    49 Cam111     1       2   10
+    50 Cam113     1       2   10
+    51 Cam114     1       2   10
+    52 Cam120     1       2    9
+    53 Cam121     1       2   10
+    54 Cam122     1       2   10
+    55 Cam123     1       2   10
+    56 Cam124     1       2   10
+    57 Cam126     1       1    9
+    58 Cam131     1       2   10
+    59 Cam132     1       2   10
+    60 Cam139     1       2   10
+    61 Cam142     1       2   10
+    62 Cam146     1       2   10
+    63 Cam151     1       2   10
+    64 Cam153     1       1   10
+    65 Cam154     1       2   10
+    66 Cam156     1       2   10
+    67 Cam157     1       2   10
+    68 Cam158     1       2   10
+    69 Cam160     1       2   10
+    70 Cam161     1       2    9
+    71 Cam165     1       2   10
+    72 Cam168     1       1   10
+    73 Cam171     1       2    0
+    74 Cam172     1       2   10
+    75 Cam176     1       2   10
+    76 Cam177     1       2   10
 
 Pot-detection
 -------------
 
     Total number of pots identified
 
-    368 
+    1741 
 
     List of cameras with failed pot identifictation
 
-      Camera CCODE QRCODES POTS
-    1 Cam161     1       2    9
-    2 Cam171     1       2    0
-    3  Cam13     0       1    0
-    4 Cam175     0       1    0
-    5  Cam18     1       2    9
+       Camera CCODE QRCODES POTS
+    1  Cam161     1       2    9
+    2  Cam171     1       2    0
+    3   Cam13     0       1    0
+    4  Cam175     0       1    0
+    5   Cam18     1       2    9
+    6   Cam26     1       3    0
+    7   Cam27     1       2    0
+    8   Cam35     1       2    0
+    9   Cam36     1       2    0
+    10  Cam43     1       2    0
+    11  Cam64     1       1    0
+    12  Cam68     1       3    0
+    13  Cam71     1       3    0
+    14  Cam80     1       1    0
+    15  Cam82     1       2    0
+    16  Cam89     0       2    0
+    17  Cam96     1       2    0
+    18  Cam98     1       3    9
+    19 Cam100     0       2    0
+    20 Cam117     1       3    0
+    21 Cam118     1       3    9
+    22 Cam120     1       2    9
+    23 Cam126     1       1    9
+    24 Cam128     1       3    9
+    25 Cam130     1       3    0
+    26 Cam134     1       3    9
+    27 Cam135     0       2    0
+    28 Cam148     1       3    0
+    29 Cam161     1       2    9
+    30 Cam171     1       2    0
+    31 Cam175     0       1    0
 
 Latest-Images
 -------------
