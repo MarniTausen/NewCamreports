@@ -1,6 +1,6 @@
 Camera Status report
 ================
-20/07/2018 - 11:31:12
+20/07/2018 - 11:32:52
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -191,6 +191,10 @@ QR-detection
     93 Cam175     0       1    0
     94 Cam175     0       1    0
     95  Cam89     0       2    0
+    96 Cam175     0       1    0
+    97 Cam175     0       1    0
+    98 Cam175     0       1    0
+    99 Cam175     0       1    0
 
     Cameras where other QR codes are missing!
 
@@ -1257,13 +1261,53 @@ QR-detection
     1060 Cam172     1       2   10
     1061 Cam172     1       2   10
     1062 Cam171     1       2    0
+    1063 Cam165     1       2   10
+    1064 Cam176     1       2   10
+    1065 Cam160     1       2   10
+    1066 Cam168     1       1   10
+    1067 Cam160     1       2   10
+    1068 Cam160     1       2   10
+    1069 Cam160     1       2   10
+    1070 Cam176     1       2   10
+    1071  Cam90     1       1   10
+    1072 Cam168     1       1   10
+    1073 Cam168     1       1   10
+    1074 Cam168     1       1   10
+    1075 Cam168     1       1   10
+    1076 Cam168     1       1   10
+    1077 Cam172     1       2   10
+    1078 Cam177     1       2   10
+    1079 Cam165     1       2   10
+    1080 Cam161     1       2    9
+    1081 Cam165     1       2   10
+    1082 Cam165     1       2   10
+    1083 Cam165     1       2   10
+    1084 Cam177     1       2   10
+    1085 Cam161     1       2    9
+    1086 Cam161     1       2    9
+    1087 Cam161     1       2    9
+    1088 Cam176     1       2   10
+    1089 Cam176     1       2   10
+    1090 Cam176     1       2   10
+    1091 Cam168     1       1   10
+    1092 Cam171     1       2    0
+    1093 Cam171     1       2    0
+    1094 Cam171     1       2    0
+    1095 Cam171     1       2    0
+    1096 Cam171     1       2    0
+    1097 Cam171     1       2    0
+    1098 Cam177     1       2   10
+    1099 Cam177     1       2   10
+    1100 Cam177     1       2   10
+    1101 Cam168     1       1   10
+    1102 Cam172     1       2   10
 
 Pot-detection
 -------------
 
     Total number of pots identified
 
-    23256 
+    24072 
 
     List of cameras with failed pot identifictation
 
@@ -1708,6 +1752,20 @@ Pot-detection
     438 Cam175     0       1    0
     439  Cam89     0       2    0
     440 Cam171     1       2    0
+    441 Cam175     0       1    0
+    442 Cam175     0       1    0
+    443 Cam175     0       1    0
+    444 Cam161     1       2    9
+    445 Cam161     1       2    9
+    446 Cam161     1       2    9
+    447 Cam161     1       2    9
+    448 Cam171     1       2    0
+    449 Cam171     1       2    0
+    450 Cam171     1       2    0
+    451 Cam171     1       2    0
+    452 Cam171     1       2    0
+    453 Cam171     1       2    0
+    454 Cam175     0       1    0
 
 Latest-Images
 -------------
