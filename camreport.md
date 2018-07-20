@@ -1,6 +1,6 @@
 Camera Status report
 ================
-20/07/2018 - 11:34:22
+20/07/2018 - 11:35:47
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -201,6 +201,12 @@ QR-detection
     103 Cam175     0       1    0
     104 Cam175     0       1    0
     105 Cam175     0       1    0
+    106 Cam175     0       1    0
+    107 Cam100     0       2    0
+    108 Cam175     0       1    0
+    109 Cam175     0       1    0
+    110 Cam175     0       1    0
+    111 Cam175     0       1    0
 
     Cameras where other QR codes are missing!
 
@@ -1330,13 +1336,37 @@ QR-detection
     1123 Cam171     1       2    0
     1124 Cam171     1       2    0
     1125 Cam172     1       2   10
+    1126 Cam176     1       2   10
+    1127 Cam176     1       2   10
+    1128 Cam176     1       2   10
+    1129 Cam176     1       2   10
+    1130 Cam176     1       2   10
+    1131 Cam176     1       2   10
+    1132 Cam172     1       2   10
+    1133 Cam172     1       2   10
+    1134 Cam172     1       2   10
+    1135 Cam168     1       1   10
+    1136 Cam168     1       1   10
+    1137 Cam168     1       1   10
+    1138 Cam168     1       1   10
+    1139 Cam177     1       2   10
+    1140 Cam177     1       2   10
+    1141 Cam177     1       2   10
+    1142 Cam177     1       2   10
+    1143 Cam177     1       2   10
+    1144 Cam177     1       2   10
+    1145 Cam176     1       2   10
+    1146 Cam101     1       2   10
+    1147 Cam177     1       2   10
+    1148 Cam176     1       2   10
+    1149 Cam171     1       2    0
 
 Pot-detection
 -------------
 
     Total number of pots identified
 
-    24661 
+    25171 
 
     List of cameras with failed pot identifictation
 
@@ -1808,6 +1838,13 @@ Pot-detection
     465 Cam171     1       2    0
     466 Cam171     1       2    0
     467  Cam98     1       3    9
+    468 Cam175     0       1    0
+    469 Cam100     0       2    0
+    470 Cam175     0       1    0
+    471 Cam175     0       1    0
+    472 Cam175     0       1    0
+    473 Cam175     0       1    0
+    474 Cam171     1       2    0
 
 Latest-Images
 -------------
