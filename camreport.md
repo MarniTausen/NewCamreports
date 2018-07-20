@@ -1,6 +1,6 @@
 Camera Status report
 ================
-20/07/2018 - 11:27:52
+20/07/2018 - 11:28:44
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -9,9 +9,14 @@ Camera Status report
 -   [Latest-Images](#latest-images)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    All cameras are up and running
+    Warning in file(file, "rt"): cannot open file 'camreport.csv': No such file
+    or directory
 
-![](camreport_files/figure-markdown_github/unnamed-chunk-3-1.svg)
+    Error in file(file, "rt"): cannot open the connection
+
+    Error in eval(lhs, parent, parent): object 'report' not found
+
+    Error in nrow(downlist): object 'downlist' not found
 
 Latest number of pictures from the Cameras
 ------------------------------------------
@@ -1151,13 +1156,30 @@ QR-detection
     963 Cam154     1       2   10
     964 Cam156     1       2   10
     965 Cam165     1       2   10
+    966 Cam161     1       2    9
+    967 Cam154     1       2   10
+    968 Cam154     1       2   10
+    969 Cam158     1       2   10
+    970 Cam171     1       2    0
+    971 Cam158     1       2   10
+    972 Cam158     1       2   10
+    973 Cam158     1       2   10
+    974 Cam158     1       2   10
+    975 Cam158     1       2   10
+    976 Cam153     1       1   10
+    977 Cam153     1       1   10
+    978 Cam153     1       1   10
+    979  Cam82     1       2    0
+    980 Cam153     1       1   10
+    981 Cam157     1       2   10
+    982 Cam156     1       2   10
 
 Pot-detection
 -------------
 
     Total number of pots identified
 
-    21335 
+    21604 
 
     List of cameras with failed pot identifictation
 
@@ -1581,6 +1603,9 @@ Pot-detection
     417 Cam161     1       2    9
     418 Cam161     1       2    9
     419  Cam80     1       1    0
+    420 Cam161     1       2    9
+    421 Cam171     1       2    0
+    422  Cam82     1       2    0
 
 Latest-Images
 -------------
