@@ -1,6 +1,6 @@
 Camera Status report
 ================
-20/07/2018 - 11:33:25
+20/07/2018 - 11:34:22
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -95,106 +95,112 @@ QR-detection
 
     Critical QR cameras where the center codes are missing!
 
-       Camera CCODE QRCODES POTS
-    1  Cam100     0       2    0
-    2  Cam100     0       2    0
-    3  Cam100     0       2    0
-    4  Cam100     0       2    0
-    5  Cam100     0       2    0
-    6  Cam100     0       2    0
-    7  Cam100     0       2    0
-    8  Cam100     0       2    0
-    9   Cam89     0       2    0
-    10 Cam100     0       2    0
-    11  Cam89     0       2    0
-    12  Cam89     0       2    0
-    13  Cam89     0       2    0
-    14  Cam89     0       2    0
-    15  Cam89     0       2    0
-    16  Cam89     0       2    0
-    17  Cam89     0       2    0
-    18  Cam89     0       2    0
-    19  Cam89     0       2    0
-    20  Cam89     0       2    0
-    21 Cam100     0       2    0
-    22 Cam100     0       2    0
-    23  Cam89     0       2    0
-    24  Cam89     0       2    0
-    25  Cam89     0       2    0
-    26  Cam89     0       2    0
-    27  Cam89     0       2    0
-    28  Cam89     0       2    0
-    29  Cam89     0       2    0
-    30  Cam89     0       2    0
-    31  Cam13     0       1    0
-    32 Cam100     0       2    0
-    33 Cam100     0       2    0
-    34 Cam100     0       2    0
-    35 Cam100     0       2    0
-    36 Cam100     0       2    0
-    37 Cam100     0       2    0
-    38 Cam100     0       2    0
-    39 Cam100     0       2    0
-    40 Cam100     0       2    0
-    41 Cam100     0       2    0
-    42 Cam100     0       2    0
-    43 Cam100     0       2    0
-    44 Cam100     0       2    0
-    45 Cam100     0       2    0
-    46 Cam100     0       2    0
-    47 Cam100     0       2    0
-    48 Cam100     0       2    0
-    49 Cam100     0       2    0
-    50 Cam100     0       2    0
-    51 Cam135     0       2    0
-    52 Cam135     0       2    0
-    53 Cam135     0       2    0
-    54 Cam135     0       2    0
-    55 Cam135     0       2    0
-    56 Cam135     0       2    0
-    57 Cam135     0       2    0
-    58 Cam135     0       2    0
-    59 Cam135     0       2    0
-    60 Cam135     0       2    0
-    61 Cam135     0       2    0
-    62 Cam135     0       2    0
-    63 Cam135     0       2    0
-    64 Cam135     0       2    0
-    65 Cam135     0       2    0
-    66 Cam135     0       2    0
-    67 Cam129     0       0    0
-    68 Cam135     0       2    0
-    69 Cam135     0       2    0
-    70 Cam135     0       2    0
-    71 Cam135     0       2    0
-    72 Cam135     0       2    0
-    73 Cam135     0       2    0
-    74 Cam135     0       2    0
-    75 Cam135     0       2    0
-    76 Cam135     0       2    0
-    77 Cam135     0       2    0
-    78 Cam135     0       2    0
-    79 Cam135     0       2    0
-    80 Cam135     0       2    0
-    81 Cam135     0       2    0
-    82 Cam135     0       2    0
-    83 Cam175     0       1    0
-    84 Cam175     0       1    0
-    85 Cam175     0       1    0
-    86 Cam175     0       1    0
-    87 Cam175     0       1    0
-    88 Cam175     0       1    0
-    89 Cam175     0       1    0
-    90 Cam175     0       1    0
-    91 Cam175     0       1    0
-    92 Cam175     0       1    0
-    93 Cam175     0       1    0
-    94 Cam175     0       1    0
-    95  Cam89     0       2    0
-    96 Cam175     0       1    0
-    97 Cam175     0       1    0
-    98 Cam175     0       1    0
-    99 Cam175     0       1    0
+        Camera CCODE QRCODES POTS
+    1   Cam100     0       2    0
+    2   Cam100     0       2    0
+    3   Cam100     0       2    0
+    4   Cam100     0       2    0
+    5   Cam100     0       2    0
+    6   Cam100     0       2    0
+    7   Cam100     0       2    0
+    8   Cam100     0       2    0
+    9    Cam89     0       2    0
+    10  Cam100     0       2    0
+    11   Cam89     0       2    0
+    12   Cam89     0       2    0
+    13   Cam89     0       2    0
+    14   Cam89     0       2    0
+    15   Cam89     0       2    0
+    16   Cam89     0       2    0
+    17   Cam89     0       2    0
+    18   Cam89     0       2    0
+    19   Cam89     0       2    0
+    20   Cam89     0       2    0
+    21  Cam100     0       2    0
+    22  Cam100     0       2    0
+    23   Cam89     0       2    0
+    24   Cam89     0       2    0
+    25   Cam89     0       2    0
+    26   Cam89     0       2    0
+    27   Cam89     0       2    0
+    28   Cam89     0       2    0
+    29   Cam89     0       2    0
+    30   Cam89     0       2    0
+    31   Cam13     0       1    0
+    32  Cam100     0       2    0
+    33  Cam100     0       2    0
+    34  Cam100     0       2    0
+    35  Cam100     0       2    0
+    36  Cam100     0       2    0
+    37  Cam100     0       2    0
+    38  Cam100     0       2    0
+    39  Cam100     0       2    0
+    40  Cam100     0       2    0
+    41  Cam100     0       2    0
+    42  Cam100     0       2    0
+    43  Cam100     0       2    0
+    44  Cam100     0       2    0
+    45  Cam100     0       2    0
+    46  Cam100     0       2    0
+    47  Cam100     0       2    0
+    48  Cam100     0       2    0
+    49  Cam100     0       2    0
+    50  Cam100     0       2    0
+    51  Cam135     0       2    0
+    52  Cam135     0       2    0
+    53  Cam135     0       2    0
+    54  Cam135     0       2    0
+    55  Cam135     0       2    0
+    56  Cam135     0       2    0
+    57  Cam135     0       2    0
+    58  Cam135     0       2    0
+    59  Cam135     0       2    0
+    60  Cam135     0       2    0
+    61  Cam135     0       2    0
+    62  Cam135     0       2    0
+    63  Cam135     0       2    0
+    64  Cam135     0       2    0
+    65  Cam135     0       2    0
+    66  Cam135     0       2    0
+    67  Cam129     0       0    0
+    68  Cam135     0       2    0
+    69  Cam135     0       2    0
+    70  Cam135     0       2    0
+    71  Cam135     0       2    0
+    72  Cam135     0       2    0
+    73  Cam135     0       2    0
+    74  Cam135     0       2    0
+    75  Cam135     0       2    0
+    76  Cam135     0       2    0
+    77  Cam135     0       2    0
+    78  Cam135     0       2    0
+    79  Cam135     0       2    0
+    80  Cam135     0       2    0
+    81  Cam135     0       2    0
+    82  Cam135     0       2    0
+    83  Cam175     0       1    0
+    84  Cam175     0       1    0
+    85  Cam175     0       1    0
+    86  Cam175     0       1    0
+    87  Cam175     0       1    0
+    88  Cam175     0       1    0
+    89  Cam175     0       1    0
+    90  Cam175     0       1    0
+    91  Cam175     0       1    0
+    92  Cam175     0       1    0
+    93  Cam175     0       1    0
+    94  Cam175     0       1    0
+    95   Cam89     0       2    0
+    96  Cam175     0       1    0
+    97  Cam175     0       1    0
+    98  Cam175     0       1    0
+    99  Cam175     0       1    0
+    100 Cam175     0       1    0
+    101 Cam175     0       1    0
+    102 Cam175     0       1    0
+    103 Cam175     0       1    0
+    104 Cam175     0       1    0
+    105 Cam175     0       1    0
 
     Cameras where other QR codes are missing!
 
@@ -1312,13 +1318,25 @@ QR-detection
     1111 Cam172     1       2   10
     1112 Cam176     1       2   10
     1113 Cam171     1       2    0
+    1114 Cam165     1       2   10
+    1115 Cam177     1       2   10
+    1116 Cam165     1       2   10
+    1117 Cam165     1       2   10
+    1118 Cam165     1       2   10
+    1119  Cam96     1       2    0
+    1120 Cam172     1       2   10
+    1121 Cam171     1       2    0
+    1122 Cam171     1       2    0
+    1123 Cam171     1       2    0
+    1124 Cam171     1       2    0
+    1125 Cam172     1       2   10
 
 Pot-detection
 -------------
 
     Total number of pots identified
 
-    24352 
+    24661 
 
     List of cameras with failed pot identifictation
 
@@ -1778,6 +1796,18 @@ Pot-detection
     453 Cam171     1       2    0
     454 Cam175     0       1    0
     455 Cam171     1       2    0
+    456  Cam96     1       2    0
+    457 Cam171     1       2    0
+    458 Cam175     0       1    0
+    459 Cam175     0       1    0
+    460 Cam175     0       1    0
+    461 Cam175     0       1    0
+    462 Cam175     0       1    0
+    463 Cam175     0       1    0
+    464 Cam171     1       2    0
+    465 Cam171     1       2    0
+    466 Cam171     1       2    0
+    467  Cam98     1       3    9
 
 Latest-Images
 -------------
