@@ -1,6 +1,6 @@
 Camera Status report
 ================
-20/07/2018 - 11:37:53
+20/07/2018 - 11:39:53
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -208,6 +208,9 @@ QR-detection
     110 Cam175     0       1    0
     111 Cam175     0       1    0
     112 Cam175     0       1    0
+    113 Cam175     0       1    0
+    114 Cam175     0       1    0
+    115 Cam175     0       1    0
 
     Cameras where other QR codes are missing!
 
@@ -1375,13 +1378,24 @@ QR-detection
     1161 Cam172     1       2   10
     1162 Cam103     1       2   10
     1163 Cam177     1       2   10
+    1164 Cam176     1       2   10
+    1165 Cam176     1       2   10
+    1166 Cam176     1       2   10
+    1167 Cam176     1       2   10
+    1168 Cam108     1       2   10
+    1169 Cam177     1       2   10
+    1170 Cam177     1       2   10
+    1171 Cam177     1       2   10
+    1172 Cam177     1       2   10
+    1173 Cam109     1       2   10
+    1174 Cam111     1       2   10
 
 Pot-detection
 -------------
 
     Total number of pots identified
 
-    25491 
+    25701 
 
     List of cameras with failed pot identifictation
 
@@ -1864,6 +1878,9 @@ Pot-detection
     476 Cam171     1       2    0
     477 Cam171     1       2    0
     478 Cam175     0       1    0
+    479 Cam175     0       1    0
+    480 Cam175     0       1    0
+    481 Cam175     0       1    0
 
 Latest-Images
 -------------
