@@ -1,6 +1,6 @@
 Camera Status report
 ================
-21/07/2018 - 07:59:26
+21/07/2018 - 08:59:43
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -75,13 +75,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9506828  88315156  10% /
+/dev/root      103081248   9504312  88317672  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 318178992 367459752  47% /home
+/dev/sda3      722355288 318178972 367459772  47% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
