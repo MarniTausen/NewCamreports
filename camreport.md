@@ -1,11 +1,12 @@
 Camera Status report
 ================
-24/07/2018 - 13:00:19
+24/07/2018 - 14:00:20
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
 -   [QR-detection](#qr-detection)
 -   [Pot-detection](#pot-detection)
+-   [Particular Pot sizes](#particular-pot-sizes)
 -   [Latest-Images](#latest-images)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
@@ -75,13 +76,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9504752  88317232  10% /
+/dev/root      103081248   9504940  88317044  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 330611376 355027368  49% /home
+/dev/sda3      722355288 330927620 354711124  49% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
@@ -215,6 +216,19 @@ Pot-detection
     28 Cam164     0       2    0
     29 Cam175     0       1    0
 
+Particular Pot sizes
+--------------------
+
+    Current pot sizes
+
+              Pot   Size
+    1   Cam3_Pot8  86406
+    2 Cam133_Pot8  52513
+    3 Cam100_Pot6  95492
+    4  Cam91_Pot3  30387
+    5  Cam80_Pot4 112736
+    6  Cam31_Pot5  57962
+
 Latest-Images
 -------------
 
@@ -228,7 +242,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 268269692
+total 268585712
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -2462,6 +2476,8 @@ total 268269692
 -rw-r--r-- 1 user1 users 162908160 Jul 24 11:58 MT20180724115309.tar
 -rw-r--r-- 1 user1 users 162375680 Jul 24 12:28 MT20180724122311.tar
 -rw-r--r-- 1 user1 users 161751040 Jul 24 12:58 MT20180724125309.tar
+-rw-r--r-- 1 user1 users 161648640 Jul 24 13:27 MT20180724132309.tar
+-rw-r--r-- 1 user1 users 161955840 Jul 24 13:58 MT20180724135308.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
