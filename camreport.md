@@ -1,6 +1,6 @@
 Camera Status report
 ================
-24/07/2018 - 15:00:25
+24/07/2018 - 16:00:35
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -76,13 +76,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9506764  88315220  10% /
+/dev/root      103081248   9504808  88317176  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 331246272 354392472  49% /home
+/dev/sda3      722355288 331562948 354075796  49% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
@@ -219,15 +219,27 @@ Pot-detection
 Particular Pot sizes
 --------------------
 
-    Current pot sizes
+    Error in `$<-.data.frame`(`*tmp*`, Pot, value = c("Aaran_0413-SM42-1", : replacement has 11 rows, data has 10
 
-              Pot   Size
-    1   Cam3_Pot8  86406
-    2 Cam133_Pot8  52513
-    3 Cam100_Pot6  95492
-    4  Cam91_Pot3  30387
-    5  Cam80_Pot4 112736
-    6  Cam31_Pot5  57962
+    Error in `$<-.data.frame`(`*tmp*`, Pot, value = c("Aaran_0413-SM42-2", : replacement has 11 rows, data has 10
+
+    Error in `$<-.data.frame`(`*tmp*`, Date, value = c("01/Jul", "01/Jul", : replacement has 11 rows, data has 10
+
+    Error in `$<-.data.frame`(`*tmp*`, Date, value = c("23/Jul", "23/Jul", : replacement has 11 rows, data has 10
+
+    Harvest 1 (Left) vs Harvest 2 (Right)
+
+                Pot   Size         Pot   Size
+    1   Cam137_Pot2 171506  Cam57_Pot9  76266
+    2    Cam98_Pot2 119401  Cam61_Pot6  84236
+    3    Cam98_Pot4  72950  Cam35_Pot8  89517
+    4    Cam33_Pot1 101582   Cam3_Pot8  86406
+    5    Cam41_Pot5  92166 Cam177_Pot7 113588
+    6    Cam53_Pot1 120904  Cam78_Pot9  79846
+    7     Cam2_Pot9  75092  Cam21_Pot8 107499
+    8    Cam84_Pot7 139202  Cam85_Pot3  19413
+    9    Cam49_Pot8 111945 Cam169_Pot6  69775
+    10 Cam125_Pot10  81617  Cam37_Pot4 111496
 
 Latest-Images
 -------------
@@ -242,7 +254,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 268904376
+total 269221048
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -2480,6 +2492,8 @@ total 268904376
 -rw-r--r-- 1 user1 users 161955840 Jul 24 13:58 MT20180724135308.tar
 -rw-r--r-- 1 user1 users 162519040 Jul 24 14:28 MT20180724142310.tar
 -rw-r--r-- 1 user1 users 163788800 Jul 24 14:58 MT20180724145312.tar
+-rw-r--r-- 1 user1 users 162478080 Jul 24 15:28 MT20180724152310.tar
+-rw-r--r-- 1 user1 users 161792000 Jul 24 15:57 MT20180724155309.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
