@@ -1,6 +1,6 @@
 Camera Status report
 ================
-24/07/2018 - 16:00:35
+24/07/2018 - 16:39:08
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -76,7 +76,7 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9504808  88317176  10% /
+/dev/root      103081248   9504816  88317168  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
@@ -219,27 +219,23 @@ Pot-detection
 Particular Pot sizes
 --------------------
 
-    Error in `$<-.data.frame`(`*tmp*`, Pot, value = c("Aaran_0413-SM42-1", : replacement has 11 rows, data has 10
-
-    Error in `$<-.data.frame`(`*tmp*`, Pot, value = c("Aaran_0413-SM42-2", : replacement has 11 rows, data has 10
-
     Error in `$<-.data.frame`(`*tmp*`, Date, value = c("01/Jul", "01/Jul", : replacement has 11 rows, data has 10
 
     Error in `$<-.data.frame`(`*tmp*`, Date, value = c("23/Jul", "23/Jul", : replacement has 11 rows, data has 10
 
     Harvest 1 (Left) vs Harvest 2 (Right)
 
-                Pot   Size         Pot   Size
-    1   Cam137_Pot2 171506  Cam57_Pot9  76266
-    2    Cam98_Pot2 119401  Cam61_Pot6  84236
-    3    Cam98_Pot4  72950  Cam35_Pot8  89517
-    4    Cam33_Pot1 101582   Cam3_Pot8  86406
-    5    Cam41_Pot5  92166 Cam177_Pot7 113588
-    6    Cam53_Pot1 120904  Cam78_Pot9  79846
-    7     Cam2_Pot9  75092  Cam21_Pot8 107499
-    8    Cam84_Pot7 139202  Cam85_Pot3  19413
-    9    Cam49_Pot8 111945 Cam169_Pot6  69775
-    10 Cam125_Pot10  81617  Cam37_Pot4 111496
+                       Pot   Size                 Pot   Size
+    1    Aaran_0413-SM42-1  53323   Aaran_0413-SM42-2 117340
+    2    Banca_0626-SM67-1  42620   Banca_0626-SM67-2 101644
+    3  Aalon_0617-RCR221-1  66096 Aalon_0617-RCR221-2  24796
+    4     Rling_0306-MIX-1  95153    Rling_0306-MIX-2 126126
+    5   Ctain_0747-SM109-1  62699  Ctain_0747-SM109-2  85394
+    6  Aearl_0749-SM165A-1  80878 Aearl_0749-SM165A-2 111237
+    7    Rling_0951-SM42-1  46687 Aearl_0749-SM165A-2 122798
+    8    Aearl_0749-SM37-1  48179   Rling_0951-SM42-2  80536
+    9   Aearl_0749-SM125-1 100444   Aearl_0749-SM37-2  52145
+    10  Aearl_0749-SM125-1  66302  Aearl_0749-SM125-2  93394
 
 Latest-Images
 -------------
