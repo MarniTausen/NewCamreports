@@ -1,6 +1,6 @@
 Camera Status report
 ================
-24/07/2018 - 16:39:08
+24/07/2018 - 16:43:28
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -10,7 +10,9 @@ Camera Status report
 -   [Latest-Images](#latest-images)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    All cameras are up and running
+    Cameras currently down:
+      Names Status
+    1 cam47   down
 
 ![](camreport_files/figure-markdown_github/unnamed-chunk-3-1.svg)
 
@@ -76,13 +78,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9504816  88317168  10% /
+/dev/root      103081248   9907456  87914528  11% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 331562948 354075796  49% /home
+/dev/sda3      722355288 331720944 353917800  49% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
@@ -219,23 +221,19 @@ Pot-detection
 Particular Pot sizes
 --------------------
 
-    Error in `$<-.data.frame`(`*tmp*`, Date, value = c("01/Jul", "01/Jul", : replacement has 11 rows, data has 10
-
-    Error in `$<-.data.frame`(`*tmp*`, Date, value = c("23/Jul", "23/Jul", : replacement has 11 rows, data has 10
-
     Harvest 1 (Left) vs Harvest 2 (Right)
 
-                       Pot   Size                 Pot   Size
-    1    Aaran_0413-SM42-1  53323   Aaran_0413-SM42-2 117340
-    2    Banca_0626-SM67-1  42620   Banca_0626-SM67-2 101644
-    3  Aalon_0617-RCR221-1  66096 Aalon_0617-RCR221-2  24796
-    4     Rling_0306-MIX-1  95153    Rling_0306-MIX-2 126126
-    5   Ctain_0747-SM109-1  62699  Ctain_0747-SM109-2  85394
-    6  Aearl_0749-SM165A-1  80878 Aearl_0749-SM165A-2 111237
-    7    Rling_0951-SM42-1  46687 Aearl_0749-SM165A-2 122798
-    8    Aearl_0749-SM37-1  48179   Rling_0951-SM42-2  80536
-    9   Aearl_0749-SM125-1 100444   Aearl_0749-SM37-2  52145
-    10  Aearl_0749-SM125-1  66302  Aearl_0749-SM125-2  93394
+                       Pot   Size   Date                 Pot   Size   Date
+    1    Aaran_0413-SM42-1  53323 01/Jul   Aaran_0413-SM42-2 117340 23/Jul
+    2    Banca_0626-SM67-1  42620 01/Jul   Banca_0626-SM67-2 101644 23/Jul
+    3  Aalon_0617-RCR221-1  66096 01/Jul Aalon_0617-RCR221-2  24796 23/Jul
+    4     Rling_0306-MIX-1  95153 01/Jul    Rling_0306-MIX-2 126126 23/Jul
+    5   Ctain_0747-SM109-1  62699 01/Jul  Ctain_0747-SM109-2  85394 23/Jul
+    6  Aearl_0749-SM165A-1  80878 01/Jul Aearl_0749-SM165A-2 111237 23/Jul
+    7    Rling_0951-SM42-1  46687 01/Jul Aearl_0749-SM165A-2 122798 23/Jul
+    8    Aearl_0749-SM37-1  48179 01/Jul   Rling_0951-SM42-2  80536 23/Jul
+    9   Aearl_0749-SM125-1 100444 01/Jul   Aearl_0749-SM37-2  52145 23/Jul
+    10  Aearl_0749-SM125-1  66302 01/Jul  Aearl_0749-SM125-2  93394 23/Jul
 
 Latest-Images
 -------------
@@ -250,7 +248,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 269221048
+total 269379048
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -2490,6 +2488,7 @@ total 269221048
 -rw-r--r-- 1 user1 users 163788800 Jul 24 14:58 MT20180724145312.tar
 -rw-r--r-- 1 user1 users 162478080 Jul 24 15:28 MT20180724152310.tar
 -rw-r--r-- 1 user1 users 161792000 Jul 24 15:57 MT20180724155309.tar
+-rw-r--r-- 1 user1 users 161792000 Jul 24 16:28 MT20180724162310.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
