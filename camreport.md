@@ -1,6 +1,6 @@
 Camera Status report
 ================
-26/07/2018 - 17:01:35
+26/07/2018 - 18:00:19
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -84,7 +84,7 @@ tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 339400584 346238160  50% /home
+/dev/sda3      722355288 339400580 346238164  50% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
