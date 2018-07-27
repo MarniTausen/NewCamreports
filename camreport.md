@@ -1,6 +1,6 @@
 Camera Status report
 ================
-27/07/2018 - 13:02:56
+27/07/2018 - 14:00:25
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -78,13 +78,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9498380  88323604  10% /
+/dev/root      103081248   9492708  88329276  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 340933320 344705424  50% /home
+/dev/sda3      722355288 342114596 343524148  50% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
@@ -323,7 +323,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 278591572
+total 279772560
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -2638,6 +2638,14 @@ total 278591572
 -rw-r--r-- 1 user1 users 167116800 Jul 27 06:53 MT20180727064855.tar
 -rw-r--r-- 1 user1 users 161771520 Jul 27 07:58 MT20180727075353.tar
 -rw-r--r-- 1 user1 users 158361600 Jul 27 09:03 MT20180727085846.tar
+-rw-r--r-- 1 user1 users 155217920 Jul 27 10:28 MT20180727102323.tar
+-rw-r--r-- 1 user1 users 153323520 Jul 27 10:58 MT20180727105322.tar
+-rw-r--r-- 1 user1 users 152156160 Jul 27 11:28 MT20180727112325.tar
+-rw-r--r-- 1 user1 users 150865920 Jul 27 11:58 MT20180727115321.tar
+-rw-r--r-- 1 user1 users 150118400 Jul 27 12:28 MT20180727122320.tar
+-rw-r--r-- 1 user1 users 149340160 Jul 27 12:58 MT20180727125328.tar
+-rw-r--r-- 1 user1 users 148879360 Jul 27 13:28 MT20180727132321.tar
+-rw-r--r-- 1 user1 users 149422080 Jul 27 13:58 MT20180727135320.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
