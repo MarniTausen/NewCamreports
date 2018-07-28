@@ -1,6 +1,6 @@
 Camera Status report
 ================
-28/07/2018 - 08:00:22
+28/07/2018 - 11:41:53
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -21,70 +21,160 @@ Latest number of pictures from the Cameras
 
 Images from day: MT20180727
 
-       Camera nPictures Camera nPictures Camera nPictures Camera nPictures
-    1    Cam1        14  Cam46        14  Cam91        14 Cam136        14
-    2    Cam2        14  Cam47         0  Cam92        14 Cam137        14
-    3    Cam3        14  Cam48        14  Cam93        14 Cam138        14
-    4    Cam4        14  Cam49        14  Cam94        14 Cam139        14
-    5    Cam5        14  Cam50        14  Cam95        14 Cam140        14
-    6    Cam6        14  Cam51        14  Cam96        14 Cam141        14
-    7    Cam7        14  Cam52        14  Cam97        14 Cam142        14
-    8    Cam8        14  Cam53        14  Cam98        14 Cam143        14
-    9    Cam9        14  Cam54        14  Cam99        14 Cam144        14
-    10  Cam10        14  Cam55        14 Cam100        14 Cam145        14
-    11  Cam11        14  Cam56        14 Cam101        14 Cam146        14
-    12  Cam12        14  Cam57        14 Cam102        14 Cam147        14
-    13  Cam13        14  Cam58        14 Cam103        14 Cam148        14
-    14  Cam14        14  Cam59        14 Cam104        14 Cam149        14
-    15  Cam15        14  Cam60        14 Cam105        14 Cam150        14
-    16  Cam16        14  Cam61        14 Cam106        14 Cam151        14
-    17  Cam17        14  Cam62        14 Cam107        14 Cam152        14
-    18  Cam18        14  Cam63        14 Cam108        14 Cam153        14
-    19  Cam19        14  Cam64        14 Cam109        14 Cam154        14
-    20  Cam20        14  Cam65        14 Cam110        14 Cam155        14
-    21  Cam21        14  Cam66        14 Cam111        14 Cam156        14
-    22  Cam22        14  Cam67        14 Cam112        14 Cam157        14
-    23  Cam23        14  Cam68        14 Cam113        14 Cam158        14
-    24  Cam24        14  Cam69        14 Cam114        14 Cam159        14
-    25  Cam25        14  Cam70        14 Cam115        14 Cam160        14
-    26  Cam26        14  Cam71        14 Cam116        14 Cam161        14
-    27  Cam27        14  Cam72        14 Cam117        14 Cam162        14
-    28  Cam28        14  Cam73        14 Cam118        14 Cam163        14
-    29  Cam29        14  Cam74        14 Cam119        14 Cam164        14
-    30  Cam30        14  Cam75        14 Cam120        14 Cam165        14
-    31  Cam31        14  Cam76        14 Cam121        14 Cam166        14
-    32  Cam32        14  Cam77        14 Cam122        14 Cam167        14
-    33  Cam33        14  Cam78        14 Cam123        14 Cam168        14
-    34  Cam34        14  Cam79        14 Cam124        14 Cam169        14
-    35  Cam35        14  Cam80        14 Cam125        14 Cam170        14
-    36  Cam36        14  Cam81        14 Cam126        14 Cam171        14
-    37  Cam37        14  Cam82        14 Cam127        14 Cam172        14
-    38  Cam38        14  Cam83        14 Cam128        14 Cam173        14
-    39  Cam39        14  Cam84        14 Cam129        14 Cam174        14
-    40  Cam40        14  Cam85        14 Cam130        14 Cam175        14
-    41  Cam41        14  Cam86        14 Cam131        14 Cam176        14
-    42  Cam42        14  Cam87        14 Cam132        14 Cam177        14
-    43  Cam43        14  Cam88        14 Cam133        14 Cam178        14
-    44  Cam44        14  Cam89        14 Cam134        14 Cam179        14
-    45  Cam45        14  Cam90        14 Cam135        14 Cam180        14
+        Camera nPictures Camera nPictures Camera nPictures Camera nPictures
+    1     Cam4        14  Cam45        14  Cam91        14 Cam136        14
+    2     Cam3        14  Cam48        14  Cam92        14 Cam136        14
+    3     Cam1        14  Cam46        14  Cam92        14 Cam137        14
+    4     Cam2        14  Cam48        14  Cam92        14 Cam137        14
+    5     Cam5        14  Cam47         0  Cam93        14 Cam137        14
+    6     Cam4        14  Cam49        14  Cam93        14 Cam138        14
+    7     Cam6        14  Cam49        14  Cam93        14 Cam138        14
+    8     Cam3        14  Cam48        14  Cam94        14 Cam138        14
+    9     Cam5        14  Cam50        14  Cam94        14 Cam139        14
+    10    Cam7        14  Cam49        14  Cam94        14 Cam139        14
+    11    Cam4        14  Cam50        14  Cam95        14 Cam139        14
+    12    Cam6        14  Cam50        14  Cam95        14 Cam140        14
+    13    Cam5        14  Cam51        14  Cam95        14 Cam140        14
+    14    Cam8        14  Cam51        14  Cam96        14 Cam140        14
+    15    Cam7        14  Cam52        14  Cam96        14 Cam141        14
+    16    Cam9        14  Cam51        14  Cam96        14 Cam141        14
+    17    Cam6        14  Cam52        14  Cam97        14 Cam141        14
+    18    Cam8        14  Cam53        14  Cam97        14 Cam142        14
+    19    Cam7        14  Cam53        14  Cam97        14 Cam142        14
+    20   Cam10        14  Cam52        14  Cam98        14 Cam142        14
+    21    Cam9        14  Cam53        14  Cam98        14 Cam143        14
+    22   Cam10        14  Cam54        14  Cam98        14 Cam143        14
+    23    Cam8        14  Cam54        14  Cam99        14 Cam143        14
+    24   Cam11        14  Cam55        14  Cam99        14 Cam144        14
+    25   Cam12        14  Cam54        14  Cam99        14 Cam144        14
+    26    Cam9        14  Cam55        14 Cam100        14 Cam144        14
+    27   Cam11        14  Cam55        14 Cam100        14 Cam145        14
+    28   Cam10        14  Cam56        14 Cam100        14 Cam145        14
+    29   Cam13        14  Cam56        14 Cam101        14 Cam145        14
+    30   Cam12        14  Cam56        14 Cam101        14 Cam146        14
+    31   Cam14        14  Cam57        14 Cam101        14 Cam146        14
+    32   Cam11        14  Cam57        14 Cam102        14 Cam146        14
+    33   Cam13        14  Cam57        14 Cam102        14 Cam147        14
+    34   Cam15        14  Cam58        14 Cam102        14 Cam147        14
+    35   Cam12        14  Cam58        14 Cam103        14 Cam147        14
+    36   Cam14        14  Cam59        14 Cam103        14 Cam148        14
+    37   Cam13        14  Cam59        14 Cam103        14 Cam148        14
+    38   Cam15        14  Cam58        14 Cam104        14 Cam148        14
+    39   Cam16        14  Cam60        14 Cam104        14 Cam149        14
+    40   Cam17        14  Cam60        14 Cam104        14 Cam149        14
+    41   Cam16        14  Cam59        14 Cam105        14 Cam149        14
+    42   Cam14        14  Cam61        14 Cam105        14 Cam150        14
+    43   Cam17        14  Cam60        14 Cam105        14 Cam150        14
+    44   Cam15        14  Cam61        14 Cam106        14 Cam150        14
+    45   Cam18        14  Cam62        14 Cam106        14 Cam151        14
+    46   Cam19        14  Cam61        14 Cam106        14 Cam151        14
+    47   Cam18        14  Cam62        14 Cam107        14 Cam151        14
+    48   Cam16        14  Cam63        14 Cam107        14 Cam152        14
+    49   Cam19        14  Cam62        14 Cam107        14 Cam152        14
+    50   Cam17        14  Cam63        14 Cam108        14 Cam152        14
+    51   Cam20        14  Cam63        14 Cam108        14 Cam153        14
+    52   Cam18        14  Cam64        14 Cam108        14 Cam153        14
+    53   Cam21        14  Cam64        14 Cam109        14 Cam153        14
+    54   Cam20        14  Cam64        14 Cam109        14 Cam154        14
+    55   Cam19        14  Cam65        14 Cam109        14 Cam154        14
+    56   Cam21        14  Cam65        14 Cam110        14 Cam154        14
+    57   Cam22        14  Cam65        14 Cam110        14 Cam155        14
+    58   Cam20        14  Cam66        14 Cam110        14 Cam155        14
+    59   Cam23        14  Cam66        14 Cam111        14 Cam155        14
+    60   Cam22        14  Cam67        14 Cam111        14 Cam156        14
+    61   Cam21        14  Cam66        14 Cam111        14 Cam156        14
+    62   Cam24        14  Cam67        14 Cam112        14 Cam156        14
+    63   Cam23        14  Cam68        14 Cam112        14 Cam157        14
+    64   Cam22        14  Cam67        14 Cam112        14 Cam157        14
+    65   Cam25        14  Cam68        14 Cam113        14 Cam157        14
+    66   Cam24        14  Cam69        14 Cam113        14 Cam158        14
+    67   Cam23        14  Cam68        14 Cam113        14 Cam158        14
+    68   Cam26        14  Cam69        14 Cam114        14 Cam158        14
+    69   Cam24        14  Cam69        14 Cam114        14 Cam159        14
+    70   Cam25        14  Cam70        14 Cam114        14 Cam159        14
+    71   Cam27        14  Cam70        14 Cam115        14 Cam159        14
+    72   Cam26        14  Cam71        14 Cam115        14 Cam160        14
+    73   Cam25        14  Cam71        14 Cam115        14 Cam160        14
+    74   Cam26        14  Cam70        14 Cam116        14 Cam160        14
+    75   Cam28        14  Cam72        14 Cam117        14 Cam161        14
+    76   Cam27        14  Cam71        14 Cam116        14 Cam161        14
+    77   Cam29        14  Cam72        14 Cam116        14 Cam161        14
+    78   Cam27        14  Cam73        14 Cam117        14 Cam162        14
+    79   Cam28        14  Cam72        14 Cam118        14 Cam162        14
+    80   Cam29        14  Cam73        14 Cam117        14 Cam162        14
+    81   Cam30        14  Cam73        14 Cam119        14 Cam163        14
+    82   Cam28        14  Cam74        14 Cam118        14 Cam163        14
+    83   Cam31        14  Cam74        14 Cam118        14 Cam163        14
+    84   Cam29        14  Cam74        14 Cam119        14 Cam164        14
+    85   Cam30        14  Cam75        14 Cam120        14 Cam164        14
+    86   Cam32        14  Cam75        14 Cam119        14 Cam164        14
+    87   Cam30        14  Cam75        14 Cam121        14 Cam165        14
+    88   Cam31        14  Cam76        14 Cam120        14 Cam165        14
+    89   Cam31        14  Cam76        14 Cam120        14 Cam165        14
+    90   Cam33        14  Cam76        14 Cam122        14 Cam166        14
+    91   Cam32        14  Cam77        14 Cam121        14 Cam166        14
+    92   Cam34        14  Cam77        14 Cam121        14 Cam166        14
+    93   Cam32        14  Cam77        14 Cam122        14 Cam167        14
+    94   Cam33        14  Cam78        14 Cam123        14 Cam167        14
+    95   Cam34        14  Cam78        14 Cam122        14 Cam167        14
+    96   Cam35        14  Cam79        14 Cam123        14 Cam168        14
+    97   Cam33        14  Cam78        14 Cam123        14 Cam168        14
+    98   Cam35        14  Cam79        14 Cam124        14 Cam168        14
+    99   Cam34        14  Cam80        14 Cam124        14 Cam169        14
+    100  Cam36        14  Cam80        14 Cam125        14 Cam169        14
+    101  Cam37        14  Cam79        14 Cam124        14 Cam169        14
+    102  Cam35        14  Cam81        14 Cam125        14 Cam170        14
+    103  Cam36        14  Cam81        14 Cam126        14 Cam170        14
+    104  Cam36        14  Cam80        14 Cam125        14 Cam170        14
+    105  Cam38        14  Cam82        14 Cam126        14 Cam171        14
+    106  Cam37        14  Cam82        14 Cam126        14 Cam171        14
+    107  Cam38        14  Cam81        14 Cam127        14 Cam171        14
+    108  Cam39        14  Cam82        14 Cam127        14 Cam172        14
+    109  Cam37        14  Cam83        14 Cam127        14 Cam172        14
+    110  Cam39        14  Cam83        14 Cam128        14 Cam172        14
+    111  Cam40        14  Cam83        14 Cam129        14 Cam173        14
+    112  Cam38        14  Cam84        14 Cam128        14 Cam173        14
+    113  Cam41        14  Cam84        14 Cam128        14 Cam173        14
+    114  Cam39        14  Cam85        14 Cam129        14 Cam174        14
+    115  Cam40        14  Cam84        14 Cam130        14 Cam174        14
+    116  Cam40        14  Cam85        14 Cam129        14 Cam174        14
+    117  Cam41        14  Cam85        14 Cam130        14 Cam175        14
+    118  Cam42        14  Cam86        14 Cam130        14 Cam175        14
+    119  Cam42        14  Cam86        14 Cam131        14 Cam175        14
+    120  Cam41        14  Cam86        14 Cam131        14 Cam176        14
+    121  Cam43        14  Cam87        14 Cam131        14 Cam176        14
+    122  Cam43        14  Cam87        14 Cam132        14 Cam176        14
+    123  Cam44        14  Cam87        14 Cam132        14 Cam177        14
+    124  Cam42        14  Cam88        14 Cam132        14 Cam177        14
+    125  Cam44        14  Cam88        14 Cam133        14 Cam177        14
+    126  Cam45        14  Cam88        14 Cam133        14 Cam178        14
+    127  Cam45        14  Cam89        14 Cam133        14 Cam178        14
+    128  Cam43        14  Cam89        14 Cam134        14 Cam179        14
+    129  Cam46        14  Cam89        14 Cam134        14 Cam179        14
+    130  Cam44        14  Cam90        14 Cam134        14 Cam178        14
+    131  Cam46        14  Cam90        14 Cam135        14 Cam180        14
+    132  Cam47         0  Cam90        14 Cam135        14 Cam180        14
+    133  Cam47         0  Cam91        14 Cam135        14 Cam179        14
 
     Problematic cameras
 
       Camera nPictures
     1  Cam47         0
+    2  Cam47         0
+    3  Cam47         0
 
 LIST OF DIRECTORIES AND FREE SPACE:
 -----------------------------------
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9500936  88321048  10% /
+/dev/root      103081248   9878184  87943800  11% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 344295444 341343300  51% /home
+/dev/sda3      722355288 344898956 340739788  51% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
@@ -331,7 +421,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 281953412
+total 282556928
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -2674,6 +2764,10 @@ total 281953412
 -rw-r--r-- 1 user1 users 162539520 Jul 28 05:48 MT20180728054250.tar
 -rw-r--r-- 1 user1 users 158412800 Jul 28 06:52 MT20180728064807.tar
 -rw-r--r-- 1 user1 users 157839360 Jul 28 07:57 MT20180728075259.tar
+-rw-r--r-- 1 user1 users 156477440 Jul 28 09:02 MT20180728085750.tar
+-rw-r--r-- 1 user1 users 154327040 Jul 28 10:28 MT20180728102329.tar
+-rw-r--r-- 1 user1 users 154050560 Jul 28 10:58 MT20180728105328.tar
+-rw-r--r-- 1 user1 users 153139200 Jul 28 11:28 MT20180728112328.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
