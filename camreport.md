@@ -1,6 +1,6 @@
 Camera Status report
 ================
-29/07/2018 - 12:00:18
+29/07/2018 - 13:00:18
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -10,14 +10,14 @@ Camera Status report
 -   [Latest-Images](#latest-images)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    Warning in file(file, "rt"): cannot open file 'camreport.csv': No such file
-    or directory
+    Cameras currently down:
+       Names Status
+    1  cam32   down
+    2  cam45   down
+    3  cam70   down
+    4 cam111   down
 
-    Error in file(file, "rt"): cannot open the connection
-
-    Error in eval(lhs, parent, parent): object 'report' not found
-
-    Error in nrow(downlist): object 'downlist' not found
+![](camreport_files/figure-markdown_github/unnamed-chunk-3-1.svg)
 
 Latest number of pictures from the Cameras
 ------------------------------------------
@@ -81,10 +81,10 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9373700  88448284  10% /
+/dev/root      103081248   9373664  88448320  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
-tmpfs            1019728        68   1019660   1% /dev/shm
+tmpfs            1019728         0   1019728   0% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
 /dev/sda3      722355288 347198792 338439952  51% /home
