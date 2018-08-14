@@ -1,6 +1,6 @@
 Camera Status report
 ================
-14/08/2018 - 19:00:23
+14/08/2018 - 21:00:10
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -258,13 +258,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9346680  88475304  10% /
+/dev/root      103081248   9346804  88475180  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728         0   1019728   0% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 348821968 336816776  51% /home
+/dev/sda3      722355288 348822680 336816064  51% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
@@ -324,7 +324,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 286480512
+total 286481220
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -5711,6 +5711,65 @@ total 286480512
 -rw-r--r-- 1 user1 users     10240 Aug 14 18:54 MT20180814185111.tar
 -rw-r--r-- 1 user1 users     10240 Aug 14 18:55 MT20180814185149.tar
 -rw-r--r-- 1 user1 users     10240 Aug 14 18:55 MT20180814185212.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 18:56 MT20180814185353.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 18:59 MT20180814185530.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:00 MT20180814185615.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:00 MT20180814185641.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:07 MT20180814190451.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:08 MT20180814190548.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:10 MT20180814190756.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:12 MT20180814190945.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:12 MT20180814191030.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:14 MT20180814191211.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:17 MT20180814191525.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:20 MT20180814191757.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:21 MT20180814191907.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:23 MT20180814192031.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:24 MT20180814192056.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:24 MT20180814192105.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:25 MT20180814192304.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:26 MT20180814192422.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:28 MT20180814192541.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:32 MT20180814192944.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:33 MT20180814193144.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:38 MT20180814193615.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:40 MT20180814193801.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:42 MT20180814193956.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:43 MT20180814194127.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:49 MT20180814194700.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:51 MT20180814194902.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:52 MT20180814195034.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:53 MT20180814195106.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:55 MT20180814195334.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:57 MT20180814195442.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:58 MT20180814195537.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:59 MT20180814195549.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 19:59 MT20180814195655.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:01 MT20180814195923.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:04 MT20180814200012.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:04 MT20180814200021.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:04 MT20180814200052.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:09 MT20180814200703.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:10 MT20180814200800.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:12 MT20180814201010.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:14 MT20180814201200.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:15 MT20180814201252.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:16 MT20180814201428.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:20 MT20180814201746.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:22 MT20180814202014.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:23 MT20180814202125.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:24 MT20180814202220.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:25 MT20180814202330.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:27 MT20180814202430.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:28 MT20180814202434.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:29 MT20180814202527.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:29 MT20180814202646.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:31 MT20180814202841.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:34 MT20180814203200.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:35 MT20180814203212.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:36 MT20180814203358.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:40 MT20180814203828.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:42 MT20180814204013.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
