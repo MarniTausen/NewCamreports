@@ -1,6 +1,6 @@
 Camera Status report
 ================
-16/08/2018 - 10:42:10
+16/08/2018 - 10:42:20
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -25,115 +25,52 @@ Latest number of pictures from the Cameras
 
 Images from day: MT20180814
 
-        Camera nPictures Camera nPictures Camera nPictures Camera nPictures
-    1    Cam54         0  Cam87         0 Cam124         0 Cam161         0
-    2    Cam49         0  Cam94         0  Cam67         0 Cam170         0
-    3    Cam55         0  Cam32         0 Cam132         0 Cam102         0
-    4    Cam50         0  Cam88         0 Cam125         0 Cam162         0
-    5    Cam56         0  Cam95         0 Cam133         0 Cam171         0
-    6    Cam51         0  Cam33         0  Cam68         0 Cam103         0
-    7    Cam57         0  Cam89         0 Cam126         0 Cam163         0
-    8    Cam52         0  Cam96         0 Cam134         0 Cam172         0
-    9    Cam58         0  Cam90         0  Cam69         0 Cam104         0
-    10   Cam53         0  Cam34         0 Cam127         0 Cam173         0
-    11   Cam59         0  Cam97         0 Cam135         0 Cam164         0
-    12   Cam54         0  Cam91         0  Cam70         0 Cam105         0
-    13   Cam60         0  Cam35         0 Cam128         0 Cam174         0
-    14   Cam55         0  Cam98         0 Cam136         0 Cam165         0
-    15    Cam1         0  Cam92         0  Cam71         0 Cam106         0
-    16   Cam61         0  Cam36         0 Cam129         0 Cam166         0
-    17   Cam56         0  Cam99         0 Cam137         0 Cam107         0
-    18   Cam62         0  Cam93         0 Cam130         0 Cam176         0
-    19    Cam2         0  Cam37         0  Cam72         0 Cam167         0
-    20   Cam57         0 Cam100         0 Cam138         0 Cam108         0
-    21   Cam63         0  Cam94         0 Cam131         0 Cam177         0
-    22    Cam3         0  Cam38         0  Cam73         0 Cam168         0
-    23   Cam58         0 Cam101         0 Cam139         0 Cam178         0
-    24   Cam64         0  Cam95         0 Cam132         0 Cam109         0
-    25    Cam4         0  Cam39         0  Cam74         0 Cam169         0
-    26   Cam59         0 Cam102         0 Cam140         0 Cam179         0
-    27   Cam65         0  Cam96         0 Cam133         0 Cam170         0
-    28    Cam5         0 Cam103         0  Cam75         0 Cam110         0
-    29   Cam60         0  Cam40         0 Cam141         0 Cam180         0
-    30   Cam66         0  Cam97         0 Cam134         0 Cam171         0
-    31    Cam6         0 Cam104         0  Cam76         0 Cam111         0
-    32   Cam61         0  Cam41         0 Cam142         0 Cam172         0
-    33   Cam67         0  Cam98         0 Cam135         0 Cam112         0
-    34    Cam7         0 Cam105         0 Cam143         0 Cam173         0
-    35   Cam62         0  Cam42         0  Cam77         0 Cam113         0
-    36   Cam68         0  Cam99         0 Cam136         0 Cam174         0
-    37    Cam8         0 Cam106         0 Cam144         0 Cam114         0
-    38   Cam63         0  Cam43         0  Cam78         0 Cam175         0
-    39   Cam69         0 Cam100         0 Cam137         0 Cam115         0
-    40    Cam9         0 Cam107         0 Cam145         0 Cam176         0
-    41   Cam64         0  Cam44         0  Cam79         0 Cam116         0
-    42   Cam70         0 Cam101         0 Cam138         0 Cam177         0
-    43   Cam10         0 Cam108         0 Cam146         0 Cam117         0
-    44   Cam65         0  Cam45         0  Cam80         0 Cam178         0
-    45   Cam71         0 Cam102         0 Cam139         0 Cam118         0
-    46   Cam66         0 Cam109         0 Cam147         0 Cam179         0
-    47   Cam72         0  Cam46         0  Cam81         0 Cam119         0
-    48   Cam12         0 Cam103         0 Cam140         0 Cam180         0
-    49   Cam67         0 Cam110         0 Cam148         0 Cam120         0
-    50   Cam73         0  Cam47         0  Cam82         0 Cam121         0
-    51   Cam13         0 Cam104         0 Cam141         0 Cam122         0
-    52   Cam68         0 Cam111         0  Cam83         0 Cam123         0
-    53   Cam74         0  Cam48         0 Cam150         0 Cam124         0
-    54   Cam14         0 Cam105         0 Cam142         0 Cam125         0
-    55   Cam69         0 Cam112         0  Cam84         0 Cam126         0
-    56   Cam75         0  Cam49         0 Cam151         0 Cam127         0
-    57   Cam15         0 Cam106         0 Cam143         0 Cam128         0
-    58   Cam70         0 Cam113         0  Cam85         0 Cam129         0
-    59   Cam76         0  Cam50         0 Cam152         0 Cam130         0
-    60   Cam16         0 Cam107         0 Cam144         0 Cam131         0
-    61   Cam71         0 Cam114         0  Cam86         0 Cam132         0
-    62   Cam77         0  Cam51         0 Cam153         0 Cam133         0
-    63   Cam17         0 Cam108         0 Cam145         0 Cam134         0
-    64   Cam72         0 Cam115         0  Cam87         0 Cam135         0
-    65   Cam78         0  Cam52         0 Cam154         0 Cam136         0
-    66   Cam18         0 Cam109         0 Cam146         0 Cam137         0
-    67   Cam73         0 Cam116         0 Cam155         0 Cam138         0
-    68   Cam79         0 Cam110         0  Cam88         0 Cam139         0
-    69   Cam74         0  Cam53         0 Cam147         0 Cam140         0
-    70   Cam19         0 Cam118         0 Cam156         0 Cam141         0
-    71   Cam80         0  Cam54         0  Cam89         0 Cam142         0
-    72   Cam75         0 Cam111         0 Cam148         0 Cam143         0
-    73   Cam81         0 Cam119         0 Cam157         0 Cam144         0
-    74   Cam20         0  Cam55         0  Cam90         0 Cam145         0
-    75   Cam76         0 Cam112         0 Cam149         0 Cam146         0
-    76   Cam82         0 Cam120         0 Cam158         0 Cam147         0
-    77   Cam21         0 Cam113         0  Cam91         0 Cam148         0
-    78   Cam77         0  Cam56         0 Cam150         0 Cam149         0
-    79   Cam83         0 Cam121         0 Cam159         0 Cam150         0
-    80   Cam22         0 Cam114         0  Cam92         0 Cam151         0
-    81   Cam78         0  Cam57         0 Cam151         0 Cam152         0
-    82   Cam84         0 Cam122         0 Cam160         0 Cam153         0
-    83   Cam23         0 Cam115         0 Cam152         0 Cam154         0
-    84   Cam79         0  Cam58         0  Cam93         0 Cam155         0
-    85   Cam85         0 Cam123         0 Cam161         0 Cam156         0
-    86   Cam24         0 Cam116         0 Cam153         0 Cam157         0
-    87   Cam86         0  Cam59         0  Cam94         0 Cam158         0
-    88   Cam80         0 Cam124         0 Cam162         0 Cam159         0
-    89   Cam25         0 Cam117         0 Cam154         0 Cam160         0
-    90   Cam87         0  Cam60         0  Cam95         0 Cam161         0
-    91   Cam81         0 Cam125         0 Cam155         0 Cam162         0
-    92   Cam26         0 Cam118         0 Cam164         0 Cam163         0
-    93   Cam88         0  Cam61         0  Cam96         0 Cam164         0
-    94   Cam82         0 Cam126         0 Cam156         0 Cam165         0
-    95   Cam27         0 Cam119         0 Cam165         0 Cam166         0
-    96   Cam89         0  Cam62         0  Cam97         0 Cam167         0
-    97   Cam83         0 Cam127         0 Cam157         0 Cam168         0
-    98   Cam28         0 Cam120         0 Cam166         0 Cam169         0
-    99   Cam90         0  Cam63         0  Cam98         0 Cam170         0
-    100  Cam84         0 Cam128         0 Cam158         0 Cam171         0
-    101  Cam91         0 Cam121         0 Cam167         0 Cam172         0
-    102  Cam29         0  Cam64         0  Cam99         0 Cam173         0
-    103  Cam85         0 Cam129         0 Cam159         0 Cam174         0
-    104  Cam92         0 Cam122         0 Cam168         0 Cam175         0
-    105  Cam30         0  Cam65         0 Cam100         0 Cam176         0
-    106  Cam86         0 Cam130         0 Cam160         0 Cam177         0
-    107  Cam93         0 Cam123         0 Cam169         0 Cam178         0
-    108  Cam31         0  Cam66         0 Cam101         0 Cam179         0
+       Camera nPictures Camera nPictures Camera nPictures Camera nPictures
+    1    Cam1         0  Cam46         0  Cam91         0 Cam136         0
+    2    Cam2         0  Cam47         0  Cam92         0 Cam137         0
+    3    Cam3         0  Cam48         0  Cam93         0 Cam138         0
+    4    Cam4         0  Cam49         0  Cam94         0 Cam139         0
+    5    Cam5         0  Cam50         0  Cam95         0 Cam140         0
+    6    Cam6         0  Cam51         0  Cam96         0 Cam141         0
+    7    Cam7         0  Cam52         0  Cam97         0 Cam142         0
+    8    Cam8         0  Cam53         0  Cam98         0 Cam143         0
+    9    Cam9         0  Cam54         0  Cam99         0 Cam144         0
+    10  Cam10         0  Cam55         0 Cam100         0 Cam145         0
+    11  Cam11         0  Cam56         0 Cam101         0 Cam146         0
+    12  Cam12         0  Cam57         0 Cam102         0 Cam147         0
+    13  Cam13         0  Cam58         0 Cam103         0 Cam148         0
+    14  Cam14         0  Cam59         0 Cam104         0 Cam149         0
+    15  Cam15         0  Cam60         0 Cam105         0 Cam150         0
+    16  Cam16         0  Cam61         0 Cam106         0 Cam151         0
+    17  Cam17         0  Cam62         0 Cam107         0 Cam152         0
+    18  Cam18         0  Cam63         0 Cam108         0 Cam153         0
+    19  Cam19         0  Cam64         0 Cam109         0 Cam154         0
+    20  Cam20         0  Cam65         0 Cam110         0 Cam155         0
+    21  Cam21         0  Cam66         0 Cam111         0 Cam156         0
+    22  Cam22         0  Cam67         0 Cam112         0 Cam157         0
+    23  Cam23         0  Cam68         0 Cam113         0 Cam158         0
+    24  Cam24         0  Cam69         0 Cam114         0 Cam159         0
+    25  Cam25         0  Cam70         0 Cam115         0 Cam160         0
+    26  Cam26         0  Cam71         0 Cam116         0 Cam161         0
+    27  Cam27         0  Cam72         0 Cam117         0 Cam162         0
+    28  Cam28         0  Cam73         0 Cam118         0 Cam163         0
+    29  Cam29         0  Cam74         0 Cam119         0 Cam164         0
+    30  Cam30         0  Cam75         0 Cam120         0 Cam165         0
+    31  Cam31         0  Cam76         0 Cam121         0 Cam166         0
+    32  Cam32         0  Cam77         0 Cam122         0 Cam167         0
+    33  Cam33         0  Cam78         0 Cam123         0 Cam168         0
+    34  Cam34         0  Cam79         0 Cam124         0 Cam169         0
+    35  Cam35         0  Cam80         0 Cam125         0 Cam170         0
+    36  Cam36         0  Cam81         0 Cam126         0 Cam171         0
+    37  Cam37         0  Cam82         0 Cam127         0 Cam172         0
+    38  Cam38         0  Cam83         0 Cam128         0 Cam173         0
+    39  Cam39         0  Cam84         0 Cam129         0 Cam174         0
+    40  Cam40         0  Cam85         0 Cam130         0 Cam175         0
+    41  Cam41         0  Cam86         0 Cam131         0 Cam176         0
+    42  Cam42         0  Cam87         0 Cam132         0 Cam177         0
+    43  Cam43         0  Cam88         0 Cam133         0 Cam178         0
+    44  Cam44         0  Cam89         0 Cam134         0 Cam179         0
+    45  Cam45         0  Cam90         0 Cam135         0 Cam180         0
 
     Problematic cameras
 
