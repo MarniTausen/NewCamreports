@@ -1,6 +1,6 @@
 Camera Status report
 ================
-16/08/2018 - 18:01:25
+16/08/2018 - 20:23:01
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -23,7 +23,7 @@ Camera Status report
 Latest number of pictures from the Cameras
 ------------------------------------------
 
-Images from day: MT20180814
+Images from day: MT20180816
 
        Camera nPictures Camera nPictures Camera nPictures Camera nPictures
     1    Cam1         0  Cam46         0  Cam91         0 Cam136         0
