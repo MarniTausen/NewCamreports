@@ -1,6 +1,6 @@
 Camera Status report
 ================
-19/08/2018 - 18:54:05
+19/08/2018 - 19:00:13
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -10,14 +10,16 @@ Camera Status report
 -   [Latest-Images](#latest-images)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    Warning in file(file, "rt"): cannot open file 'camreport.csv': No such file
-    or directory
+    Cameras currently down:
+       Names Status
+    1  cam32   down
+    2  cam45   down
+    3  cam70   down
+    4 cam108   down
+    5 cam111   down
+    6 cam140   down
 
-    Error in file(file, "rt"): cannot open the connection
-
-    Error in eval(lhs, parent, parent): object 'report' not found
-
-    Error in nrow(downlist): object 'downlist' not found
+![](camreport_files/figure-markdown_github/unnamed-chunk-3-1.svg)
 
 Latest number of pictures from the Cameras
 ------------------------------------------
@@ -25,51 +27,51 @@ Latest number of pictures from the Cameras
 Images from day: MT20180819
 
        Camera nPictures Camera nPictures Camera nPictures Camera nPictures
-    1    Cam1         5  Cam46         5  Cam91         5 Cam136         5
-    2    Cam2         5  Cam47         5  Cam92         5 Cam137         5
-    3    Cam3         5  Cam48         5  Cam93         5 Cam138         5
-    4    Cam4         5  Cam49         5  Cam94         5 Cam139         5
-    5    Cam5         5  Cam50         5  Cam95         5 Cam140         0
-    6    Cam6         5  Cam51         5  Cam96         5 Cam141         5
-    7    Cam7         5  Cam52         5  Cam97         5 Cam142         5
-    8    Cam8         5  Cam53         5  Cam98         5 Cam143         5
-    9    Cam9         5  Cam54         5  Cam99         5 Cam144         5
-    10  Cam10         5  Cam55         5 Cam100         5 Cam145         5
-    11  Cam11         5  Cam56         5 Cam101         5 Cam146         5
-    12  Cam12         5  Cam57         5 Cam102         5 Cam147         5
-    13  Cam13         5  Cam58         5 Cam103         5 Cam148         5
-    14  Cam14         5  Cam59         5 Cam104         5 Cam149         5
-    15  Cam15         5  Cam60         5 Cam105         5 Cam150         5
-    16  Cam16         5  Cam61         5 Cam106         5 Cam151         5
-    17  Cam17         5  Cam62         5 Cam107         5 Cam152         5
-    18  Cam18         5  Cam63         5 Cam108         0 Cam153         5
-    19  Cam19         5  Cam64         5 Cam109         5 Cam154         5
-    20  Cam20         5  Cam65         5 Cam110         5 Cam155         5
-    21  Cam21         5  Cam66         5 Cam111         0 Cam156         5
-    22  Cam22         5  Cam67         5 Cam112         5 Cam157         5
-    23  Cam23         5  Cam68         5 Cam113         5 Cam158         5
-    24  Cam24         5  Cam69         5 Cam114         5 Cam159         5
-    25  Cam25         5  Cam70         0 Cam115         5 Cam160         5
-    26  Cam26         5  Cam71         5 Cam116         5 Cam161         5
-    27  Cam27         5  Cam72         5 Cam117         5 Cam162         5
-    28  Cam28         5  Cam73         5 Cam118         5 Cam163         5
-    29  Cam29         5  Cam74         5 Cam119         5 Cam164         5
-    30  Cam30         5  Cam75         5 Cam120         5 Cam165         5
-    31  Cam31         5  Cam76         5 Cam121         5 Cam166         5
-    32  Cam32         0  Cam77         5 Cam122         5 Cam167         5
-    33  Cam33         5  Cam78         5 Cam123         5 Cam168         5
-    34  Cam34         5  Cam79         5 Cam124         5 Cam169         5
-    35  Cam35         5  Cam80         5 Cam125         5 Cam170         5
-    36  Cam36         5  Cam81         5 Cam126         5 Cam171         5
-    37  Cam37         5  Cam82         5 Cam127         5 Cam172         5
-    38  Cam38         5  Cam83         5 Cam128         5 Cam173         5
-    39  Cam39         5  Cam84         5 Cam129         5 Cam174         5
-    40  Cam40         5  Cam85         5 Cam130         5 Cam175         5
-    41  Cam41         5  Cam86         5 Cam131         5 Cam176         5
-    42  Cam42         5  Cam87         5 Cam132         5 Cam177         5
-    43  Cam43         5  Cam88         5 Cam133         5 Cam178         5
-    44  Cam44         5  Cam89         5 Cam134         5 Cam179         5
-    45  Cam45         0  Cam90         5 Cam135         5 Cam180         5
+    1    Cam1         8  Cam46         8  Cam91         8 Cam136         8
+    2    Cam2         8  Cam47         8  Cam92         8 Cam137         8
+    3    Cam3         8  Cam48         8  Cam93         8 Cam138         8
+    4    Cam4         8  Cam49         8  Cam94         8 Cam139         8
+    5    Cam5         8  Cam50         8  Cam95         8 Cam140         0
+    6    Cam6         8  Cam51         8  Cam96         8 Cam141         8
+    7    Cam7         8  Cam52         8  Cam97         8 Cam142         8
+    8    Cam8         8  Cam53         8  Cam98         8 Cam143         8
+    9    Cam9         8  Cam54         8  Cam99         8 Cam144         8
+    10  Cam10         8  Cam55         8 Cam100         8 Cam145         8
+    11  Cam11         8  Cam56         8 Cam101         8 Cam146         8
+    12  Cam12         8  Cam57         8 Cam102         8 Cam147         8
+    13  Cam13         8  Cam58         8 Cam103         8 Cam148         8
+    14  Cam14         8  Cam59         8 Cam104         8 Cam149         8
+    15  Cam15         8  Cam60         8 Cam105         8 Cam150         8
+    16  Cam16         8  Cam61         8 Cam106         8 Cam151         8
+    17  Cam17         8  Cam62         8 Cam107         8 Cam152         8
+    18  Cam18         8  Cam63         8 Cam108         0 Cam153         8
+    19  Cam19         8  Cam64         8 Cam109         8 Cam154         8
+    20  Cam20         8  Cam65         8 Cam110         8 Cam155         8
+    21  Cam21         8  Cam66         8 Cam111         0 Cam156         8
+    22  Cam22         8  Cam67         8 Cam112         8 Cam157         8
+    23  Cam23         8  Cam68         8 Cam113         8 Cam158         8
+    24  Cam24         8  Cam69         8 Cam114         8 Cam159         8
+    25  Cam25         8  Cam70         0 Cam115         8 Cam160         8
+    26  Cam26         8  Cam71         8 Cam116         8 Cam161         8
+    27  Cam27         8  Cam72         8 Cam117         8 Cam162         8
+    28  Cam28         8  Cam73         8 Cam118         8 Cam163         8
+    29  Cam29         8  Cam74         8 Cam119         8 Cam164         8
+    30  Cam30         8  Cam75         8 Cam120         8 Cam165         8
+    31  Cam31         8  Cam76         8 Cam121         8 Cam166         8
+    32  Cam32         0  Cam77         8 Cam122         8 Cam167         8
+    33  Cam33         8  Cam78         8 Cam123         8 Cam168         8
+    34  Cam34         8  Cam79         8 Cam124         8 Cam169         8
+    35  Cam35         8  Cam80         8 Cam125         8 Cam170         8
+    36  Cam36         8  Cam81         8 Cam126         8 Cam171         8
+    37  Cam37         8  Cam82         8 Cam127         8 Cam172         8
+    38  Cam38         8  Cam83         8 Cam128         8 Cam173         8
+    39  Cam39         8  Cam84         8 Cam129         8 Cam174         8
+    40  Cam40         8  Cam85         8 Cam130         8 Cam175         8
+    41  Cam41         8  Cam86         8 Cam131         8 Cam176         8
+    42  Cam42         8  Cam87         8 Cam132         8 Cam177         8
+    43  Cam43         8  Cam88         8 Cam133         8 Cam178         8
+    44  Cam44         8  Cam89         8 Cam134         8 Cam179         8
+    45  Cam45         0  Cam90         8 Cam135         8 Cam180         8
 
     Problematic cameras
 
@@ -86,13 +88,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9476500  88345484  10% /
+/dev/root      103081248   9487024  88334960  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 355524372 330114372  52% /home
+/dev/sda3      722355288 355664384 329974360  52% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
@@ -406,7 +408,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 293172396
+total 293312408
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -5925,6 +5927,7 @@ total 293172396
 -rw-r--r-- 1 user1 users 141025280 Aug 19 15:59 MT20180819155119.tar
 -rw-r--r-- 1 user1 users 141312000 Aug 19 16:29 MT20180819162119.tar
 -rw-r--r-- 1 user1 users 141178880 Aug 19 16:59 MT20180819165137.tar
+-rw-r--r-- 1 user1 users 143370240 Aug 19 18:07 MT20180819175923.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
