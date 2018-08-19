@@ -1,6 +1,6 @@
 Camera Status report
 ================
-19/08/2018 - 13:00:06
+19/08/2018 - 14:00:09
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -11,14 +11,16 @@ Camera Status report
 -   [TEMPERATURES:](#temperatures)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    Warning in file(file, "rt"): cannot open file 'camreport.csv': No such file
-    or directory
+    Cameras currently down:
+       Names Status
+    1  cam32   down
+    2  cam45   down
+    3  cam70   down
+    4 cam108   down
+    5 cam111   down
+    6 cam140   down
 
-    Error in file(file, "rt"): cannot open the connection
-
-    Error in eval(lhs, parent, parent): object 'report' not found
-
-    Error in nrow(downlist): object 'downlist' not found
+![](camreport_files/figure-markdown_github/unnamed-chunk-3-1.svg)
 
 Latest number of pictures from the Cameras
 ------------------------------------------
@@ -82,13 +84,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9346804  88475180  10% /
+/dev/root      103081248   9483936  88338048  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
-tmpfs            1019728         0   1019728   0% /dev/shm
+tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 348822680 336816064  51% /home
+/dev/sda3      722355288 354697912 330940832  52% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 ```
 
@@ -148,7 +150,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 286481220
+total 292346680
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -5594,6 +5596,73 @@ total 286481220
 -rw-r--r-- 1 user1 users     10240 Aug 14 20:36 MT20180814203358.tar
 -rw-r--r-- 1 user1 users     10240 Aug 14 20:40 MT20180814203828.tar
 -rw-r--r-- 1 user1 users     10240 Aug 14 20:42 MT20180814204013.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:47 MT20180814204210.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:48 MT20180814204346.tar
+-rw-r--r-- 1 user1 users   4628480 Aug 14 20:50 MT20180814204857.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:51 MT20180814204933.tar
+-rw-r--r-- 1 user1 users     10240 Aug 14 20:53 MT20180814205115.tar
+-rw-r--r-- 1 user1 users  50780160 Aug 14 21:05 MT20180814210318.tar
+-rw-r--r-- 1 user1 users  42649600 Aug 14 21:18 MT20180814211632.tar
+-rw-r--r-- 1 user1 users  85381120 Aug 14 21:23 MT20180814212152.tar
+-rw-r--r-- 1 user1 users  83568640 Aug 14 21:26 MT20180814212442.tar
+-rw-r--r-- 1 user1 users  27248640 Aug 14 22:28 MT20180814222633.tar
+-rw-r--r-- 1 user1 users  27156480 Aug 14 23:30 MT20180814232824.tar
+-rw-r--r-- 1 user1 users  27136000 Aug 15 00:32 MT20180815003015.tar
+-rw-r--r-- 1 user1 users  27146240 Aug 15 01:33 MT20180815013206.tar
+-rw-r--r-- 1 user1 users  27156480 Aug 15 02:35 MT20180815023356.tar
+-rw-r--r-- 1 user1 users  27146240 Aug 15 03:37 MT20180815033547.tar
+-rw-r--r-- 1 user1 users  27187200 Aug 15 04:39 MT20180815043738.tar
+-rw-r--r-- 1 user1 users 149493760 Aug 15 05:41 MT20180815053929.tar
+-rw-r--r-- 1 user1 users 145653760 Aug 15 06:43 MT20180815064122.tar
+-rw-r--r-- 1 user1 users 145459200 Aug 15 07:45 MT20180815074314.tar
+-rw-r--r-- 1 user1 users 143585280 Aug 15 08:46 MT20180815084507.tar
+-rw-r--r-- 1 user1 users 142438400 Aug 15 09:52 MT20180815094515.tar
+-rw-r--r-- 1 user1 users 141916160 Aug 15 11:01 MT20180815105302.tar
+-rw-r--r-- 1 user1 users 141363200 Aug 15 12:08 MT20180815120107.tar
+-rw-r--r-- 1 user1 users 141690880 Aug 15 16:02 MT20180815155508.tar
+-rw-r--r-- 1 user1 users 140554240 Aug 15 16:20 MT20180815161303.tar
+-rw-r--r-- 1 user1 users 140492800 Aug 15 17:28 MT20180815172051.tar
+-rw-r--r-- 1 user1 users 140974080 Aug 15 18:36 MT20180815182837.tar
+-rw-r--r-- 1 user1 users 141875200 Aug 15 19:44 MT20180815193625.tar
+-rw-r--r-- 1 user1 users 155392000 Aug 15 20:52 MT20180815204412.tar
+-rw-r--r-- 1 user1 users  27791360 Aug 15 21:58 MT20180815215214.tar
+-rw-r--r-- 1 user1 users  26992640 Aug 15 23:05 MT20180815225843.tar
+-rw-r--r-- 1 user1 users  26961920 Aug 16 00:11 MT20180816000511.tar
+-rw-r--r-- 1 user1 users  26972160 Aug 16 01:18 MT20180816011140.tar
+-rw-r--r-- 1 user1 users  26992640 Aug 16 02:24 MT20180816021808.tar
+-rw-r--r-- 1 user1 users  26961920 Aug 16 03:31 MT20180816032437.tar
+-rw-r--r-- 1 user1 users  27013120 Aug 16 04:37 MT20180816043105.tar
+-rw-r--r-- 1 user1 users 136161280 Aug 16 05:45 MT20180816053734.tar
+-rw-r--r-- 1 user1 users 143472640 Aug 16 06:53 MT20180816064520.tar
+-rw-r--r-- 1 user1 users 141946880 Aug 16 08:00 MT20180816075311.tar
+-rw-r--r-- 1 user1 users 141649920 Aug 16 09:08 MT20180816090100.tar
+-rw-r--r-- 1 user1 users 140984320 Aug 16 10:16 MT20180816100849.tar
+-rw-r--r-- 1 user1 users 141178880 Aug 16 11:24 MT20180816111637.tar
+-rw-r--r-- 1 user1 users 141383680 Aug 16 12:32 MT20180816122425.tar
+-rw-r--r-- 1 user1 users 140400640 Aug 16 13:40 MT20180816133214.tar
+-rw-r--r-- 1 user1 users 140820480 Aug 16 14:47 MT20180816144003.tar
+-rw-r--r-- 1 user1 users 140779520 Aug 16 15:55 MT20180816154751.tar
+-rw-r--r-- 1 user1 users 140851200 Aug 16 17:03 MT20180816165540.tar
+-rw-r--r-- 1 user1 users 140902400 Aug 16 18:11 MT20180816180329.tar
+-rw-r--r-- 1 user1 users 140922880 Aug 16 19:19 MT20180816191118.tar
+-rw-r--r-- 1 user1 users 149063680 Aug 16 20:27 MT20180816201916.tar
+-rw-r--r-- 1 user1 users  44994560 Aug 16 21:34 MT20180816212714.tar
+-rw-r--r-- 1 user1 users  26992640 Aug 16 22:40 MT20180816223405.tar
+-rw-r--r-- 1 user1 users  26992640 Aug 16 23:47 MT20180816234034.tar
+-rw-r--r-- 1 user1 users  26982400 Aug 17 00:53 MT20180817004704.tar
+-rw-r--r-- 1 user1 users  27013120 Aug 17 02:00 MT20180817015334.tar
+-rw-r--r-- 1 user1 users  26951680 Aug 17 03:06 MT20180817030004.tar
+-rw-r--r-- 1 user1 users  26961920 Aug 17 04:13 MT20180817040633.tar
+-rw-r--r-- 1 user1 users  28375040 Aug 17 05:19 MT20180817051303.tar
+-rw-r--r-- 1 user1 users 145162240 Aug 17 06:27 MT20180817061933.tar
+-rw-r--r-- 1 user1 users 141967360 Aug 17 07:35 MT20180817072726.tar
+-rw-r--r-- 1 user1 users 142018560 Aug 17 08:43 MT20180817083516.tar
+-rw-r--r-- 1 user1 users 141424640 Aug 17 09:50 MT20180817094305.tar
+-rw-r--r-- 1 user1 users 141281280 Aug 17 10:59 MT20180817105055.tar
+-rw-r--r-- 1 user1 users 140226560 Aug 17 12:06 MT20180817115901.tar
+-rw-r--r-- 1 user1 users 139550720 Aug 17 13:14 MT20180817130651.tar
+-rw-r--r-- 1 user1 users 140718080 Aug 19 13:29 MT20180819132123.tar
+-rw-r--r-- 1 user1 users 140226560 Aug 19 13:59 MT20180819135118.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
