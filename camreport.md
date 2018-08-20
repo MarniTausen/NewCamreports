@@ -1,6 +1,6 @@
 Camera Status report
 ================
-20/08/2018 - 18:07:37
+20/08/2018 - 20:30:07
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -17,71 +17,238 @@ Camera Status report
 Latest number of pictures from the Cameras
 ------------------------------------------
 
-Images from day: MT20180819
+Images from day: MT20180820
 
        Camera nPictures Camera nPictures Camera nPictures Camera nPictures
-    1    Cam1         8  Cam46         8  Cam91         8 Cam136         8
-    2    Cam2         8  Cam47         8  Cam92         8 Cam137         8
-    3    Cam3         8  Cam48         8  Cam93         8 Cam138         8
-    4    Cam4         8  Cam49         8  Cam94         8 Cam139         8
-    5    Cam5         8  Cam50         8  Cam95         8 Cam140         0
-    6    Cam6         8  Cam51         8  Cam96         8 Cam141         8
-    7    Cam7         8  Cam52         8  Cam97         8 Cam142         8
-    8    Cam8         8  Cam53         8  Cam98         8 Cam143         8
-    9    Cam9         8  Cam54         8  Cam99         8 Cam144         8
-    10  Cam10         8  Cam55         8 Cam100         8 Cam145         8
-    11  Cam11         8  Cam56         8 Cam101         8 Cam146         8
-    12  Cam12         8  Cam57         8 Cam102         8 Cam147         8
-    13  Cam13         8  Cam58         8 Cam103         8 Cam148         8
-    14  Cam14         8  Cam59         8 Cam104         8 Cam149         8
-    15  Cam15         8  Cam60         8 Cam105         8 Cam150         8
-    16  Cam16         8  Cam61         8 Cam106         8 Cam151         8
-    17  Cam17         8  Cam62         8 Cam107         8 Cam152         8
-    18  Cam18         8  Cam63         8 Cam108         0 Cam153         8
-    19  Cam19         8  Cam64         8 Cam109         8 Cam154         8
-    20  Cam20         8  Cam65         8 Cam110         8 Cam155         8
-    21  Cam21         8  Cam66         8 Cam111         0 Cam156         8
-    22  Cam22         8  Cam67         8 Cam112         8 Cam157         8
-    23  Cam23         8  Cam68         8 Cam113         8 Cam158         8
-    24  Cam24         8  Cam69         8 Cam114         8 Cam159         8
-    25  Cam25         8  Cam70         0 Cam115         8 Cam160         8
-    26  Cam26         8  Cam71         8 Cam116         8 Cam161         8
-    27  Cam27         8  Cam72         8 Cam117         8 Cam162         8
-    28  Cam28         8  Cam73         8 Cam118         8 Cam163         8
-    29  Cam29         8  Cam74         8 Cam119         8 Cam164         8
-    30  Cam30         8  Cam75         8 Cam120         8 Cam165         8
-    31  Cam31         8  Cam76         8 Cam121         8 Cam166         8
-    32  Cam32         0  Cam77         8 Cam122         8 Cam167         8
-    33  Cam33         8  Cam78         8 Cam123         8 Cam168         8
-    34  Cam34         8  Cam79         8 Cam124         8 Cam169         8
-    35  Cam35         8  Cam80         8 Cam125         8 Cam170         8
-    36  Cam36         8  Cam81         8 Cam126         8 Cam171         8
-    37  Cam37         8  Cam82         8 Cam127         8 Cam172         8
-    38  Cam38         8  Cam83         8 Cam128         8 Cam173         8
-    39  Cam39         8  Cam84         8 Cam129         8 Cam174         8
-    40  Cam40         8  Cam85         8 Cam130         8 Cam175         8
-    41  Cam41         8  Cam86         8 Cam131         8 Cam176         8
-    42  Cam42         8  Cam87         8 Cam132         8 Cam177         8
-    43  Cam43         8  Cam88         8 Cam133         8 Cam178         8
-    44  Cam44         8  Cam89         8 Cam134         8 Cam179         8
-    45  Cam45         0  Cam90         8 Cam135         8 Cam180         8
+    1    Cam1         0  Cam46         0  Cam91         0 Cam136         0
+    2    Cam2         0  Cam47         0  Cam92         0 Cam137         0
+    3    Cam3         0  Cam48         0  Cam93         0 Cam138         0
+    4    Cam4         0  Cam49         0  Cam94         0 Cam139         0
+    5    Cam5         0  Cam50         0  Cam95         0 Cam140         0
+    6    Cam6         0  Cam51         0  Cam96         0 Cam141         0
+    7    Cam7         0  Cam52         0  Cam97         0 Cam142         0
+    8    Cam8         0  Cam53         0  Cam98         0 Cam143         0
+    9    Cam9         0  Cam54         0  Cam99         0 Cam144         0
+    10  Cam10         0  Cam55         0 Cam100        14 Cam145         0
+    11  Cam11         0  Cam56         0 Cam101        14 Cam146         0
+    12  Cam12         0  Cam57         0 Cam102        14 Cam147         0
+    13  Cam13         0  Cam58         0 Cam103        14 Cam148         0
+    14  Cam14         0  Cam59         0 Cam104        14 Cam149         0
+    15  Cam15         0  Cam60         0 Cam105        14 Cam150         0
+    16  Cam16         0  Cam61         0 Cam106        14 Cam151         0
+    17  Cam17         0  Cam62         0 Cam107        12 Cam152         0
+    18  Cam18         0  Cam63         0 Cam108         0 Cam153         0
+    19  Cam19         0  Cam64         0 Cam109         0 Cam154         0
+    20  Cam20         0  Cam65         0 Cam110         0 Cam155         0
+    21  Cam21         0  Cam66         0 Cam111         0 Cam156         0
+    22  Cam22         0  Cam67         0 Cam112         0 Cam157         0
+    23  Cam23         0  Cam68         0 Cam113         0 Cam158         0
+    24  Cam24         0  Cam69         0 Cam114         0 Cam159         0
+    25  Cam25         0  Cam70         0 Cam115         0 Cam160         0
+    26  Cam26         0  Cam71         0 Cam116         0 Cam161         0
+    27  Cam27         0  Cam72         0 Cam117         0 Cam162         0
+    28  Cam28         0  Cam73         0 Cam118         0 Cam163         0
+    29  Cam29         0  Cam74         0 Cam119         0 Cam164         0
+    30  Cam30         0  Cam75         0 Cam120         0 Cam165         0
+    31  Cam31         0  Cam76         0 Cam121         0 Cam166         0
+    32  Cam32         0  Cam77         0 Cam122         0 Cam167         0
+    33  Cam33         0  Cam78         0 Cam123         0 Cam168         0
+    34  Cam34         0  Cam79         0 Cam124         0 Cam169         0
+    35  Cam35         0  Cam80         0 Cam125         0 Cam170         0
+    36  Cam36         0  Cam81         0 Cam126         0 Cam171         0
+    37  Cam37         0  Cam82         0 Cam127         0 Cam172         0
+    38  Cam38         0  Cam83         0 Cam128         0 Cam173         0
+    39  Cam39         0  Cam84         0 Cam129         0 Cam174         0
+    40  Cam40         0  Cam85         0 Cam130         0 Cam175         0
+    41  Cam41         0  Cam86         0 Cam131         0 Cam176         0
+    42  Cam42         0  Cam87         0 Cam132         0 Cam177         0
+    43  Cam43         0  Cam88         0 Cam133         0 Cam178         0
+    44  Cam44         0  Cam89         0 Cam134         0 Cam179         0
+    45  Cam45         0  Cam90         0 Cam135         0 Cam180         0
 
     Problematic cameras
 
-      Camera nPictures
-    1  Cam32         0
-    2  Cam45         0
-    3  Cam70         0
-    4 Cam108         0
-    5 Cam111         0
-    6 Cam140         0
+        Camera nPictures
+    1     Cam1         0
+    2     Cam2         0
+    3     Cam3         0
+    4     Cam4         0
+    5     Cam5         0
+    6     Cam6         0
+    7     Cam7         0
+    8     Cam8         0
+    9     Cam9         0
+    10   Cam10         0
+    11   Cam11         0
+    12   Cam12         0
+    13   Cam13         0
+    14   Cam14         0
+    15   Cam15         0
+    16   Cam16         0
+    17   Cam17         0
+    18   Cam18         0
+    19   Cam19         0
+    20   Cam20         0
+    21   Cam21         0
+    22   Cam22         0
+    23   Cam23         0
+    24   Cam24         0
+    25   Cam25         0
+    26   Cam26         0
+    27   Cam27         0
+    28   Cam28         0
+    29   Cam29         0
+    30   Cam30         0
+    31   Cam31         0
+    32   Cam32         0
+    33   Cam33         0
+    34   Cam34         0
+    35   Cam35         0
+    36   Cam36         0
+    37   Cam37         0
+    38   Cam38         0
+    39   Cam39         0
+    40   Cam40         0
+    41   Cam41         0
+    42   Cam42         0
+    43   Cam43         0
+    44   Cam44         0
+    45   Cam45         0
+    46   Cam46         0
+    47   Cam47         0
+    48   Cam48         0
+    49   Cam49         0
+    50   Cam50         0
+    51   Cam51         0
+    52   Cam52         0
+    53   Cam53         0
+    54   Cam54         0
+    55   Cam55         0
+    56   Cam56         0
+    57   Cam57         0
+    58   Cam58         0
+    59   Cam59         0
+    60   Cam60         0
+    61   Cam61         0
+    62   Cam62         0
+    63   Cam63         0
+    64   Cam64         0
+    65   Cam65         0
+    66   Cam66         0
+    67   Cam67         0
+    68   Cam68         0
+    69   Cam69         0
+    70   Cam70         0
+    71   Cam71         0
+    72   Cam72         0
+    73   Cam73         0
+    74   Cam74         0
+    75   Cam75         0
+    76   Cam76         0
+    77   Cam77         0
+    78   Cam78         0
+    79   Cam79         0
+    80   Cam80         0
+    81   Cam81         0
+    82   Cam82         0
+    83   Cam83         0
+    84   Cam84         0
+    85   Cam85         0
+    86   Cam86         0
+    87   Cam87         0
+    88   Cam88         0
+    89   Cam89         0
+    90   Cam90         0
+    91   Cam91         0
+    92   Cam92         0
+    93   Cam93         0
+    94   Cam94         0
+    95   Cam95         0
+    96   Cam96         0
+    97   Cam97         0
+    98   Cam98         0
+    99   Cam99         0
+    100 Cam107        12
+    101 Cam108         0
+    102 Cam109         0
+    103 Cam110         0
+    104 Cam111         0
+    105 Cam112         0
+    106 Cam113         0
+    107 Cam114         0
+    108 Cam115         0
+    109 Cam116         0
+    110 Cam117         0
+    111 Cam118         0
+    112 Cam119         0
+    113 Cam120         0
+    114 Cam121         0
+    115 Cam122         0
+    116 Cam123         0
+    117 Cam124         0
+    118 Cam125         0
+    119 Cam126         0
+    120 Cam127         0
+    121 Cam128         0
+    122 Cam129         0
+    123 Cam130         0
+    124 Cam131         0
+    125 Cam132         0
+    126 Cam133         0
+    127 Cam134         0
+    128 Cam135         0
+    129 Cam136         0
+    130 Cam137         0
+    131 Cam138         0
+    132 Cam139         0
+    133 Cam140         0
+    134 Cam141         0
+    135 Cam142         0
+    136 Cam143         0
+    137 Cam144         0
+    138 Cam145         0
+    139 Cam146         0
+    140 Cam147         0
+    141 Cam148         0
+    142 Cam149         0
+    143 Cam150         0
+    144 Cam151         0
+    145 Cam152         0
+    146 Cam153         0
+    147 Cam154         0
+    148 Cam155         0
+    149 Cam156         0
+    150 Cam157         0
+    151 Cam158         0
+    152 Cam159         0
+    153 Cam160         0
+    154 Cam161         0
+    155 Cam162         0
+    156 Cam163         0
+    157 Cam164         0
+    158 Cam165         0
+    159 Cam166         0
+    160 Cam167         0
+    161 Cam168         0
+    162 Cam169         0
+    163 Cam170         0
+    164 Cam171         0
+    165 Cam172         0
+    166 Cam173         0
+    167 Cam174         0
+    168 Cam175         0
+    169 Cam176         0
+    170 Cam177         0
+    171 Cam178         0
+    172 Cam179         0
+    173 Cam180         0
 
 LIST OF DIRECTORIES AND FREE SPACE:
 -----------------------------------
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9491056  88330928  10% /
+/dev/root      103081248   9490920  88331064  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        88   1019640   1% /dev/shm
@@ -97,279 +264,157 @@ QR-detection
     Critical QR cameras where the center codes are missing!
 
       Camera CCODE QRCODES POTS
-    1  Cam97     0       0    0
-    2  Cam98     0       0    0
+    1 Cam111     0       2    0
 
     Cameras where other QR codes are missing!
 
-        Camera CCODE QRCODES POTS
-    1     Cam1     1       2    9
-    2     Cam7     1       2    9
-    3    Cam11     1       2    9
-    4    Cam15     1       2    4
-    5    Cam16     1       2   10
-    6    Cam17     1       2    8
-    7    Cam22     1       2    7
-    8    Cam25     1       2    6
-    9    Cam26     1       2    9
-    10   Cam28     1       2    8
-    11   Cam31     1       2   10
-    12   Cam35     1       2    9
-    13   Cam37     1       2    9
-    14   Cam38     1       2   10
-    15   Cam39     1       2    8
-    16   Cam42     1       2    8
-    17   Cam48     1       2    3
-    18   Cam49     1       2    5
-    19   Cam51     1       2    7
-    20   Cam52     1       2    9
-    21   Cam54     1       2    8
-    22   Cam56     1       2   10
-    23   Cam60     1       2   10
-    24   Cam61     1       1    9
-    25   Cam62     1       1    6
-    26   Cam63     1       1   10
-    27   Cam71     1       2    7
-    28   Cam73     1       2    7
-    29   Cam74     1       1    8
-    30   Cam76     1       1    7
-    31   Cam77     1       2    9
-    32   Cam78     1       2    7
-    33   Cam81     1       1    5
-    34   Cam83     1       1    9
-    35   Cam87     1       1    5
-    36   Cam89     1       1    5
-    37   Cam90     1       2    6
-    38   Cam91     1       1    4
-    39   Cam92     1       1   10
-    40   Cam93     1       1    9
-    41   Cam94     1       2    6
-    42   Cam95     1       1    8
-    43   Cam96     1       2    8
-    44  Cam100     1       1    8
-    45  Cam102     1       2    9
-    46  Cam104     1       1    8
-    47  Cam105     1       1    8
-    48  Cam106     1       2    8
-    49  Cam107     1       2    6
-    50  Cam112     1       2    6
-    51  Cam113     1       1    4
-    52  Cam114     1       2    9
-    53  Cam115     1       1    7
-    54  Cam116     1       1    9
-    55  Cam117     1       2   10
-    56  Cam118     1       1    8
-    57  Cam119     1       2    5
-    58  Cam121     1       2    5
-    59  Cam122     1       1    5
-    60  Cam123     1       1    6
-    61  Cam124     1       2    7
-    62  Cam125     1       1    9
-    63  Cam127     1       1    9
-    64  Cam128     1       1    8
-    65  Cam129     1       1    6
-    66  Cam130     1       1    9
-    67  Cam131     1       1    6
-    68  Cam132     1       1   10
-    69  Cam133     1       1    9
-    70  Cam134     1       1   10
-    71  Cam135     1       2    9
-    72  Cam136     1       1    7
-    73  Cam137     1       1    7
-    74  Cam138     1       1    5
-    75  Cam139     1       2    6
-    76  Cam141     1       2    4
-    77  Cam142     1       1    2
-    78  Cam143     1       2    6
-    79  Cam144     1       1    6
-    80  Cam145     1       1    5
-    81  Cam146     1       2    9
-    82  Cam147     1       1    9
-    83  Cam148     1       1    7
-    84  Cam149     1       1    9
-    85  Cam150     1       1    8
-    86  Cam151     1       1    6
-    87  Cam154     1       1    7
-    88  Cam155     1       2    7
-    89  Cam156     1       1    9
-    90  Cam157     1       2    2
-    91  Cam160     1       2    5
-    92  Cam161     1       1    9
-    93  Cam162     1       1    9
-    94  Cam163     1       1    9
-    95  Cam164     1       1    9
-    96  Cam166     1       1    7
-    97  Cam167     1       1    7
-    98  Cam168     1       1    9
-    99  Cam170     1       1    7
-    100 Cam173     1       1    9
-    101 Cam174     1       1    8
-    102 Cam175     1       1    6
-    103 Cam176     1       2    6
-    104 Cam179     1       1    7
-    105 Cam180     1       1    7
+       Camera CCODE QRCODES POTS
+    1  Cam100     1       1    4
+    2  Cam102     1       2    9
+    3  Cam104     1       1    8
+    4  Cam105     1       1    8
+    5  Cam107     1       2    3
+    6  Cam112     1       2    6
+    7  Cam113     1       1    5
+    8  Cam114     1       2    9
+    9  Cam115     1       1    8
+    10 Cam116     1       1    9
+    11 Cam117     1       2   10
+    12 Cam118     1       1    8
+    13 Cam119     1       2    7
+    14 Cam121     1       2    7
+    15 Cam122     1       1    3
+    16 Cam123     1       1    7
+    17 Cam124     1       2    9
+    18 Cam125     1       1    9
+    19 Cam127     1       1    7
+    20 Cam128     1       1    8
+    21 Cam129     1       1    7
+    22 Cam130     1       1    9
+    23 Cam131     1       1    6
+    24 Cam132     1       1   10
+    25 Cam133     1       1    9
+    26 Cam134     1       1   10
+    27 Cam135     1       2    9
+    28 Cam136     1       1    7
+    29 Cam137     1       1    9
+    30 Cam138     1       1    6
+    31 Cam139     1       2    7
+    32 Cam140     1       2    9
+    33 Cam141     1       2    6
+    34 Cam142     1       1    3
+    35 Cam143     1       2    6
+    36 Cam144     1       1    6
+    37 Cam145     1       1    5
+    38 Cam146     1       2   10
+    39 Cam147     1       1    9
+    40 Cam148     1       1    8
+    41 Cam149     1       1    8
+    42 Cam150     1       1    6
+    43 Cam151     1       1    6
+    44 Cam154     1       1    8
+    45 Cam155     1       2    9
+    46 Cam156     1       1    9
+    47 Cam157     1       2    4
+    48 Cam160     1       2    6
+    49 Cam161     1       1    9
+    50 Cam162     1       1    8
+    51 Cam163     1       1    8
+    52 Cam164     1       1   10
+    53 Cam166     1       1    7
+    54 Cam167     1       1    5
+    55 Cam168     1       2    9
+    56 Cam170     1       1    6
+    57 Cam173     1       1    8
+    58 Cam174     1       1    7
+    59 Cam175     1       1    6
+    60 Cam176     1       1    6
+    61 Cam179     1       1    5
+    62 Cam180     1       1    5
 
 Pot-detection
 -------------
 
     Total number of pots identified
 
-    1285 
+    604 
 
     List of cameras with failed pot identifictation
 
-        Camera CCODE QRCODES POTS
-    1     Cam1     1       2    9
-    2     Cam2     1       3    6
-    3     Cam3     1       3    9
-    4     Cam5     1       3    5
-    5     Cam6     1       3    5
-    6     Cam7     1       2    9
-    7     Cam8     1       3    7
-    8     Cam9     1       3    8
-    9    Cam10     1       3    8
-    10   Cam11     1       2    9
-    11   Cam12     1       3    4
-    12   Cam13     1       3    8
-    13   Cam14     1       3    7
-    14   Cam15     1       2    4
-    15   Cam17     1       2    8
-    16   Cam18     1       3    9
-    17   Cam19     1       3    9
-    18   Cam20     1       3    7
-    19   Cam21     1       3    8
-    20   Cam22     1       2    7
-    21   Cam24     1       3    7
-    22   Cam25     1       2    6
-    23   Cam26     1       2    9
-    24   Cam28     1       2    8
-    25   Cam29     1       3    6
-    26   Cam30     1       3    6
-    27   Cam33     1       3    8
-    28   Cam34     1       3    4
-    29   Cam35     1       2    9
-    30   Cam36     1       3    7
-    31   Cam37     1       2    9
-    32   Cam39     1       2    8
-    33   Cam40     1       3    8
-    34   Cam41     1       3    9
-    35   Cam42     1       2    8
-    36   Cam43     1       3    8
-    37   Cam44     1       3    9
-    38   Cam48     1       2    3
-    39   Cam49     1       2    5
-    40   Cam50     1       3    7
-    41   Cam51     1       2    7
-    42   Cam52     1       2    9
-    43   Cam53     1       3    8
-    44   Cam54     1       2    8
-    45   Cam57     1       3    9
-    46   Cam59     1       3    7
-    47   Cam61     1       1    9
-    48   Cam62     1       1    6
-    49   Cam64     1       3    8
-    50   Cam65     1       3    8
-    51   Cam68     1       3    4
-    52   Cam69     1       3    6
-    53   Cam71     1       2    7
-    54   Cam72     1       3    3
-    55   Cam73     1       2    7
-    56   Cam74     1       1    8
-    57   Cam75     1       3    5
-    58   Cam76     1       1    7
-    59   Cam77     1       2    9
-    60   Cam78     1       2    7
-    61   Cam79     1       3    9
-    62   Cam81     1       1    5
-    63   Cam82     1       3    8
-    64   Cam83     1       1    9
-    65   Cam84     1       3    8
-    66   Cam87     1       1    5
-    67   Cam88     1       3    9
-    68   Cam89     1       1    5
-    69   Cam90     1       2    6
-    70   Cam91     1       1    4
-    71   Cam93     1       1    9
-    72   Cam94     1       2    6
-    73   Cam95     1       1    8
-    74   Cam96     1       2    8
-    75   Cam97     0       0    0
-    76   Cam98     0       0    0
-    77   Cam99     1       3    7
-    78  Cam100     1       1    8
-    79  Cam101     1       3    9
-    80  Cam102     1       2    9
-    81  Cam103     1       3    8
-    82  Cam104     1       1    8
-    83  Cam105     1       1    8
-    84  Cam106     1       2    8
-    85  Cam107     1       2    6
-    86  Cam109     1       3    7
-    87  Cam110     1       3    8
-    88  Cam112     1       2    6
-    89  Cam113     1       1    4
-    90  Cam114     1       2    9
-    91  Cam115     1       1    7
-    92  Cam116     1       1    9
-    93  Cam118     1       1    8
-    94  Cam119     1       2    5
-    95  Cam120     1       3    6
-    96  Cam121     1       2    5
-    97  Cam122     1       1    5
-    98  Cam123     1       1    6
-    99  Cam124     1       2    7
-    100 Cam125     1       1    9
-    101 Cam126     1       3    4
-    102 Cam127     1       1    9
-    103 Cam128     1       1    8
-    104 Cam129     1       1    6
-    105 Cam130     1       1    9
-    106 Cam131     1       1    6
-    107 Cam133     1       1    9
-    108 Cam135     1       2    9
-    109 Cam136     1       1    7
-    110 Cam137     1       1    7
-    111 Cam138     1       1    5
-    112 Cam139     1       2    6
-    113 Cam141     1       2    4
-    114 Cam142     1       1    2
-    115 Cam143     1       2    6
-    116 Cam144     1       1    6
-    117 Cam145     1       1    5
-    118 Cam146     1       2    9
-    119 Cam147     1       1    9
-    120 Cam148     1       1    7
-    121 Cam149     1       1    9
-    122 Cam150     1       1    8
-    123 Cam151     1       1    6
-    124 Cam152     1       3    5
-    125 Cam153     1       3    7
-    126 Cam154     1       1    7
-    127 Cam155     1       2    7
-    128 Cam156     1       1    9
-    129 Cam157     1       2    2
-    130 Cam159     1       3    7
-    131 Cam160     1       2    5
-    132 Cam161     1       1    9
-    133 Cam162     1       1    9
-    134 Cam163     1       1    9
-    135 Cam164     1       1    9
-    136 Cam165     1       3    9
-    137 Cam166     1       1    7
-    138 Cam167     1       1    7
-    139 Cam168     1       1    9
-    140 Cam169     1       3    9
-    141 Cam170     1       1    7
-    142 Cam171     1       3    7
-    143 Cam172     1       3    9
-    144 Cam173     1       1    9
-    145 Cam174     1       1    8
-    146 Cam175     1       1    6
-    147 Cam176     1       2    6
-    148 Cam177     1       3    6
-    149 Cam178     1       3    8
-    150 Cam179     1       1    7
-    151 Cam180     1       1    7
+       Camera CCODE QRCODES POTS
+    1  Cam100     1       1    4
+    2  Cam101     1       3    9
+    3  Cam102     1       2    9
+    4  Cam103     1       3    9
+    5  Cam104     1       1    8
+    6  Cam105     1       1    8
+    7  Cam106     1       3    9
+    8  Cam107     1       2    3
+    9  Cam108     1       3    7
+    10 Cam109     1       3    7
+    11 Cam110     1       3    8
+    12 Cam111     0       2    0
+    13 Cam112     1       2    6
+    14 Cam113     1       1    5
+    15 Cam114     1       2    9
+    16 Cam115     1       1    8
+    17 Cam116     1       1    9
+    18 Cam118     1       1    8
+    19 Cam119     1       2    7
+    20 Cam120     1       3    7
+    21 Cam121     1       2    7
+    22 Cam122     1       1    3
+    23 Cam123     1       1    7
+    24 Cam124     1       2    9
+    25 Cam125     1       1    9
+    26 Cam126     1       3    4
+    27 Cam127     1       1    7
+    28 Cam128     1       1    8
+    29 Cam129     1       1    7
+    30 Cam130     1       1    9
+    31 Cam131     1       1    6
+    32 Cam133     1       1    9
+    33 Cam135     1       2    9
+    34 Cam136     1       1    7
+    35 Cam137     1       1    9
+    36 Cam138     1       1    6
+    37 Cam139     1       2    7
+    38 Cam140     1       2    9
+    39 Cam141     1       2    6
+    40 Cam142     1       1    3
+    41 Cam143     1       2    6
+    42 Cam144     1       1    6
+    43 Cam145     1       1    5
+    44 Cam147     1       1    9
+    45 Cam148     1       1    8
+    46 Cam149     1       1    8
+    47 Cam150     1       1    6
+    48 Cam151     1       1    6
+    49 Cam152     1       3    6
+    50 Cam153     1       3    8
+    51 Cam154     1       1    8
+    52 Cam155     1       2    9
+    53 Cam156     1       1    9
+    54 Cam157     1       2    4
+    55 Cam159     1       3    7
+    56 Cam160     1       2    6
+    57 Cam161     1       1    9
+    58 Cam162     1       1    8
+    59 Cam163     1       1    8
+    60 Cam166     1       1    7
+    61 Cam167     1       1    5
+    62 Cam168     1       2    9
+    63 Cam170     1       1    6
+    64 Cam171     1       3    7
+    65 Cam172     1       3    9
+    66 Cam173     1       1    8
+    67 Cam174     1       1    7
+    68 Cam175     1       1    6
+    69 Cam176     1       1    6
+    70 Cam177     1       3    8
+    71 Cam178     1       3    9
+    72 Cam179     1       1    5
+    73 Cam180     1       1    5
 
 Particular Pot sizes
 --------------------
@@ -391,7 +436,7 @@ Particular Pot sizes
 Latest-Images
 -------------
 
-Cam1\_MT20180819150459\_C35\_119.jpg ![](pictures/Cam1_MT20180819150459_C35_119.jpg) Cam2\_MT20180819150459\_C76\_137\_147.jpg ![](pictures/Cam2_MT20180819150459_C76_137_147.jpg) Cam3\_MT20180819150459\_C6\_201\_205.jpg ![](pictures/Cam3_MT20180819150459_C6_201_205.jpg) Cam4\_MT20180819150459\_C15\_106.jpg ![](pictures/Cam4_MT20180819150459_C15_106.jpg) Cam5\_MT20180819150459\_C60\_143\_145.jpg ![](pictures/Cam5_MT20180819150459_C60_143_145.jpg) Cam6\_MT20180819150459\_C84\_132.jpg ![](pictures/Cam6_MT20180819150459_C84_132.jpg) Cam7\_MT20180819150459\_C51\_131.jpg ![](pictures/Cam7_MT20180819150459_C51_131.jpg) Cam8\_MT20180819150459\_C64\_148\_169.jpg ![](pictures/Cam8_MT20180819150459_C64_148_169.jpg) Cam9\_MT20180819150459\_C50\_188\_189.jpg ![](pictures/Cam9_MT20180819150459_C50_188_189.jpg) Cam10\_MT20180819150459\_C58\_18\_173\_180.jpg ![](pictures/Cam10_MT20180819150459_C58_18_173_180.jpg) Cam11\_MT20180819150459\_C62\_17\_168.jpg ![](pictures/Cam11_MT20180819150459_C62_17_168.jpg) Cam12\_MT20180819150459\_C53\_19\_187.jpg ![](pictures/Cam12_MT20180819150459_C53_19_187.jpg) Cam13\_MT20180819150459\_C34\_24\_237\_238.jpg ![](pictures/Cam13_MT20180819150459_C34_24_237_238.jpg) Cam14\_MT20180819150459\_C54\_182\_185.jpg ![](pictures/Cam14_MT20180819150459_C54_182_185.jpg) Cam15\_MT20180819150459\_C44\_124\_126.jpg ![](pictures/Cam15_MT20180819150459_C44_124_126.jpg) Cam16\_MT20180819150459\_C16\_106.jpg ![](pictures/Cam16_MT20180819150459_C16_106.jpg) Cam17\_MT20180819150459\_C20\_109.jpg ![](pictures/Cam17_MT20180819150459_C20_109.jpg) Cam18\_MT20180819150459\_C32\_117\_118.jpg ![](pictures/Cam18_MT20180819150459_C32_117_118.jpg) Cam19\_MT20180819150459\_C36\_12\_120.jpg ![](pictures/Cam19_MT20180819150459_C36_12_120.jpg) Cam20\_MT20180819150459\_C57\_181\_183.jpg ![](pictures/Cam20_MT20180819150459_C57_181_183.jpg) Cam21\_MT20180819150459\_C45\_25\_249.jpg ![](pictures/Cam21_MT20180819150459_C45_25_249.jpg) Cam22\_MT20180819150459\_C42\_245\_246\_247.jpg ![](pictures/Cam22_MT20180819150459_C42_245_246_247.jpg) Cam23\_MT20180819150459\_C19\_11\_22\_109.jpg ![](pictures/Cam23_MT20180819150459_C19_11_22_109.jpg) Cam24\_MT20180819150459\_C41\_194\_244.jpg ![](pictures/Cam24_MT20180819150459_C41_194_244.jpg) Cam25\_MT20180819150459\_C63\_168\_169.jpg ![](pictures/Cam25_MT20180819150459_C63_168_169.jpg) Cam26\_MT20180819150459\_C23\_110\_111\_225.jpg ![](pictures/Cam26_MT20180819150459_C23_110_111_225.jpg) Cam27\_MT20180819150459\_C27\_114\_115\_226.jpg ![](pictures/Cam27_MT20180819150459_C27_114_115_226.jpg) Cam28\_MT20180819150459\_C24\_111\_119.jpg ![](pictures/Cam28_MT20180819150459_C24_111_119.jpg) Cam29\_MT20180819150459\_C61\_170\_171.jpg ![](pictures/Cam29_MT20180819150459_C61_170_171.jpg) Cam30\_MT20180819150459\_C56\_14\_140.jpg ![](pictures/Cam30_MT20180819150459_C56_14_140.jpg) Cam31\_MT20180819150459\_C31\_116\_117\_233.jpg ![](pictures/Cam31_MT20180819150459_C31_116_117_233.jpg) Cam33\_MT20180819150459\_C25\_23\_227\_229.jpg ![](pictures/Cam33_MT20180819150459_C25_23_227_229.jpg) Cam34\_MT20180819150459\_C49\_248\_296.jpg ![](pictures/Cam34_MT20180819150459_C49_248_296.jpg) Cam35\_MT20180819150459\_C28\_113\_114.jpg ![](pictures/Cam35_MT20180819150459_C28_113_114.jpg) Cam36\_MT20180819150459\_C33\_234\_236.jpg ![](pictures/Cam36_MT20180819150459_C33_234_236.jpg) Cam37\_MT20180819150459\_C29\_232.jpg ![](pictures/Cam37_MT20180819150459_C29_232.jpg) Cam38\_MT20180819150459\_C30\_231\_233\_235.jpg ![](pictures/Cam38_MT20180819150459_C30_231_233_235.jpg) Cam39\_MT20180819150459\_C17\_217\_218.jpg ![](pictures/Cam39_MT20180819150459_C17_217_218.jpg) Cam40\_MT20180819150459\_C21\_223\_224.jpg ![](pictures/Cam40_MT20180819150459_C21_223_224.jpg) Cam41\_MT20180819150459\_C39\_123.jpg ![](pictures/Cam41_MT20180819150459_C39_123.jpg) Cam42\_MT20180819150459\_C55\_184.jpg ![](pictures/Cam42_MT20180819150459_C55_184.jpg) Cam43\_MT20180819150459\_C26\_227\_228.jpg ![](pictures/Cam43_MT20180819150459_C26_227_228.jpg) Cam44\_MT20180819150459\_C22\_213\_220\_225.jpg ![](pictures/Cam44_MT20180819150459_C22_213_220_225.jpg) Cam46\_MT20180819150459\_C18\_22\_219\_221.jpg ![](pictures/Cam46_MT20180819150459_C18_22_219_221.jpg) Cam47\_MT20180819150459\_C38\_241\_242\_243.jpg ![](pictures/Cam47_MT20180819150459_C38_241_242_243.jpg) Cam48\_MT20180819150459\_C46\_251.jpg ![](pictures/Cam48_MT20180819150459_C46_251.jpg) Cam49\_MT20180819150459\_C88\_191\_192.jpg ![](pictures/Cam49_MT20180819150459_C88_191_192.jpg) Cam50\_MT20180819150459\_C52\_130\_138.jpg ![](pictures/Cam50_MT20180819150459_C52_130_138.jpg) Cam51\_MT20180819150459\_C37\_239\_240\_242.jpg ![](pictures/Cam51_MT20180819150459_C37_239_240_242.jpg) Cam52\_MT20180819150459\_173.jpg ![](pictures/Cam52_MT20180819150459_173.jpg) Cam53\_MT20180819150459\_C5\_206\_207.jpg ![](pictures/Cam53_MT20180819150459_C5_206_207.jpg) Cam54\_MT20180819150459\_C4\_13.jpg ![](pictures/Cam54_MT20180819150459_C4_13.jpg) Cam55\_MT20180819150459\_C13\_211\_212.jpg ![](pictures/Cam55_MT20180819150459_C13_211_212.jpg) Cam56\_MT20180819150459\_C43\_247.jpg ![](pictures/Cam56_MT20180819150459_C43_247.jpg) Cam57\_MT20180819150459\_C2\_202\_204.jpg ![](pictures/Cam57_MT20180819150459_C2_202_204.jpg) Cam58\_MT20180819150459\_C11\_103.jpg ![](pictures/Cam58_MT20180819150459_C11_103.jpg) Cam59\_MT20180819150459\_C48\_127\_128.jpg ![](pictures/Cam59_MT20180819150459_C48_127_128.jpg) Cam60\_MT20180819150459\_C8\_101.jpg ![](pictures/Cam60_MT20180819150459_C8_101.jpg) Cam61\_MT20180819150459\_C110.jpg ![](pictures/Cam61_MT20180819150459_C110.jpg) Cam62\_MT20180819150459\_C7.jpg ![](pictures/Cam62_MT20180819150459_C7.jpg) Cam63\_MT20180819150459\_C10\_21.jpg ![](pictures/Cam63_MT20180819150459_C10_21.jpg) Cam64\_MT20180819150459\_C85\_2\_199.jpg ![](pictures/Cam64_MT20180819150459_C85_2_199.jpg) Cam65\_MT20180819150459\_C71\_144\_159.jpg ![](pictures/Cam65_MT20180819150459_C71_144_159.jpg) Cam66\_MT20180819150459\_C3\_13\_203.jpg ![](pictures/Cam66_MT20180819150459_C3_13_203.jpg) Cam67\_MT20180819150459\_C1\_20\_200\_202.jpg ![](pictures/Cam67_MT20180819150459_C1_20_200_202.jpg) Cam68\_MT20180819150459\_C47\_128\_129\_252.jpg ![](pictures/Cam68_MT20180819150459_C47_128_129_252.jpg) Cam69\_MT20180819150459\_C65\_167.jpg ![](pictures/Cam69_MT20180819150459_C65_167.jpg) Cam71\_MT20180819150459\_C72\_135\_139.jpg ![](pictures/Cam71_MT20180819150459_C72_135_139.jpg) Cam72\_MT20180819150459\_C68\_149\_154.jpg ![](pictures/Cam72_MT20180819150459_C68_149_154.jpg) Cam73\_MT20180819150459\_C67\_152\_154\_161.jpg ![](pictures/Cam73_MT20180819150459_C67_152_154_161.jpg) Cam74\_MT20180819150459\_C107.jpg ![](pictures/Cam74_MT20180819150459_C107.jpg) Cam75\_MT20180819150459\_C73\_155\_157\_158.jpg ![](pictures/Cam75_MT20180819150459_C73_155_157_158.jpg) Cam76\_MT20180819150459\_C112.jpg ![](pictures/Cam76_MT20180819150459_C112.jpg) Cam77\_MT20180819150459\_C75\_146.jpg ![](pictures/Cam77_MT20180819150459_C75_146.jpg) Cam78\_MT20180819150459\_C102\_268.jpg ![](pictures/Cam78_MT20180819150459_C102_268.jpg) Cam79\_MT20180819150459\_C86\_197\_198.jpg ![](pictures/Cam79_MT20180819150459_C86_197_198.jpg) Cam80\_MT20180819150459\_C9\_208\_209.jpg ![](pictures/Cam80_MT20180819150459_C9_208_209.jpg) Cam81\_MT20180819150459\_C116.jpg ![](pictures/Cam81_MT20180819150459_C116.jpg) Cam82\_MT20180819150459\_C92\_258\_259.jpg ![](pictures/Cam82_MT20180819150459_C92_258_259.jpg) Cam83\_MT20180819150459\_C12\_103.jpg ![](pictures/Cam83_MT20180819150459_C12_103.jpg) Cam84\_MT20180819150459\_C95\_254\_255.jpg ![](pictures/Cam84_MT20180819150459_C95_254_255.jpg) Cam85\_MT20180819150459\_C74\_155\_156.jpg ![](pictures/Cam85_MT20180819150459_C74_155_156.jpg) Cam86\_MT20180819150459\_C14\_214\_215\_216.jpg ![](pictures/Cam86_MT20180819150459_C14_214_215_216.jpg) Cam87\_MT20180819150459\_C168.jpg ![](pictures/Cam87_MT20180819150459_C168.jpg) Cam88\_MT20180819150459\_C87\_195.jpg ![](pictures/Cam88_MT20180819150459_C87_195.jpg) Cam89\_MT20180819150459\_C162.jpg ![](pictures/Cam89_MT20180819150459_C162.jpg) Cam90\_MT20180819150459\_C149\_282.jpg ![](pictures/Cam90_MT20180819150459_C149_282.jpg) Cam91\_MT20180819150459\_C152.jpg ![](pictures/Cam91_MT20180819150459_C152.jpg) Cam92\_MT20180819150459\_C179.jpg ![](pictures/Cam92_MT20180819150459_C179.jpg) Cam93\_MT20180819150459\_C160.jpg ![](pictures/Cam93_MT20180819150459_C160.jpg) Cam94\_MT20180819150459\_C141\_284.jpg ![](pictures/Cam94_MT20180819150459_C141_284.jpg) Cam95\_MT20180819150459\_C159.jpg ![](pictures/Cam95_MT20180819150459_C159.jpg) Cam96\_MT20180819150459\_C145\_283.jpg ![](pictures/Cam96_MT20180819150459_C145_283.jpg) Cam97\_MT20180819150459\_.jpg ![](pictures/Cam97_MT20180819150459_.jpg) Cam98\_MT20180819150459\_.jpg ![](pictures/Cam98_MT20180819150459_.jpg) Cam99\_MT20180819150459\_C83\_3.jpg ![](pictures/Cam99_MT20180819150459_C83_3.jpg) Cam100\_MT20180819150459\_C171.jpg ![](pictures/Cam100_MT20180819150459_C171.jpg) Cam101\_MT20180819150459\_C77\_179\_186.jpg ![](pictures/Cam101_MT20180819150459_C77_179_186.jpg) Cam102\_MT20180819150459\_C93\_293.jpg ![](pictures/Cam102_MT20180819150459_C93_293.jpg) Cam103\_MT20180819150459\_C78\_175\_177\_178.jpg ![](pictures/Cam103_MT20180819150459_C78_175_177_178.jpg) Cam104\_MT20180819150459\_C151.jpg ![](pictures/Cam104_MT20180819150459_C151.jpg) Cam105\_MT20180819150459\_C170.jpg ![](pictures/Cam105_MT20180819150459_C170.jpg) Cam106\_MT20180819150459\_C79\_175.jpg ![](pictures/Cam106_MT20180819150459_C79_175.jpg) Cam107\_MT20180819150459\_C177\_276.jpg ![](pictures/Cam107_MT20180819150459_C177_276.jpg) Cam109\_MT20180819150459\_C82\_3\_298\_299.jpg ![](pictures/Cam109_MT20180819150459_C82_3_298_299.jpg) Cam110\_MT20180819150459\_174\_193.jpg ![](pictures/Cam110_MT20180819150459_174_193.jpg) Cam112\_MT20180819150459\_C165\_279.jpg ![](pictures/Cam112_MT20180819150459_C165_279.jpg) Cam113\_MT20180819150459\_C131.jpg ![](pictures/Cam113_MT20180819150459_C131.jpg) Cam114\_MT20180819150459\_C106\_262.jpg ![](pictures/Cam114_MT20180819150459_C106_262.jpg) Cam115\_MT20180819150459\_C139.jpg ![](pictures/Cam115_MT20180819150459_C139.jpg) Cam116\_MT20180819150459\_C166.jpg ![](pictures/Cam116_MT20180819150459_C166.jpg) Cam117\_MT20180819150459\_C98\_273.jpg ![](pictures/Cam117_MT20180819150459_C98_273.jpg) Cam118\_MT20180819150459\_C127.jpg ![](pictures/Cam118_MT20180819150459_C127.jpg) Cam119\_MT20180819150459\_C109\_291.jpg ![](pictures/Cam119_MT20180819150459_C109_291.jpg) Cam120\_MT20180819163459\_C81\_176\_297.jpg ![](pictures/Cam120_MT20180819163459_C81_176_297.jpg) Cam121\_MT20180819163459\_C133\_286.jpg ![](pictures/Cam121_MT20180819163459_C133_286.jpg) Cam122\_MT20180819163459\_C135.jpg ![](pictures/Cam122_MT20180819163459_C135.jpg) Cam123\_MT20180819163459\_C144.jpg ![](pictures/Cam123_MT20180819163459_C144.jpg) Cam124\_MT20180819163459\_C169\_278.jpg ![](pictures/Cam124_MT20180819163459_C169_278.jpg) Cam125\_MT20180819163459\_C158.jpg ![](pictures/Cam125_MT20180819163459_C158.jpg) Cam126\_MT20180819163459\_C105\_222\_292.jpg ![](pictures/Cam126_MT20180819163459_C105_222_292.jpg) Cam127\_MT20180819163459\_C163.jpg ![](pictures/Cam127_MT20180819163459_C163.jpg) Cam128\_MT20180819163459\_C172.jpg ![](pictures/Cam128_MT20180819163459_C172.jpg) Cam129\_MT20180819163459\_C111.jpg ![](pictures/Cam129_MT20180819163459_C111.jpg) Cam130\_MT20180819163459\_C114.jpg ![](pictures/Cam130_MT20180819163459_C114.jpg) Cam131\_MT20180819163459\_C128.jpg ![](pictures/Cam131_MT20180819163459_C128.jpg) Cam132\_MT20180819163459\_C147.jpg ![](pictures/Cam132_MT20180819163459_C147.jpg) Cam133\_MT20180819163459\_C126.jpg ![](pictures/Cam133_MT20180819163459_C126.jpg) Cam134\_MT20180819163459\_C115.jpg ![](pictures/Cam134_MT20180819163459_C115.jpg) Cam135\_MT20180819163459\_C125\_288.jpg ![](pictures/Cam135_MT20180819163459_C125_288.jpg) Cam136\_MT20180819163459\_C138.jpg ![](pictures/Cam136_MT20180819163459_C138.jpg) Cam137\_MT20180819163459\_C142.jpg ![](pictures/Cam137_MT20180819163459_C142.jpg) Cam138\_MT20180819163459\_C124.jpg ![](pictures/Cam138_MT20180819163459_C124.jpg) Cam139\_MT20180819163459\_C161\_28.jpg ![](pictures/Cam139_MT20180819163459_C161_28.jpg) Cam141\_MT20180819163459\_C137\_285.jpg ![](pictures/Cam141_MT20180819163459_C137_285.jpg) Cam142\_MT20180819163459\_C164.jpg ![](pictures/Cam142_MT20180819163459_C164.jpg) Cam143\_MT20180819163459\_C129\_287.jpg ![](pictures/Cam143_MT20180819163459_C129_287.jpg) Cam144\_MT20180819163459\_C140.jpg ![](pictures/Cam144_MT20180819163459_C140.jpg) Cam145\_MT20180819163459\_C134.jpg ![](pictures/Cam145_MT20180819163459_C134.jpg) Cam146\_MT20180819163459\_C99\_271\_272.jpg ![](pictures/Cam146_MT20180819163459_C99_271_272.jpg) Cam147\_MT20180819163459\_C122.jpg ![](pictures/Cam147_MT20180819163459_C122.jpg) Cam148\_MT20180819163459\_C108.jpg ![](pictures/Cam148_MT20180819163459_C108.jpg) Cam149\_MT20180819163459\_C146.jpg ![](pictures/Cam149_MT20180819163459_C146.jpg) Cam150\_MT20180819163459\_C132.jpg ![](pictures/Cam150_MT20180819163459_C132.jpg) Cam151\_MT20180819163459\_C150.jpg ![](pictures/Cam151_MT20180819163459_C150.jpg) Cam152\_MT20180819163459\_263\_264.jpg ![](pictures/Cam152_MT20180819163459_263_264.jpg) Cam153\_MT20180819163459\_C103\_265\_266.jpg ![](pictures/Cam153_MT20180819163459_C103_265_266.jpg) Cam154\_MT20180819163459\_C148.jpg ![](pictures/Cam154_MT20180819163459_C148.jpg) Cam155\_MT20180819163459\_C121\_289.jpg ![](pictures/Cam155_MT20180819163459_C121_289.jpg) Cam156\_MT20180819163459\_C156.jpg ![](pictures/Cam156_MT20180819163459_C156.jpg) Cam157\_MT20180819163459\_C153\_281.jpg ![](pictures/Cam157_MT20180819163459_C153_281.jpg) Cam158\_MT20180819163459\_C90\_174\_260.jpg ![](pictures/Cam158_MT20180819163459_C90_174_260.jpg) Cam159\_MT20180819163459\_C96\_256\_257.jpg ![](pictures/Cam159_MT20180819163459_C96_256_257.jpg) Cam160\_MT20180819163459\_280.jpg ![](pictures/Cam160_MT20180819163459_280.jpg) Cam161\_MT20180819163459\_C118.jpg ![](pictures/Cam161_MT20180819163459_C118.jpg) Cam162\_MT20180819163459\_C119.jpg ![](pictures/Cam162_MT20180819163459_C119.jpg) Cam163\_MT20180819163459\_C175.jpg ![](pictures/Cam163_MT20180819163459_C175.jpg) Cam164\_MT20180819163459\_.jpg ![](pictures/Cam164_MT20180819163459_.jpg) Cam165\_MT20180819163459\_C101\_269.jpg ![](pictures/Cam165_MT20180819163459_C101_269.jpg) Cam166\_MT20180819163459\_C143.jpg ![](pictures/Cam166_MT20180819163459_C143.jpg) Cam167\_MT20180819163459\_C167.jpg ![](pictures/Cam167_MT20180819163459_C167.jpg) Cam168\_MT20180819163459\_C113.jpg ![](pictures/Cam168_MT20180819163459_C113.jpg) Cam169\_MT20180819163459\_C97\_275\_294.jpg ![](pictures/Cam169_MT20180819163459_C97_275_294.jpg) Cam170\_MT20180819163459\_C176.jpg ![](pictures/Cam170_MT20180819163459_C176.jpg) Cam171\_MT20180819163459\_C100\_270.jpg ![](pictures/Cam171_MT20180819163459_C100_270.jpg) Cam172\_MT20180819163459\_C91\_26\_261.jpg ![](pictures/Cam172_MT20180819163459_C91_26_261.jpg) Cam173\_MT20180819163459\_C174.jpg ![](pictures/Cam173_MT20180819163459_C174.jpg) Cam174\_MT20180819163459\_C123.jpg ![](pictures/Cam174_MT20180819163459_C123.jpg) Cam175\_MT20180819163459\_C155.jpg ![](pictures/Cam175_MT20180819163459_C155.jpg) Cam176\_MT20180819163459\_C173\_277.jpg ![](pictures/Cam176_MT20180819163459_C173_277.jpg) Cam177\_MT20180819163459\_C70\_164\_165.jpg ![](pictures/Cam177_MT20180819163459_C70_164_165.jpg) Cam178\_MT20180819163459\_C69\_163.jpg ![](pictures/Cam178_MT20180819163459_C69_163.jpg) Cam179\_MT20180819163459\_C120.jpg ![](pictures/Cam179_MT20180819163459_C120.jpg) Cam180\_MT20180819163459\_C136.jpg ![](pictures/Cam180_MT20180819163459_C136.jpg) \#\#TEMPERATURES:
+Cam10\_MT20180820163501\_C58\_18\_173\_180.jpg ![](pictures/Cam10_MT20180820163501_C58_18_173_180.jpg) Cam100\_MT20180820163501\_C171.jpg ![](pictures/Cam100_MT20180820163501_C171.jpg) Cam101\_MT20180820163501\_C77\_179\_186.jpg ![](pictures/Cam101_MT20180820163501_C77_179_186.jpg) Cam102\_MT20180820163501\_C93\_293.jpg ![](pictures/Cam102_MT20180820163501_C93_293.jpg) Cam103\_MT20180820163501\_C78\_175\_177\_178.jpg ![](pictures/Cam103_MT20180820163501_C78_175_177_178.jpg) Cam104\_MT20180820163501\_C151.jpg ![](pictures/Cam104_MT20180820163501_C151.jpg) Cam105\_MT20180820163501\_C170.jpg ![](pictures/Cam105_MT20180820163501_C170.jpg) Cam106\_MT20180820163501\_C79\_153\_175.jpg ![](pictures/Cam106_MT20180820163501_C79_153_175.jpg) Cam107\_MT20180820163501\_C177\_276.jpg ![](pictures/Cam107_MT20180820163501_C177_276.jpg) Cam108\_MT20180820163501\_C40\_121\_122.jpg ![](pictures/Cam108_MT20180820163501_C40_121_122.jpg) Cam109\_MT20180820163501\_C82\_298.jpg ![](pictures/Cam109_MT20180820163501_C82_298.jpg) Cam110\_MT20180820163501\_C89\_174\_190\_193.jpg ![](pictures/Cam110_MT20180820163501_C89_174_190_193.jpg) Cam111\_MT20180820163501\_134\_136.jpg ![](pictures/Cam111_MT20180820163501_134_136.jpg) Cam112\_MT20180820163501\_C165\_279.jpg ![](pictures/Cam112_MT20180820163501_C165_279.jpg) Cam113\_MT20180820163501\_C131.jpg ![](pictures/Cam113_MT20180820163501_C131.jpg) Cam114\_MT20180820163501\_C106\_262.jpg ![](pictures/Cam114_MT20180820163501_C106_262.jpg) Cam115\_MT20180820163501\_C139.jpg ![](pictures/Cam115_MT20180820163501_C139.jpg) Cam116\_MT20180820163501\_C166.jpg ![](pictures/Cam116_MT20180820163501_C166.jpg) Cam117\_MT20180820163501\_C98\_273.jpg ![](pictures/Cam117_MT20180820163501_C98_273.jpg) Cam118\_MT20180820163501\_C127.jpg ![](pictures/Cam118_MT20180820163501_C127.jpg) Cam119\_MT20180820163501\_C109\_291.jpg ![](pictures/Cam119_MT20180820163501_C109_291.jpg) Cam120\_MT20180820163501\_C81\_176\_297.jpg ![](pictures/Cam120_MT20180820163501_C81_176_297.jpg) Cam121\_MT20180820163501\_C133\_286.jpg ![](pictures/Cam121_MT20180820163501_C133_286.jpg) Cam122\_MT20180820163501\_C135.jpg ![](pictures/Cam122_MT20180820163501_C135.jpg) Cam123\_MT20180820163501\_C144.jpg ![](pictures/Cam123_MT20180820163501_C144.jpg) Cam124\_MT20180820163501\_C169\_278.jpg ![](pictures/Cam124_MT20180820163501_C169_278.jpg) Cam125\_MT20180820163501\_C158.jpg ![](pictures/Cam125_MT20180820163501_C158.jpg) Cam126\_MT20180820163501\_C105\_222\_292.jpg ![](pictures/Cam126_MT20180820163501_C105_222_292.jpg) Cam127\_MT20180820163501\_C163.jpg ![](pictures/Cam127_MT20180820163501_C163.jpg) Cam128\_MT20180820163501\_C172.jpg ![](pictures/Cam128_MT20180820163501_C172.jpg) Cam129\_MT20180820163501\_C111.jpg ![](pictures/Cam129_MT20180820163501_C111.jpg) Cam130\_MT20180820163501\_C114.jpg ![](pictures/Cam130_MT20180820163501_C114.jpg) Cam131\_MT20180820163501\_C128.jpg ![](pictures/Cam131_MT20180820163501_C128.jpg) Cam132\_MT20180820163501\_C147.jpg ![](pictures/Cam132_MT20180820163501_C147.jpg) Cam133\_MT20180820163501\_C126.jpg ![](pictures/Cam133_MT20180820163501_C126.jpg) Cam134\_MT20180820163501\_C115.jpg ![](pictures/Cam134_MT20180820163501_C115.jpg) Cam135\_MT20180820163501\_C125\_288.jpg ![](pictures/Cam135_MT20180820163501_C125_288.jpg) Cam136\_MT20180820163501\_C138.jpg ![](pictures/Cam136_MT20180820163501_C138.jpg) Cam137\_MT20180820163501\_C142.jpg ![](pictures/Cam137_MT20180820163501_C142.jpg) Cam138\_MT20180820163501\_C124.jpg ![](pictures/Cam138_MT20180820163501_C124.jpg) Cam139\_MT20180820163501\_C161\_28.jpg ![](pictures/Cam139_MT20180820163501_C161_28.jpg) Cam140\_MT20180820163501\_C117\_29.jpg ![](pictures/Cam140_MT20180820163501_C117_29.jpg) Cam141\_MT20180820163501\_C137\_285.jpg ![](pictures/Cam141_MT20180820163501_C137_285.jpg) Cam142\_MT20180820163501\_C164.jpg ![](pictures/Cam142_MT20180820163501_C164.jpg) Cam143\_MT20180820163501\_287.jpg ![](pictures/Cam143_MT20180820163501_287.jpg) Cam144\_MT20180820163501\_C140.jpg ![](pictures/Cam144_MT20180820163501_C140.jpg) Cam145\_MT20180820163501\_C134.jpg ![](pictures/Cam145_MT20180820163501_C134.jpg) Cam146\_MT20180820163501\_C99\_271\_272.jpg ![](pictures/Cam146_MT20180820163501_C99_271_272.jpg) Cam147\_MT20180820163501\_C122.jpg ![](pictures/Cam147_MT20180820163501_C122.jpg) Cam148\_MT20180820163501\_C108.jpg ![](pictures/Cam148_MT20180820163501_C108.jpg) Cam149\_MT20180820163501\_C146.jpg ![](pictures/Cam149_MT20180820163501_C146.jpg) Cam150\_MT20180820163501\_C132.jpg ![](pictures/Cam150_MT20180820163501_C132.jpg) Cam151\_MT20180820163501\_C150.jpg ![](pictures/Cam151_MT20180820163501_C150.jpg) Cam152\_MT20180820163501\_C104\_263\_264.jpg ![](pictures/Cam152_MT20180820163501_C104_263_264.jpg) Cam153\_MT20180820163501\_C103\_265\_266.jpg ![](pictures/Cam153_MT20180820163501_C103_265_266.jpg) Cam154\_MT20180820163501\_C148.jpg ![](pictures/Cam154_MT20180820163501_C148.jpg) Cam155\_MT20180820163501\_C121\_289.jpg ![](pictures/Cam155_MT20180820163501_C121_289.jpg) Cam156\_MT20180820163501\_C156.jpg ![](pictures/Cam156_MT20180820163501_C156.jpg) Cam157\_MT20180820163501\_C153\_281.jpg ![](pictures/Cam157_MT20180820163501_C153_281.jpg) Cam158\_MT20180820163501\_C90\_174\_260.jpg ![](pictures/Cam158_MT20180820163501_C90_174_260.jpg) Cam159\_MT20180820163501\_C96\_256\_257.jpg ![](pictures/Cam159_MT20180820163501_C96_256_257.jpg) Cam160\_MT20180820163501\_C157\_280.jpg ![](pictures/Cam160_MT20180820163501_C157_280.jpg) Cam161\_MT20180820163501\_C118.jpg ![](pictures/Cam161_MT20180820163501_C118.jpg) Cam162\_MT20180820163501\_C119.jpg ![](pictures/Cam162_MT20180820163501_C119.jpg) Cam163\_MT20180820163501\_C175.jpg ![](pictures/Cam163_MT20180820163501_C175.jpg) Cam164\_MT20180820163501\_C130.jpg ![](pictures/Cam164_MT20180820163501_C130.jpg) Cam165\_MT20180820163501\_C101\_269\_295.jpg ![](pictures/Cam165_MT20180820163501_C101_269_295.jpg) Cam166\_MT20180820163501\_C143.jpg ![](pictures/Cam166_MT20180820163501_C143.jpg) Cam167\_MT20180820163501\_C167.jpg ![](pictures/Cam167_MT20180820163501_C167.jpg) Cam168\_MT20180820163501\_C113.jpg ![](pictures/Cam168_MT20180820163501_C113.jpg) Cam169\_MT20180820163501\_C97\_275\_294.jpg ![](pictures/Cam169_MT20180820163501_C97_275_294.jpg) Cam170\_MT20180820163501\_C176.jpg ![](pictures/Cam170_MT20180820163501_C176.jpg) Cam171\_MT20180820163501\_C100\_27\_270.jpg ![](pictures/Cam171_MT20180820163501_C100_27_270.jpg) Cam172\_MT20180820163501\_C91\_26\_261.jpg ![](pictures/Cam172_MT20180820163501_C91_26_261.jpg) Cam173\_MT20180820163501\_C174.jpg ![](pictures/Cam173_MT20180820163501_C174.jpg) Cam174\_MT20180820163501\_C123.jpg ![](pictures/Cam174_MT20180820163501_C123.jpg) Cam175\_MT20180820163501\_C155.jpg ![](pictures/Cam175_MT20180820163501_C155.jpg) Cam176\_MT20180820163501\_C173.jpg ![](pictures/Cam176_MT20180820163501_C173.jpg) Cam177\_MT20180820163501\_C70\_164\_165.jpg ![](pictures/Cam177_MT20180820163501_C70_164_165.jpg) Cam178\_MT20180820163501\_C69\_162\_163.jpg ![](pictures/Cam178_MT20180820163501_C69_162_163.jpg) Cam179\_MT20180820163501\_C120.jpg ![](pictures/Cam179_MT20180820163501_C120.jpg) Cam180\_MT20180820163501\_C136.jpg ![](pictures/Cam180_MT20180820163501_C136.jpg) \#\#TEMPERATURES:
 
 ``` text
 NO SENSOR INFORMATION THIS YEAR
