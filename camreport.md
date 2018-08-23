@@ -1,6 +1,6 @@
 Camera Status report
 ================
-23/08/2018 - 12:00:22
+23/08/2018 - 13:00:17
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -76,15 +76,15 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9487836  88334148  10% /
+/dev/root      103081248   9489076  88332908  10% /
 devtmpfs         1017504         0   1017504   0% /dev
-tmpfs            1019728       908   1018820   1% /run
-tmpfs            1019728        88   1019640   1% /dev/shm
+tmpfs            1019728       896   1018832   1% /run
+tmpfs            1019728         0   1019728   0% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 367006768 318631976  54% /home
+/dev/sda3      722355288 367149820 318488924  54% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
-/dev/sdb1      961301832  10142412 902304996   2% /run/media/user1/911796ce-0ada-42d1-b59f-c09fd181aea3
+/dev/sdb1      961301832 114490308 797957100  13% /home/user1/temper
 ```
 
 QR-detection
@@ -352,7 +352,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 304652936
+total 304795080
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -5977,6 +5977,7 @@ total 304652936
 -rw-r--r-- 1 user1 users 145633280 Aug 23 10:59 MT20180823105117.tar
 -rw-r--r-- 1 user1 users 144588800 Aug 23 11:29 MT20180823112116.tar
 -rw-r--r-- 1 user1 users 144220160 Aug 23 12:00 MT20180823115118.tar
+-rw-r--r-- 1 user1 users 145551360 Aug 23 12:48 MT20180823124056.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
