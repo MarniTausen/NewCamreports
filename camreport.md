@@ -1,6 +1,6 @@
 Camera Status report
 ================
-23/08/2018 - 13:00:17
+23/08/2018 - 14:42:40
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -76,15 +76,15 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9489076  88332908  10% /
+/dev/root      103081248   9774104  88047880  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       896   1018832   1% /run
 tmpfs            1019728         0   1019728   0% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 367149820 318488924  54% /home
+/dev/sda3      722355288 367576452 318062292  54% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
-/dev/sdb1      961301832 114490308 797957100  13% /home/user1/temper
+/dev/sdb1      961301832 344986072 567461336  38% /home/user1/temper
 ```
 
 QR-detection
@@ -352,7 +352,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 304795080
+total 305221708
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -5978,6 +5978,9 @@ total 304795080
 -rw-r--r-- 1 user1 users 144588800 Aug 23 11:29 MT20180823112116.tar
 -rw-r--r-- 1 user1 users 144220160 Aug 23 12:00 MT20180823115118.tar
 -rw-r--r-- 1 user1 users 145551360 Aug 23 12:48 MT20180823124056.tar
+-rw-r--r-- 1 user1 users 145612800 Aug 23 13:19 MT20180823131053.tar
+-rw-r--r-- 1 user1 users 145479680 Aug 23 13:49 MT20180823134100.tar
+-rw-r--r-- 1 user1 users 145766400 Aug 23 14:19 MT20180823141057.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
