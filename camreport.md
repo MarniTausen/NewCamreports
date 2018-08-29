@@ -1,6 +1,6 @@
 Camera Status report
 ================
-29/08/2018 - 15:00:27
+29/08/2018 - 16:51:22
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -12,70 +12,92 @@ Camera Status report
 
     Cameras currently down:
         Names Status
-    1    cam3   down
-    2    cam4   down
-    3   cam16   down
-    4   cam17   down
-    5   cam23   down
-    6   cam26   down
-    7   cam27   down
-    8   cam28   down
-    9   cam33   down
-    10  cam35   down
-    11  cam39   down
-    12  cam40   down
-    13  cam43   down
-    14  cam44   down
-    15  cam45   down
-    16  cam46   down
-    17  cam49   down
-    18  cam53   down
-    19  cam54   down
-    20  cam55   down
-    21  cam57   down
-    22  cam58   down
-    23  cam60   down
-    24  cam61   down
-    25  cam62   down
-    26  cam63   down
-    27  cam64   down
-    28  cam66   down
-    29  cam67   down
-    30  cam74   down
-    31  cam76   down
-    32  cam78   down
-    33  cam79   down
-    34  cam80   down
-    35  cam81   down
-    36  cam82   down
-    37  cam83   down
-    38  cam84   down
-    39  cam86   down
-    40  cam88   down
-    41 cam102   down
-    42 cam110   down
-    43 cam114   down
-    44 cam117   down
-    45 cam119   down
-    46 cam126   down
-    47 cam129   down
-    48 cam130   down
-    49 cam134   down
-    50 cam140   down
-    51 cam146   down
-    52 cam148   down
-    53 cam152   down
-    54 cam153   down
-    55 cam158   down
-    56 cam159   down
-    57 cam161   down
-    58 cam162   down
-    59 cam165   down
-    60 cam168   down
-    61 cam169   down
-    62 cam171   down
-    63 cam172   down
-    64 cam179   down
+    1    cam2   down
+    2    cam3   down
+    3    cam4   down
+    4    cam6   down
+    5   cam16   down
+    6   cam17   down
+    7   cam23   down
+    8   cam26   down
+    9   cam27   down
+    10  cam28   down
+    11  cam33   down
+    12  cam35   down
+    13  cam39   down
+    14  cam40   down
+    15  cam43   down
+    16  cam44   down
+    17  cam45   down
+    18  cam46   down
+    19  cam49   down
+    20  cam53   down
+    21  cam54   down
+    22  cam55   down
+    23  cam57   down
+    24  cam58   down
+    25  cam60   down
+    26  cam61   down
+    27  cam62   down
+    28  cam63   down
+    29  cam64   down
+    30  cam66   down
+    31  cam67   down
+    32  cam70   down
+    33  cam74   down
+    34  cam75   down
+    35  cam76   down
+    36  cam77   down
+    37  cam78   down
+    38  cam79   down
+    39  cam80   down
+    40  cam81   down
+    41  cam82   down
+    42  cam83   down
+    43  cam84   down
+    44  cam85   down
+    45  cam86   down
+    46  cam88   down
+    47  cam92   down
+    48  cam97   down
+    49  cam99   down
+    50 cam101   down
+    51 cam102   down
+    52 cam103   down
+    53 cam105   down
+    54 cam106   down
+    55 cam107   down
+    56 cam109   down
+    57 cam110   down
+    58 cam111   down
+    59 cam114   down
+    60 cam117   down
+    61 cam119   down
+    62 cam120   down
+    63 cam124   down
+    64 cam126   down
+    65 cam129   down
+    66 cam130   down
+    67 cam134   down
+    68 cam140   down
+    69 cam146   down
+    70 cam148   down
+    71 cam152   down
+    72 cam153   down
+    73 cam158   down
+    74 cam159   down
+    75 cam161   down
+    76 cam162   down
+    77 cam163   down
+    78 cam165   down
+    79 cam168   down
+    80 cam169   down
+    81 cam170   down
+    82 cam171   down
+    83 cam172   down
+    84 cam173   down
+    85 cam176   down
+    86 cam179   down
 
 ![](camreport_files/figure-markdown_github/unnamed-chunk-3-1.svg)
 
@@ -141,13 +163,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9437160  88384824  10% /
+/dev/root      103081248   9419664  88402320  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728         0   1019728   0% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 386922360 298716384  57% /home
+/dev/sda3      722355288 387157992 298480752  57% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 /dev/sdb1      961301832 369121312 543326096  41% /home/user1/temper
 ```
@@ -348,7 +370,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 324567608
+total 324803240
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -6152,6 +6174,9 @@ total 324567608
 -rw-r--r-- 1 user1 users 145254400 Aug 29 13:48 MT20180829134045.tar
 -rw-r--r-- 1 user1 users 145223680 Aug 29 14:18 MT20180829141046.tar
 -rw-r--r-- 1 user1 users  92344320 Aug 29 14:47 MT20180829144102.tar
+-rw-r--r-- 1 user1 users  92549120 Aug 29 15:17 MT20180829151102.tar
+-rw-r--r-- 1 user1 users  74270720 Aug 29 15:47 MT20180829154101.tar
+-rw-r--r-- 1 user1 users  74465280 Aug 29 16:18 MT20180829161145.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
