@@ -1,6 +1,6 @@
 Camera Status report
 ================
-29/08/2018 - 21:21:01
+30/08/2018 - 06:05:18
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -10,14 +10,32 @@ Camera Status report
 -   [Latest-Images](#latest-images)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    Warning in file(file, "rt"): cannot open file 'camreport.csv': No such file
-    or directory
+    Cameras currently down:
+        Names Status
+    1    cam2   down
+    2    cam6   down
+    3   cam70   down
+    4   cam75   down
+    5   cam77   down
+    6   cam85   down
+    7   cam92   down
+    8   cam97   down
+    9   cam99   down
+    10 cam101   down
+    11 cam103   down
+    12 cam105   down
+    13 cam106   down
+    14 cam107   down
+    15 cam109   down
+    16 cam111   down
+    17 cam120   down
+    18 cam124   down
+    19 cam163   down
+    20 cam170   down
+    21 cam173   down
+    22 cam176   down
 
-    Error in file(file, "rt"): cannot open the connection
-
-    Error in eval(lhs, parent, parent): object 'report' not found
-
-    Error in nrow(downlist): object 'downlist' not found
+![](camreport_files/figure-markdown_github/unnamed-chunk-3-1.svg)
 
 Latest number of pictures from the Cameras
 ------------------------------------------
@@ -249,13 +267,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9478924  88343060  10% /
+/dev/root      103081248   9370828  88451156  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728         0   1019728   0% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 387512288 298126456  57% /home
+/dev/sda3      722355288 387704448 297934296  57% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 /dev/sdb1      961301832 369121312 543326096  41% /home/user1/temper
 ```
@@ -454,7 +472,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 325157536
+total 325349696
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -6265,6 +6283,14 @@ total 325157536
 -rw-r--r-- 1 user1 users  76625920 Aug 29 17:54 MT20180829174807.tar
 -rw-r--r-- 1 user1 users  76523520 Aug 29 19:01 MT20180829185432.tar
 -rw-r--r-- 1 user1 users 135055360 Aug 29 20:08 MT20180829200104.tar
+-rw-r--r-- 1 user1 users  25262080 Aug 29 21:14 MT20180829210841.tar
+-rw-r--r-- 1 user1 users  24483840 Aug 29 22:21 MT20180829221458.tar
+-rw-r--r-- 1 user1 users  24504320 Aug 29 23:27 MT20180829232115.tar
+-rw-r--r-- 1 user1 users  24483840 Aug 30 00:33 MT20180830002732.tar
+-rw-r--r-- 1 user1 users  24514560 Aug 30 01:40 MT20180830013349.tar
+-rw-r--r-- 1 user1 users  24494080 Aug 30 02:46 MT20180830024007.tar
+-rw-r--r-- 1 user1 users  24504320 Aug 30 03:52 MT20180830034624.tar
+-rw-r--r-- 1 user1 users  24514560 Aug 30 04:58 MT20180830045241.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
