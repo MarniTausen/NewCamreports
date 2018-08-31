@@ -1,6 +1,6 @@
 Camera Status report
 ================
-31/08/2018 - 15:01:09
+31/08/2018 - 16:01:12
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -10,30 +10,7 @@ Camera Status report
 -   [Latest-Images](#latest-images)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    Cameras currently down:
-        Names Status
-    1    cam2   down
-    2    cam6   down
-    3   cam70   down
-    4   cam75   down
-    5   cam77   down
-    6   cam85   down
-    7   cam92   down
-    8   cam97   down
-    9   cam99   down
-    10 cam101   down
-    11 cam103   down
-    12 cam105   down
-    13 cam106   down
-    14 cam107   down
-    15 cam109   down
-    16 cam111   down
-    17 cam120   down
-    18 cam124   down
-    19 cam163   down
-    20 cam170   down
-    21 cam173   down
-    22 cam176   down
+    All cameras are up and running
 
 ![](camreport_files/figure-markdown_github/unnamed-chunk-3-1.svg)
 
@@ -120,13 +97,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9633752  88188232  10% /
+/dev/root      103081248   9671628  88150356  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
-tmpfs            1019728         0   1019728   0% /dev/shm
+tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 392097648 293541096  58% /home
+/dev/sda3      722355288 392349004 293289740  58% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 /dev/sdb1      961301832 369121312 543326096  41% /home/user1/temper
 ```
@@ -296,7 +273,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 329742896
+total 329993820
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -6157,6 +6134,8 @@ total 329742896
 -rw-r--r-- 1 user1 users 129249280 Aug 31 13:18 MT20180831131130.tar
 -rw-r--r-- 1 user1 users 127436800 Aug 31 13:48 MT20180831134129.tar
 -rw-r--r-- 1 user1 users 128471040 Aug 31 14:18 MT20180831141130.tar
+-rw-r--r-- 1 user1 users 128665600 Aug 31 14:49 MT20180831144131.tar
+-rw-r--r-- 1 user1 users 128276480 Aug 31 15:18 MT20180831151130.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
