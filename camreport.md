@@ -1,6 +1,6 @@
 Camera Status report
 ================
-04/09/2018 - 16:00:47
+04/09/2018 - 17:03:09
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -76,13 +76,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9823072  87998912  11% /
+/dev/root      103081248   9489152  88332832  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 404923352 280715392  60% /home
+/dev/sda3      722355288 405491024 280147720  60% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 /dev/sdb1      961301832 369121312 543326096  41% /home/user1/temper
 ```
@@ -253,7 +253,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 342568168
+total 343135840
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -6231,6 +6231,10 @@ total 342568168
 -rw-r--r-- 1 user1 users 145182720 Sep  4 13:48 MT20180904134105.tar
 -rw-r--r-- 1 user1 users 145336320 Sep  4 14:18 MT20180904141106.tar
 -rw-r--r-- 1 user1 users 145080320 Sep  4 14:48 MT20180904144105.tar
+-rw-r--r-- 1 user1 users 145141760 Sep  4 15:18 MT20180904151106.tar
+-rw-r--r-- 1 user1 users 145305600 Sep  4 15:48 MT20180904154105.tar
+-rw-r--r-- 1 user1 users 145244160 Sep  4 16:18 MT20180904161104.tar
+-rw-r--r-- 1 user1 users 145602560 Sep  4 16:48 MT20180904164106.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
