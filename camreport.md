@@ -1,6 +1,6 @@
 Camera Status report
 ================
-13/09/2018 - 21:27:33
+14/09/2018 - 06:05:07
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -10,14 +10,9 @@ Camera Status report
 -   [Latest-Images](#latest-images)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    Warning in file(file, "rt"): cannot open file 'camreport.csv': No such file
-    or directory
+    All cameras are up and running
 
-    Error in file(file, "rt"): cannot open the connection
-
-    Error in eval(lhs, parent, parent): object 'report' not found
-
-    Error in nrow(downlist): object 'downlist' not found
+![](camreport_files/figure-markdown_github/unnamed-chunk-3-1.svg)
 
 Latest number of pictures from the Cameras
 ------------------------------------------
@@ -81,13 +76,13 @@ LIST OF DIRECTORIES AND FREE SPACE:
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9437000  88384984  10% /
+/dev/root      103081248   9374184  88447800  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 434563164 251075580  64% /home
+/dev/sda3      722355288 434781148 250857596  64% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 /dev/sdb1      961301832 369121312 543326096  41% /home/user1/temper
 ```
@@ -246,7 +241,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 372207980
+total 372425964
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -6492,6 +6487,14 @@ total 372207980
 -rw-r--r-- 1 user1 users 154193920 Sep 13 17:57 MT20180913174938.tar
 -rw-r--r-- 1 user1 users 155985920 Sep 13 19:05 MT20180913185736.tar
 -rw-r--r-- 1 user1 users  92180480 Sep 13 20:12 MT20180913200534.tar
+-rw-r--r-- 1 user1 users  27924480 Sep 13 21:19 MT20180913211256.tar
+-rw-r--r-- 1 user1 users  27893760 Sep 13 22:25 MT20180913221926.tar
+-rw-r--r-- 1 user1 users  27904000 Sep 13 23:32 MT20180913232556.tar
+-rw-r--r-- 1 user1 users  27904000 Sep 14 00:38 MT20180914003226.tar
+-rw-r--r-- 1 user1 users  27904000 Sep 14 01:45 MT20180914013856.tar
+-rw-r--r-- 1 user1 users  27883520 Sep 14 02:51 MT20180914024527.tar
+-rw-r--r-- 1 user1 users  27883520 Sep 14 03:58 MT20180914035157.tar
+-rw-r--r-- 1 user1 users  27904000 Sep 14 05:04 MT20180914045828.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
