@@ -1,6 +1,6 @@
 Camera Status report
 ================
-25/09/2018 - 18:01:00
+25/09/2018 - 21:01:21
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -17,72 +17,221 @@ Camera Status report
 Latest number of pictures from the Cameras
 ------------------------------------------
 
-Images from day: MT20180924
+Images from day: MT20180925
 
        Camera nPictures Camera nPictures Camera nPictures Camera nPictures
-    1    Cam1        14  Cam46        14  Cam91        14 Cam136        14
-    2    Cam2        14  Cam47        14  Cam92        14 Cam137        14
-    3    Cam3        14  Cam48        14  Cam93        14 Cam138        14
-    4    Cam4        14  Cam49        14  Cam94        14 Cam139        14
-    5    Cam5        14  Cam50        14  Cam95        14 Cam140        14
-    6    Cam6        14  Cam51        14  Cam96        14 Cam141        14
-    7    Cam7        14  Cam52        14  Cam97        14 Cam142        14
-    8    Cam8        14  Cam53        14  Cam98        14 Cam143        14
-    9    Cam9        14  Cam54        14  Cam99        14 Cam144        14
-    10  Cam10        14  Cam55        14 Cam100        14 Cam145        14
-    11  Cam11        14  Cam56        14 Cam101        14 Cam146        14
-    12  Cam12        14  Cam57        14 Cam102        14 Cam147        14
-    13  Cam13        14  Cam58        14 Cam103        14 Cam148        14
-    14  Cam14        14  Cam59        14 Cam104        14 Cam149        14
-    15  Cam15        14  Cam60        14 Cam105        14 Cam150        14
-    16  Cam16        14  Cam61        14 Cam106        14 Cam151        14
-    17  Cam17        14  Cam62        14 Cam107        14 Cam152        14
-    18  Cam18        14  Cam63        14 Cam108        14 Cam153        14
-    19  Cam19        14  Cam64        14 Cam109        14 Cam154        14
-    20  Cam20        14  Cam65        14 Cam110        14 Cam155        14
-    21  Cam21        14  Cam66        14 Cam111        14 Cam156        14
-    22  Cam22        14  Cam67        14 Cam112        14 Cam157        14
-    23  Cam23        14  Cam68        14 Cam113        14 Cam158        14
-    24  Cam24        14  Cam69        14 Cam114        14 Cam159        14
-    25  Cam25        14  Cam70        14 Cam115        14 Cam160        14
-    26  Cam26        14  Cam71        14 Cam116        14 Cam161        14
-    27  Cam27        14  Cam72        14 Cam117        14 Cam162        14
-    28  Cam28        14  Cam73        14 Cam118        14 Cam163        14
-    29  Cam29        14  Cam74        14 Cam119        14 Cam164        14
-    30  Cam30        14  Cam75        14 Cam120        14 Cam165        14
-    31  Cam31        14  Cam76        14 Cam121        14 Cam166        14
-    32  Cam32        14  Cam77        14 Cam122        14 Cam167        14
-    33  Cam33        14  Cam78        14 Cam123        14 Cam168        14
-    34  Cam34        14  Cam79        14 Cam124        14 Cam169        14
-    35  Cam35        14  Cam80        14 Cam125        14 Cam170        14
-    36  Cam36        14  Cam81        14 Cam126        14 Cam171        14
-    37  Cam37        14  Cam82        14 Cam127        14 Cam172        14
-    38  Cam38        14  Cam83        14 Cam128        14 Cam173        14
-    39  Cam39        14  Cam84        14 Cam129        14 Cam174        14
-    40  Cam40        14  Cam85        14 Cam130        14 Cam175        14
-    41  Cam41        14  Cam86        14 Cam131        14 Cam176        14
-    42  Cam42        14  Cam87        14 Cam132        14 Cam177        14
-    43  Cam43        14  Cam88        14 Cam133        14 Cam178        14
-    44  Cam44        14  Cam89        14 Cam134        14 Cam179        14
-    45  Cam45        14  Cam90        14 Cam135        14 Cam180        14
+    1    Cam1        14  Cam46         5  Cam91         5 Cam136         5
+    2    Cam2        14  Cam47         7  Cam92         5 Cam137         5
+    3    Cam3         5  Cam48         7  Cam93         5 Cam138         5
+    4    Cam4         5  Cam49         5  Cam94         5 Cam139         5
+    5    Cam5        14  Cam50         7  Cam95         5 Cam140         5
+    6    Cam6        14  Cam51         7  Cam96         5 Cam141         5
+    7    Cam7        14  Cam52         7  Cam97         5 Cam142         5
+    8    Cam8        14  Cam53         5  Cam98         5 Cam143         5
+    9    Cam9        14  Cam54         5  Cam99         5 Cam144         5
+    10  Cam10        14  Cam55         5 Cam100         5 Cam145         5
+    11  Cam11        14  Cam56         5 Cam101         5 Cam146         5
+    12  Cam12        14  Cam57         5 Cam102         5 Cam147         5
+    13  Cam13        14  Cam58         5 Cam103         5 Cam148         5
+    14  Cam14        14  Cam59         5 Cam104         5 Cam149         5
+    15  Cam15        14  Cam60         5 Cam105         5 Cam150         5
+    16  Cam16         5  Cam61         5 Cam106         5 Cam151         5
+    17  Cam17         5  Cam62         5 Cam107         5 Cam152         5
+    18  Cam18        14  Cam63         5 Cam108         5 Cam153         5
+    19  Cam19        14  Cam64         5 Cam109         5 Cam154         5
+    20  Cam20        14  Cam65         5 Cam110         5 Cam155         5
+    21  Cam21        14  Cam66         5 Cam111         5 Cam156         5
+    22  Cam22        14  Cam67         5 Cam112         5 Cam157         5
+    23  Cam23         5  Cam68         5 Cam113         5 Cam158         5
+    24  Cam24        14  Cam69         5 Cam114         5 Cam159         5
+    25  Cam25        14  Cam70         5 Cam115         5 Cam160         5
+    26  Cam26         5  Cam71         5 Cam116         5 Cam161         5
+    27  Cam27         5  Cam72         5 Cam117         5 Cam162         5
+    28  Cam28         5  Cam73         5 Cam118         5 Cam163         5
+    29  Cam29        14  Cam74         5 Cam119         5 Cam164         5
+    30  Cam30        14  Cam75         5 Cam120         5 Cam165         5
+    31  Cam31        14  Cam76         5 Cam121         5 Cam166         5
+    32  Cam32        14  Cam77         5 Cam122         5 Cam167         5
+    33  Cam33         5  Cam78         5 Cam123         5 Cam168         5
+    34  Cam34        14  Cam79         5 Cam124         5 Cam169         5
+    35  Cam35         5  Cam80         5 Cam125         5 Cam170         5
+    36  Cam36        14  Cam81         5 Cam126         5 Cam171         5
+    37  Cam37        14  Cam82         5 Cam127         5 Cam172         5
+    38  Cam38        14  Cam83         5 Cam128         5 Cam173         5
+    39  Cam39         5  Cam84         5 Cam129         5 Cam174         5
+    40  Cam40         5  Cam85         5 Cam130         5 Cam175         5
+    41  Cam41        14  Cam86         5 Cam131         5 Cam176         5
+    42  Cam42        14  Cam87         5 Cam132         5 Cam177         5
+    43  Cam43         5  Cam88         5 Cam133         5 Cam178         5
+    44  Cam44         5  Cam89         5 Cam134         5 Cam179         5
+    45  Cam45         5  Cam90         5 Cam135         5 Cam180         5
 
     Problematic cameras
 
-    [1] Camera    nPictures
-    <0 rows> (or 0-length row.names)
+        Camera nPictures
+    1     Cam3         5
+    2     Cam4         5
+    3    Cam16         5
+    4    Cam17         5
+    5    Cam23         5
+    6    Cam26         5
+    7    Cam27         5
+    8    Cam28         5
+    9    Cam33         5
+    10   Cam35         5
+    11   Cam39         5
+    12   Cam40         5
+    13   Cam43         5
+    14   Cam44         5
+    15   Cam45         5
+    16   Cam46         5
+    17   Cam47         7
+    18   Cam48         7
+    19   Cam49         5
+    20   Cam50         7
+    21   Cam51         7
+    22   Cam52         7
+    23   Cam53         5
+    24   Cam54         5
+    25   Cam55         5
+    26   Cam56         5
+    27   Cam57         5
+    28   Cam58         5
+    29   Cam59         5
+    30   Cam60         5
+    31   Cam61         5
+    32   Cam62         5
+    33   Cam63         5
+    34   Cam64         5
+    35   Cam65         5
+    36   Cam66         5
+    37   Cam67         5
+    38   Cam68         5
+    39   Cam69         5
+    40   Cam70         5
+    41   Cam71         5
+    42   Cam72         5
+    43   Cam73         5
+    44   Cam74         5
+    45   Cam75         5
+    46   Cam76         5
+    47   Cam77         5
+    48   Cam78         5
+    49   Cam79         5
+    50   Cam80         5
+    51   Cam81         5
+    52   Cam82         5
+    53   Cam83         5
+    54   Cam84         5
+    55   Cam85         5
+    56   Cam86         5
+    57   Cam87         5
+    58   Cam88         5
+    59   Cam89         5
+    60   Cam90         5
+    61   Cam91         5
+    62   Cam92         5
+    63   Cam93         5
+    64   Cam94         5
+    65   Cam95         5
+    66   Cam96         5
+    67   Cam97         5
+    68   Cam98         5
+    69   Cam99         5
+    70  Cam100         5
+    71  Cam101         5
+    72  Cam102         5
+    73  Cam103         5
+    74  Cam104         5
+    75  Cam105         5
+    76  Cam106         5
+    77  Cam107         5
+    78  Cam108         5
+    79  Cam109         5
+    80  Cam110         5
+    81  Cam111         5
+    82  Cam112         5
+    83  Cam113         5
+    84  Cam114         5
+    85  Cam115         5
+    86  Cam116         5
+    87  Cam117         5
+    88  Cam118         5
+    89  Cam119         5
+    90  Cam120         5
+    91  Cam121         5
+    92  Cam122         5
+    93  Cam123         5
+    94  Cam124         5
+    95  Cam125         5
+    96  Cam126         5
+    97  Cam127         5
+    98  Cam128         5
+    99  Cam129         5
+    100 Cam130         5
+    101 Cam131         5
+    102 Cam132         5
+    103 Cam133         5
+    104 Cam134         5
+    105 Cam135         5
+    106 Cam136         5
+    107 Cam137         5
+    108 Cam138         5
+    109 Cam139         5
+    110 Cam140         5
+    111 Cam141         5
+    112 Cam142         5
+    113 Cam143         5
+    114 Cam144         5
+    115 Cam145         5
+    116 Cam146         5
+    117 Cam147         5
+    118 Cam148         5
+    119 Cam149         5
+    120 Cam150         5
+    121 Cam151         5
+    122 Cam152         5
+    123 Cam153         5
+    124 Cam154         5
+    125 Cam155         5
+    126 Cam156         5
+    127 Cam157         5
+    128 Cam158         5
+    129 Cam159         5
+    130 Cam160         5
+    131 Cam161         5
+    132 Cam162         5
+    133 Cam163         5
+    134 Cam164         5
+    135 Cam165         5
+    136 Cam166         5
+    137 Cam167         5
+    138 Cam168         5
+    139 Cam169         5
+    140 Cam170         5
+    141 Cam171         5
+    142 Cam172         5
+    143 Cam173         5
+    144 Cam174         5
+    145 Cam175         5
+    146 Cam176         5
+    147 Cam177         5
+    148 Cam178         5
+    149 Cam179         5
+    150 Cam180         5
 
 LIST OF DIRECTORIES AND FREE SPACE:
 -----------------------------------
 
 ``` text
 Filesystem     1K-blocks      Used Available Use% Mounted on
-/dev/root      103081248   9446972  88375012  10% /
+/dev/root      103081248   9374536  88447448  10% /
 devtmpfs         1017504         0   1017504   0% /dev
 tmpfs            1019728       880   1018848   1% /run
 tmpfs            1019728        68   1019660   1% /dev/shm
 cgroup_root      1019728         0   1019728   0% /sys/fs/cgroup
 /dev/sda1        1032088     20580    959080   3% /boot
-/dev/sda3      722355288 472524768 213113976  69% /home
+/dev/sda3      722355288 472716720 212922024  69% /home
 cgmfs                100         0       100   0% /run/cgmanager/fs
 /dev/sdb1      961301832 369121312 543326096  41% /home/user1/temper
 ```
@@ -234,7 +383,7 @@ Particular Pot sizes
 Latest-Images
 -------------
 
-Cam1\_MT20180924163249\_24\_119.jpg ![](pictures/Cam1_MT20180924163249_24_119.jpg) Cam2\_MT20180924163249\_C76\_137\_147.jpg ![](pictures/Cam2_MT20180924163249_C76_137_147.jpg) Cam3\_MT20180924163249\_C6\_201.jpg ![](pictures/Cam3_MT20180924163249_C6_201.jpg) Cam4\_MT20180924163249\_C15\_105\_106\_216.jpg ![](pictures/Cam4_MT20180924163249_C15_105_106_216.jpg) Cam5\_MT20180924163249\_C60.jpg ![](pictures/Cam5_MT20180924163249_C60.jpg) Cam6\_MT20180924163249\_C84\_132.jpg ![](pictures/Cam6_MT20180924163249_C84_132.jpg) Cam7\_MT20180924163249\_C51\_131.jpg ![](pictures/Cam7_MT20180924163249_C51_131.jpg) Cam8\_MT20180924163249\_C64\_148.jpg ![](pictures/Cam8_MT20180924163249_C64_148.jpg) Cam9\_MT20180924163249\_C50\_188\_189.jpg ![](pictures/Cam9_MT20180924163249_C50_188_189.jpg) Cam10\_MT20180924163249\_C58\_18\_173.jpg ![](pictures/Cam10_MT20180924163249_C58_18_173.jpg) Cam11\_MT20180924163249\_C62\_17\_168.jpg ![](pictures/Cam11_MT20180924163249_C62_17_168.jpg) Cam12\_MT20180924163249\_C53\_19\_187.jpg ![](pictures/Cam12_MT20180924163249_C53_19_187.jpg) Cam13\_MT20180924163249\_C34\_24\_237\_238.jpg ![](pictures/Cam13_MT20180924163249_C34_24_237_238.jpg) Cam14\_MT20180924163249\_182\_185.jpg ![](pictures/Cam14_MT20180924163249_182_185.jpg) Cam15\_MT20180924163249\_C44\_126.jpg ![](pictures/Cam15_MT20180924163249_C44_126.jpg) Cam16\_MT20180924163249\_106\_107.jpg ![](pictures/Cam16_MT20180924163249_106_107.jpg) Cam17\_MT20180924163249\_C20\_108\_109.jpg ![](pictures/Cam17_MT20180924163249_C20_108_109.jpg) Cam18\_MT20180924163249\_C32\_117\_118.jpg ![](pictures/Cam18_MT20180924163249_C32_117_118.jpg) Cam19\_MT20180924163249\_C36\_12\_120.jpg ![](pictures/Cam19_MT20180924163249_C36_12_120.jpg) Cam20\_MT20180924163249\_C57\_181\_183.jpg ![](pictures/Cam20_MT20180924163249_C57_181_183.jpg) Cam21\_MT20180924163249\_C45\_249.jpg ![](pictures/Cam21_MT20180924163249_C45_249.jpg) Cam22\_MT20180924163249\_C42\_245\_246\_247.jpg ![](pictures/Cam22_MT20180924163249_C42_245_246_247.jpg) Cam23\_MT20180924163249\_C19\_11\_22\_109.jpg ![](pictures/Cam23_MT20180924163249_C19_11_22_109.jpg) Cam24\_MT20180924163249\_C41\_194.jpg ![](pictures/Cam24_MT20180924163249_C41_194.jpg) Cam25\_MT20180924163249\_C63\_15\_168.jpg ![](pictures/Cam25_MT20180924163249_C63_15_168.jpg) Cam26\_MT20180924163249\_C23\_110\_111\_225.jpg ![](pictures/Cam26_MT20180924163249_C23_110_111_225.jpg) Cam27\_MT20180924163249\_C27\_114\_115\_226.jpg ![](pictures/Cam27_MT20180924163249_C27_114_115_226.jpg) Cam28\_MT20180924163249\_C24\_111\_119.jpg ![](pictures/Cam28_MT20180924163249_C24_111_119.jpg) Cam29\_MT20180924163249\_C61\_170.jpg ![](pictures/Cam29_MT20180924163249_C61_170.jpg) Cam30\_MT20180924163249\_C56\_14\_140.jpg ![](pictures/Cam30_MT20180924163249_C56_14_140.jpg) Cam31\_MT20180924163249\_C31\_116\_117\_233.jpg ![](pictures/Cam31_MT20180924163249_C31_116_117_233.jpg) Cam32\_MT20180924163249\_C66\_16.jpg ![](pictures/Cam32_MT20180924163249_C66_16.jpg) Cam33\_MT20180924163249\_C25\_23\_227.jpg ![](pictures/Cam33_MT20180924163249_C25_23_227.jpg) Cam34\_MT20180924163249\_C49\_248\_296.jpg ![](pictures/Cam34_MT20180924163249_C49_248_296.jpg) Cam35\_MT20180924163249\_C28\_114.jpg ![](pictures/Cam35_MT20180924163249_C28_114.jpg) Cam36\_MT20180924163249\_C33\_234\_236.jpg ![](pictures/Cam36_MT20180924163249_C33_234_236.jpg) Cam37\_MT20180924163249\_C29.jpg ![](pictures/Cam37_MT20180924163249_C29.jpg) Cam38\_MT20180924163249\_C30\_233\_235.jpg ![](pictures/Cam38_MT20180924163249_C30_233_235.jpg) Cam39\_MT20180924163249\_C17\_218.jpg ![](pictures/Cam39_MT20180924163249_C17_218.jpg) Cam40\_MT20180924163249\_C21\_223\_224.jpg ![](pictures/Cam40_MT20180924163249_C21_223_224.jpg) Cam41\_MT20180924163249\_C39\_123.jpg ![](pictures/Cam41_MT20180924163249_C39_123.jpg) Cam42\_MT20180924163249\_C55\_141.jpg ![](pictures/Cam42_MT20180924163249_C55_141.jpg) Cam43\_MT20180924163249\_227\_228.jpg ![](pictures/Cam43_MT20180924163249_227_228.jpg) Cam44\_MT20180924163249\_C22\_220\_225.jpg ![](pictures/Cam44_MT20180924163249_C22_220_225.jpg) Cam45\_MT20180924163249\_C94\_253.jpg ![](pictures/Cam45_MT20180924163249_C94_253.jpg) Cam46\_MT20180924163249\_C18\_22\_219.jpg ![](pictures/Cam46_MT20180924163249_C18_22_219.jpg) Cam47\_MT20180924163249\_C38\_241\_243.jpg ![](pictures/Cam47_MT20180924163249_C38_241_243.jpg) Cam48\_MT20180924163249\_C46\_251.jpg ![](pictures/Cam48_MT20180924163249_C46_251.jpg) Cam49\_MT20180924163249\_C88\_191\_192.jpg ![](pictures/Cam49_MT20180924163249_C88_191_192.jpg) Cam50\_MT20180924163249\_C52\_130\_138.jpg ![](pictures/Cam50_MT20180924163249_C52_130_138.jpg) Cam51\_MT20180924163249\_C37\_240\_242.jpg ![](pictures/Cam51_MT20180924163249_C37_240_242.jpg) Cam52\_MT20180924163249\_C59.jpg ![](pictures/Cam52_MT20180924163249_C59.jpg) Cam53\_MT20180924163249\_C5\_206.jpg ![](pictures/Cam53_MT20180924163249_C5_206.jpg) Cam54\_MT20180924163249\_C4\_1\_13.jpg ![](pictures/Cam54_MT20180924163249_C4_1_13.jpg) Cam55\_MT20180924163249\_211\_212.jpg ![](pictures/Cam55_MT20180924163249_211_212.jpg) Cam56\_MT20180924163249\_247.jpg ![](pictures/Cam56_MT20180924163249_247.jpg) Cam57\_MT20180924163249\_C2\_172\_202.jpg ![](pictures/Cam57_MT20180924163249_C2_172_202.jpg) Cam58\_MT20180924163249\_C11\_104\_210.jpg ![](pictures/Cam58_MT20180924163249_C11_104_210.jpg) Cam59\_MT20180924163249\_C48\_127\_128.jpg ![](pictures/Cam59_MT20180924163249_C48_127_128.jpg) Cam60\_MT20180924163249\_C8\_100\_101.jpg ![](pictures/Cam60_MT20180924163249_C8_100_101.jpg) Cam61\_MT20180924163249\_C110\_600.jpg ![](pictures/Cam61_MT20180924163249_C110_600.jpg) Cam62\_MT20180924163249\_C7\_10.jpg ![](pictures/Cam62_MT20180924163249_C7_10.jpg) Cam63\_MT20180924163249\_21.jpg ![](pictures/Cam63_MT20180924163249_21.jpg) Cam64\_MT20180924163249\_C85\_2.jpg ![](pictures/Cam64_MT20180924163249_C85_2.jpg) Cam65\_MT20180924163249\_C71\_144\_159.jpg ![](pictures/Cam65_MT20180924163249_C71_144_159.jpg) Cam66\_MT20180924163249\_C3\_13\_203.jpg ![](pictures/Cam66_MT20180924163249_C3_13_203.jpg) Cam67\_MT20180924163249\_C1\_20\_200\_202.jpg ![](pictures/Cam67_MT20180924163249_C1_20_200_202.jpg) Cam68\_MT20180924163249\_C47\_128\_129.jpg ![](pictures/Cam68_MT20180924163249_C47_128_129.jpg) Cam69\_MT20180924163249\_C65\_166\_167.jpg ![](pictures/Cam69_MT20180924163249_C65_166_167.jpg) Cam70\_MT20180924163249\_C178\_406\_407.jpg ![](pictures/Cam70_MT20180924163249_C178_406_407.jpg) Cam71\_MT20180924163249\_C72\_135.jpg ![](pictures/Cam71_MT20180924163249_C72_135.jpg) Cam72\_MT20180924163249\_C68.jpg ![](pictures/Cam72_MT20180924163249_C68.jpg) Cam73\_MT20180924163249\_C67\_152\_161.jpg ![](pictures/Cam73_MT20180924163249_C67_152_161.jpg) Cam74\_MT20180924163249\_C107.jpg ![](pictures/Cam74_MT20180924163249_C107.jpg) Cam75\_MT20180924163249\_C73\_157\_158.jpg ![](pictures/Cam75_MT20180924163249_C73_157_158.jpg) Cam76\_MT20180924163249\_.jpg ![](pictures/Cam76_MT20180924163249_.jpg) Cam77\_MT20180924163249\_C75\_146.jpg ![](pictures/Cam77_MT20180924163249_C75_146.jpg) Cam78\_MT20180924163249\_268.jpg ![](pictures/Cam78_MT20180924163249_268.jpg) Cam79\_MT20180924163249\_C86\_197\_198.jpg ![](pictures/Cam79_MT20180924163249_C86_197_198.jpg) Cam80\_MT20180924163249\_C9\_208\_209.jpg ![](pictures/Cam80_MT20180924163249_C9_208_209.jpg) Cam81\_MT20180924163249\_C116\_611.jpg ![](pictures/Cam81_MT20180924163249_C116_611.jpg) Cam82\_MT20180924163249\_C92\_259.jpg ![](pictures/Cam82_MT20180924163249_C92_259.jpg) Cam83\_MT20180924163249\_C12\_102\_103.jpg ![](pictures/Cam83_MT20180924163249_C12_102_103.jpg) Cam84\_MT20180924163249\_C95\_254.jpg ![](pictures/Cam84_MT20180924163249_C95_254.jpg) Cam85\_MT20180924163249\_C74\_156.jpg ![](pictures/Cam85_MT20180924163249_C74_156.jpg) Cam86\_MT20180924163249\_214\_215\_216.jpg ![](pictures/Cam86_MT20180924163249_214_215_216.jpg) Cam87\_MT20180924163249\_C168\_410.jpg ![](pictures/Cam87_MT20180924163249_C168_410.jpg) Cam88\_MT20180924163249\_C87\_195.jpg ![](pictures/Cam88_MT20180924163249_C87_195.jpg) Cam89\_MT20180924163249\_C162\_448\_449.jpg ![](pictures/Cam89_MT20180924163249_C162_448_449.jpg) Cam90\_MT20180924163249\_C149\_282\_467.jpg ![](pictures/Cam90_MT20180924163249_C149_282_467.jpg) Cam91\_MT20180924163249\_.jpg ![](pictures/Cam91_MT20180924163249_.jpg) Cam92\_MT20180924163249\_C179\_404\_405.jpg ![](pictures/Cam92_MT20180924163249_C179_404_405.jpg) Cam93\_MT20180924163249\_C160\_439\_440.jpg ![](pictures/Cam93_MT20180924163249_C160_439_440.jpg) Cam94\_MT20180924163249\_C141\_284\_496.jpg ![](pictures/Cam94_MT20180924163249_C141_284_496.jpg) Cam95\_MT20180924163249\_C159\_441\_443\_471.jpg ![](pictures/Cam95_MT20180924163249_C159_441_443_471.jpg) Cam96\_MT20180924163249\_C145\_459.jpg ![](pictures/Cam96_MT20180924163249_C145_459.jpg) Cam97\_MT20180924163249\_402\_403.jpg ![](pictures/Cam97_MT20180924163249_402_403.jpg) Cam98\_MT20180924163249\_C154\_436\_437\_470.jpg ![](pictures/Cam98_MT20180924163249_C154_436_437_470.jpg) Cam99\_MT20180924163249\_C83\_3.jpg ![](pictures/Cam99_MT20180924163249_C83_3.jpg) Cam100\_MT20180924163249\_C171.jpg ![](pictures/Cam100_MT20180924163249_C171.jpg) Cam101\_MT20180924163249\_C77\_179.jpg ![](pictures/Cam101_MT20180924163249_C77_179.jpg) Cam102\_MT20180924163249\_C93\_293.jpg ![](pictures/Cam102_MT20180924163249_C93_293.jpg) Cam103\_MT20180924163249\_C78\_178.jpg ![](pictures/Cam103_MT20180924163249_C78_178.jpg) Cam104\_MT20180924163249\_C151\_469.jpg ![](pictures/Cam104_MT20180924163249_C151_469.jpg) Cam105\_MT20180924163249\_C170\_421\_422.jpg ![](pictures/Cam105_MT20180924163249_C170_421_422.jpg) Cam106\_MT20180924163249\_C79\_175.jpg ![](pictures/Cam106_MT20180924163249_C79_175.jpg) Cam107\_MT20180924163249\_C177\_276\_408.jpg ![](pictures/Cam107_MT20180924163249_C177_276_408.jpg) Cam108\_MT20180924163249\_C40\_121\_122.jpg ![](pictures/Cam108_MT20180924163249_C40_121_122.jpg) Cam109\_MT20180924163249\_C82\_3\_298\_299.jpg ![](pictures/Cam109_MT20180924163249_C82_3_298_299.jpg) Cam110\_MT20180924163249\_C89\_174\_190\_193.jpg ![](pictures/Cam110_MT20180924163249_C89_174_190_193.jpg) Cam111\_MT20180924163249\_C80\_136.jpg ![](pictures/Cam111_MT20180924163249_C80_136.jpg) Cam112\_MT20180924163249\_C165\_279\_416.jpg ![](pictures/Cam112_MT20180924163249_C165_279_416.jpg) Cam113\_MT20180924163249\_C131\_472.jpg ![](pictures/Cam113_MT20180924163249_C131_472.jpg) Cam114\_MT20180924163249\_C106\_262.jpg ![](pictures/Cam114_MT20180924163249_C106_262.jpg) Cam115\_MT20180924163249\_485.jpg ![](pictures/Cam115_MT20180924163249_485.jpg) Cam116\_MT20180924163249\_C166\_415.jpg ![](pictures/Cam116_MT20180924163249_C166_415.jpg) Cam117\_MT20180924163249\_C98\_273.jpg ![](pictures/Cam117_MT20180924163249_C98_273.jpg) Cam118\_MT20180924163249\_C127\_433.jpg ![](pictures/Cam118_MT20180924163249_C127_433.jpg) Cam119\_MT20180924163249\_291\_602.jpg ![](pictures/Cam119_MT20180924163249_291_602.jpg) Cam120\_MT20180924163249\_C81\_176\_297.jpg ![](pictures/Cam120_MT20180924163249_C81_176_297.jpg) Cam121\_MT20180924163249\_C133\_286.jpg ![](pictures/Cam121_MT20180924163249_C133_286.jpg) Cam122\_MT20180924163249\_C135\_479\_480.jpg ![](pictures/Cam122_MT20180924163249_C135_479_480.jpg) Cam123\_MT20180924163249\_C144\_491.jpg ![](pictures/Cam123_MT20180924163249_C144_491.jpg) Cam124\_MT20180924163249\_C169\_278\_423.jpg ![](pictures/Cam124_MT20180924163249_C169_278_423.jpg) Cam125\_MT20180924163249\_C158\_441\_442.jpg ![](pictures/Cam125_MT20180924163249_C158_441_442.jpg) Cam126\_MT20180924163249\_C105\_222\_292.jpg ![](pictures/Cam126_MT20180924163249_C105_222_292.jpg) Cam127\_MT20180924163249\_C163\_430\_449\_450.jpg ![](pictures/Cam127_MT20180924163249_C163_430_449_450.jpg) Cam128\_MT20180924163249\_418.jpg ![](pictures/Cam128_MT20180924163249_418.jpg) Cam129\_MT20180924163249\_C111.jpg ![](pictures/Cam129_MT20180924163249_C111.jpg) Cam130\_MT20180924163249\_C114\_603.jpg ![](pictures/Cam130_MT20180924163249_C114_603.jpg) Cam131\_MT20180924163249\_C128\_432.jpg ![](pictures/Cam131_MT20180924163249_C128_432.jpg) Cam132\_MT20180924163249\_C147\_458.jpg ![](pictures/Cam132_MT20180924163249_C147_458.jpg) Cam133\_MT20180924163249\_C126\_435.jpg ![](pictures/Cam133_MT20180924163249_C126_435.jpg) Cam134\_MT20180924163249\_C115\_604\_605.jpg ![](pictures/Cam134_MT20180924163249_C115_604_605.jpg) Cam135\_MT20180924163249\_C125\_288.jpg ![](pictures/Cam135_MT20180924163249_C125_288.jpg) Cam136\_MT20180924163249\_C138\_484.jpg ![](pictures/Cam136_MT20180924163249_C138_484.jpg) Cam137\_MT20180924163249\_C142\_492\_495.jpg ![](pictures/Cam137_MT20180924163249_C142_492_495.jpg) Cam138\_MT20180924163249\_C124\_617.jpg ![](pictures/Cam138_MT20180924163249_C124_617.jpg) Cam139\_MT20180924163249\_C161\_28\_447.jpg ![](pictures/Cam139_MT20180924163249_C161_28_447.jpg) Cam140\_MT20180924163249\_C117\_610.jpg ![](pictures/Cam140_MT20180924163249_C117_610.jpg) Cam141\_MT20180924163249\_C137\_285.jpg ![](pictures/Cam141_MT20180924163249_C137_285.jpg) Cam142\_MT20180924163249\_C164\_444\_446.jpg ![](pictures/Cam142_MT20180924163249_C164_444_446.jpg) Cam143\_MT20180924163249\_C129\_453.jpg ![](pictures/Cam143_MT20180924163249_C129_453.jpg) Cam144\_MT20180924163249\_C140\_488\_489.jpg ![](pictures/Cam144_MT20180924163249_C140_488_489.jpg) Cam145\_MT20180924163249\_C134.jpg ![](pictures/Cam145_MT20180924163249_C134.jpg) Cam146\_MT20180924163249\_C99\_271\_272.jpg ![](pictures/Cam146_MT20180924163249_C99_271_272.jpg) Cam147\_MT20180924163249\_C122\_429.jpg ![](pictures/Cam147_MT20180924163249_C122_429.jpg) Cam148\_MT20180924163249\_C108.jpg ![](pictures/Cam148_MT20180924163249_C108.jpg) Cam149\_MT20180924163249\_C146\_456\_499.jpg ![](pictures/Cam149_MT20180924163249_C146_456_499.jpg) Cam150\_MT20180924163249\_C132\_474\_475.jpg ![](pictures/Cam150_MT20180924163249_C132_474_475.jpg) Cam151\_MT20180924163249\_C150\_468.jpg ![](pictures/Cam151_MT20180924163249_C150_468.jpg) Cam152\_MT20180924163249\_C104\_263\_264.jpg ![](pictures/Cam152_MT20180924163249_C104_263_264.jpg) Cam153\_MT20180924163249\_C103.jpg ![](pictures/Cam153_MT20180924163249_C103.jpg) Cam154\_MT20180924163249\_C148\_497.jpg ![](pictures/Cam154_MT20180924163249_C148_497.jpg) Cam155\_MT20180924163249\_C121\_289.jpg ![](pictures/Cam155_MT20180924163249_C121_289.jpg) Cam156\_MT20180924163249\_C156\_462\_463.jpg ![](pictures/Cam156_MT20180924163249_C156_462_463.jpg) Cam157\_MT20180924163249\_C153.jpg ![](pictures/Cam157_MT20180924163249_C153.jpg) Cam158\_MT20180924163249\_C90\_174\_260.jpg ![](pictures/Cam158_MT20180924163249_C90_174_260.jpg) Cam159\_MT20180924163249\_C96\_256\_257.jpg ![](pictures/Cam159_MT20180924163249_C96_256_257.jpg) Cam160\_MT20180924163249\_C157\_280\_445.jpg ![](pictures/Cam160_MT20180924163249_C157_280_445.jpg) Cam161\_MT20180924163249\_C118\_608.jpg ![](pictures/Cam161_MT20180924163249_C118_608.jpg) Cam162\_MT20180924163249\_C119\_615.jpg ![](pictures/Cam162_MT20180924163249_C119_615.jpg) Cam163\_MT20180924163249\_C175\_426\_427\_428.jpg ![](pictures/Cam163_MT20180924163249_C175_426_427_428.jpg) Cam164\_MT20180924163249\_C130\_455.jpg ![](pictures/Cam164_MT20180924163249_C130_455.jpg) Cam165\_MT20180924163249\_C101\_269.jpg ![](pictures/Cam165_MT20180924163249_C101_269.jpg) Cam166\_MT20180924163249\_C143.jpg ![](pictures/Cam166_MT20180924163249_C143.jpg) Cam167\_MT20180924163249\_C167.jpg ![](pictures/Cam167_MT20180924163249_C167.jpg) Cam168\_MT20180924163249\_C113\_290.jpg ![](pictures/Cam168_MT20180924163249_C113_290.jpg) Cam169\_MT20180924163249\_C97\_275\_294.jpg ![](pictures/Cam169_MT20180924163249_C97_275_294.jpg) Cam170\_MT20180924163249\_C176\_425\_426.jpg ![](pictures/Cam170_MT20180924163249_C176_425_426.jpg) Cam171\_MT20180924163249\_C100.jpg ![](pictures/Cam171_MT20180924163249_C100.jpg) Cam172\_MT20180924163249\_C91\_26.jpg ![](pictures/Cam172_MT20180924163249_C91_26.jpg) Cam173\_MT20180924163249\_C174\_400\_428.jpg ![](pictures/Cam173_MT20180924163249_C174_400_428.jpg) Cam174\_MT20180924163249\_C123\_609\_616.jpg ![](pictures/Cam174_MT20180924163249_C123_609_616.jpg) Cam175\_MT20180924163249\_C155\_465\_466.jpg ![](pictures/Cam175_MT20180924163249_C155_465_466.jpg) Cam176\_MT20180924163249\_C173\_277\_401.jpg ![](pictures/Cam176_MT20180924163249_C173_277_401.jpg) Cam177\_MT20180924163249\_C70\_164.jpg ![](pictures/Cam177_MT20180924163249_C70_164.jpg) Cam178\_MT20180924163249\_C69\_162\_163.jpg ![](pictures/Cam178_MT20180924163249_C69_162_163.jpg) Cam179\_MT20180924163249\_C120\_613\_614.jpg ![](pictures/Cam179_MT20180924163249_C120_613_614.jpg) Cam180\_MT20180924163249\_C136\_482.jpg ![](pictures/Cam180_MT20180924163249_C136_482.jpg) \#\#TEMPERATURES:
+Cam1\_MT20180925163254\_C35\_24\_119.jpg ![](pictures/Cam1_MT20180925163254_C35_24_119.jpg) Cam2\_MT20180925163254\_C76\_137\_147.jpg ![](pictures/Cam2_MT20180925163254_C76_137_147.jpg) Cam3\_MT20180925120253\_C6\_201.jpg ![](pictures/Cam3_MT20180925120253_C6_201.jpg) Cam4\_MT20180925120253\_C15\_105\_106\_216.jpg ![](pictures/Cam4_MT20180925120253_C15_105_106_216.jpg) Cam5\_MT20180925163254\_.jpg ![](pictures/Cam5_MT20180925163254_.jpg) Cam6\_MT20180925163254\_C84\_132.jpg ![](pictures/Cam6_MT20180925163254_C84_132.jpg) Cam7\_MT20180925163254\_131.jpg ![](pictures/Cam7_MT20180925163254_131.jpg) Cam8\_MT20180925163254\_C64\_148.jpg ![](pictures/Cam8_MT20180925163254_C64_148.jpg) Cam9\_MT20180925163254\_C50\_188\_189.jpg ![](pictures/Cam9_MT20180925163254_C50_188_189.jpg) Cam10\_MT20180925163254\_C58\_18\_173.jpg ![](pictures/Cam10_MT20180925163254_C58_18_173.jpg) Cam11\_MT20180925163254\_C62\_17\_168.jpg ![](pictures/Cam11_MT20180925163254_C62_17_168.jpg) Cam12\_MT20180925163254\_C53\_19\_187.jpg ![](pictures/Cam12_MT20180925163254_C53_19_187.jpg) Cam13\_MT20180925163254\_C34\_24\_237.jpg ![](pictures/Cam13_MT20180925163254_C34_24_237.jpg) Cam14\_MT20180925163254\_182\_185.jpg ![](pictures/Cam14_MT20180925163254_182_185.jpg) Cam15\_MT20180925163254\_C44\_126.jpg ![](pictures/Cam15_MT20180925163254_C44_126.jpg) Cam16\_MT20180925120253\_C16\_106\_107.jpg ![](pictures/Cam16_MT20180925120253_C16_106_107.jpg) Cam17\_MT20180925120253\_C20\_108\_109.jpg ![](pictures/Cam17_MT20180925120253_C20_108_109.jpg) Cam18\_MT20180925163254\_C32\_117\_118.jpg ![](pictures/Cam18_MT20180925163254_C32_117_118.jpg) Cam19\_MT20180925163254\_C36\_12\_120.jpg ![](pictures/Cam19_MT20180925163254_C36_12_120.jpg) Cam20\_MT20180925163254\_181.jpg ![](pictures/Cam20_MT20180925163254_181.jpg) Cam21\_MT20180925163254\_C45\_249.jpg ![](pictures/Cam21_MT20180925163254_C45_249.jpg) Cam22\_MT20180925163254\_C42\_245\_246\_247.jpg ![](pictures/Cam22_MT20180925163254_C42_245_246_247.jpg) Cam23\_MT20180925120253\_C19\_11\_22\_109.jpg ![](pictures/Cam23_MT20180925120253_C19_11_22_109.jpg) Cam24\_MT20180925163254\_C41\_194.jpg ![](pictures/Cam24_MT20180925163254_C41_194.jpg) Cam25\_MT20180925163254\_C63\_15\_168.jpg ![](pictures/Cam25_MT20180925163254_C63_15_168.jpg) Cam26\_MT20180925120253\_C23\_110\_111\_225.jpg ![](pictures/Cam26_MT20180925120253_C23_110_111_225.jpg) Cam27\_MT20180925120253\_C27\_114\_115.jpg ![](pictures/Cam27_MT20180925120253_C27_114_115.jpg) Cam28\_MT20180925120253\_C24\_111\_119.jpg ![](pictures/Cam28_MT20180925120253_C24_111_119.jpg) Cam29\_MT20180925163254.jpg ![](pictures/Cam29_MT20180925163254.jpg) Cam30\_MT20180925163254.jpg ![](pictures/Cam30_MT20180925163254.jpg) Cam31\_MT20180925163254.jpg ![](pictures/Cam31_MT20180925163254.jpg) Cam32\_MT20180925163254.jpg ![](pictures/Cam32_MT20180925163254.jpg) Cam33\_MT20180925120253\_C25\_23\_227.jpg ![](pictures/Cam33_MT20180925120253_C25_23_227.jpg) Cam34\_MT20180925163254.jpg ![](pictures/Cam34_MT20180925163254.jpg) Cam35\_MT20180925120253\_C28\_114.jpg ![](pictures/Cam35_MT20180925120253_C28_114.jpg) Cam36\_MT20180925163254.jpg ![](pictures/Cam36_MT20180925163254.jpg) Cam37\_MT20180925163254.jpg ![](pictures/Cam37_MT20180925163254.jpg) Cam38\_MT20180925163254.jpg ![](pictures/Cam38_MT20180925163254.jpg) Cam39\_MT20180925120253\_C17\_218.jpg ![](pictures/Cam39_MT20180925120253_C17_218.jpg) Cam40\_MT20180925120253\_223\_224.jpg ![](pictures/Cam40_MT20180925120253_223_224.jpg) Cam41\_MT20180925163254.jpg ![](pictures/Cam41_MT20180925163254.jpg) Cam42\_MT20180925163254.jpg ![](pictures/Cam42_MT20180925163254.jpg) Cam43\_MT20180925120253\_227\_228.jpg ![](pictures/Cam43_MT20180925120253_227_228.jpg) Cam44\_MT20180925120253\_C22\_220\_225.jpg ![](pictures/Cam44_MT20180925120253_C22_220_225.jpg) Cam45\_MT20180925120253\_C94\_253.jpg ![](pictures/Cam45_MT20180925120253_C94_253.jpg) Cam46\_MT20180925120253\_C18\_22\_219\_221.jpg ![](pictures/Cam46_MT20180925120253_C18_22_219_221.jpg) Cam47\_MT20180925153254.jpg ![](pictures/Cam47_MT20180925153254.jpg) Cam48\_MT20180925153254.jpg ![](pictures/Cam48_MT20180925153254.jpg) Cam49\_MT20180925120253\_C88\_191\_192.jpg ![](pictures/Cam49_MT20180925120253_C88_191_192.jpg) Cam50\_MT20180925153254.jpg ![](pictures/Cam50_MT20180925153254.jpg) Cam51\_MT20180925153254.jpg ![](pictures/Cam51_MT20180925153254.jpg) Cam52\_MT20180925153254.jpg ![](pictures/Cam52_MT20180925153254.jpg) Cam53\_MT20180925120253\_C5\_206.jpg ![](pictures/Cam53_MT20180925120253_C5_206.jpg) Cam54\_MT20180925120253\_C4\_1\_13.jpg ![](pictures/Cam54_MT20180925120253_C4_1_13.jpg) Cam55\_MT20180925120253\_211\_212.jpg ![](pictures/Cam55_MT20180925120253_211_212.jpg) Cam56\_MT20180925120253\_247.jpg ![](pictures/Cam56_MT20180925120253_247.jpg) Cam57\_MT20180925120253\_C2\_172\_202.jpg ![](pictures/Cam57_MT20180925120253_C2_172_202.jpg) Cam58\_MT20180925120253\_C11\_210.jpg ![](pictures/Cam58_MT20180925120253_C11_210.jpg) Cam59\_MT20180925120253\_C48\_127\_128.jpg ![](pictures/Cam59_MT20180925120253_C48_127_128.jpg) Cam60\_MT20180925120253\_C8\_100\_101.jpg ![](pictures/Cam60_MT20180925120253_C8_100_101.jpg) Cam61\_MT20180925120253\_600\_601.jpg ![](pictures/Cam61_MT20180925120253_600_601.jpg) Cam62\_MT20180925120253\_C7\_10.jpg ![](pictures/Cam62_MT20180925120253_C7_10.jpg) Cam63\_MT20180925120253\_C10.jpg ![](pictures/Cam63_MT20180925120253_C10.jpg) Cam64\_MT20180925120253\_C85\_2.jpg ![](pictures/Cam64_MT20180925120253_C85_2.jpg) Cam65\_MT20180925120253\_C71\_144\_159.jpg ![](pictures/Cam65_MT20180925120253_C71_144_159.jpg) Cam66\_MT20180925120253\_C3\_13\_203.jpg ![](pictures/Cam66_MT20180925120253_C3_13_203.jpg) Cam67\_MT20180925120253\_C1\_200.jpg ![](pictures/Cam67_MT20180925120253_C1_200.jpg) Cam68\_MT20180925120253\_C47\_128\_129\_252.jpg ![](pictures/Cam68_MT20180925120253_C47_128_129_252.jpg) Cam69\_MT20180925120253\_C65\_16\_166\_167.jpg ![](pictures/Cam69_MT20180925120253_C65_16_166_167.jpg) Cam70\_MT20180925120253\_C178\_406\_407.jpg ![](pictures/Cam70_MT20180925120253_C178_406_407.jpg) Cam71\_MT20180925120253\_C72\_135.jpg ![](pictures/Cam71_MT20180925120253_C72_135.jpg) Cam72\_MT20180925120253\_C68.jpg ![](pictures/Cam72_MT20180925120253_C68.jpg) Cam73\_MT20180925120253\_C67\_152\_161.jpg ![](pictures/Cam73_MT20180925120253_C67_152_161.jpg) Cam74\_MT20180925120253\_C107.jpg ![](pictures/Cam74_MT20180925120253_C107.jpg) Cam75\_MT20180925120253\_C73\_157\_158.jpg ![](pictures/Cam75_MT20180925120253_C73_157_158.jpg) Cam76\_MT20180925120253\_.jpg ![](pictures/Cam76_MT20180925120253_.jpg) Cam77\_MT20180925120253\_C75\_146.jpg ![](pictures/Cam77_MT20180925120253_C75_146.jpg) Cam78\_MT20180925120253\_268.jpg ![](pictures/Cam78_MT20180925120253_268.jpg) Cam79\_MT20180925120253\_C86\_197\_198.jpg ![](pictures/Cam79_MT20180925120253_C86_197_198.jpg) Cam80\_MT20180925120253\_C9\_208\_209.jpg ![](pictures/Cam80_MT20180925120253_C9_208_209.jpg) Cam81\_MT20180925120253\_C116\_611.jpg ![](pictures/Cam81_MT20180925120253_C116_611.jpg) Cam82\_MT20180925120253\_C92\_259.jpg ![](pictures/Cam82_MT20180925120253_C92_259.jpg) Cam83\_MT20180925120253\_C12\_102\_103.jpg ![](pictures/Cam83_MT20180925120253_C12_102_103.jpg) Cam84\_MT20180925120253\_C95\_254.jpg ![](pictures/Cam84_MT20180925120253_C95_254.jpg) Cam85\_MT20180925120253\_C74\_156.jpg ![](pictures/Cam85_MT20180925120253_C74_156.jpg) Cam86\_MT20180925120253\_C14\_214\_215\_216.jpg ![](pictures/Cam86_MT20180925120253_C14_214_215_216.jpg) Cam87\_MT20180925120253\_C168\_410\_411.jpg ![](pictures/Cam87_MT20180925120253_C168_410_411.jpg) Cam88\_MT20180925120253\_C87\_195.jpg ![](pictures/Cam88_MT20180925120253_C87_195.jpg) Cam89\_MT20180925120253\_C162\_449.jpg ![](pictures/Cam89_MT20180925120253_C162_449.jpg) Cam90\_MT20180925120253\_C149\_282\_467.jpg ![](pictures/Cam90_MT20180925120253_C149_282_467.jpg) Cam91\_MT20180925120253\_C152\_461.jpg ![](pictures/Cam91_MT20180925120253_C152_461.jpg) Cam92\_MT20180925120253\_C179\_404\_405.jpg ![](pictures/Cam92_MT20180925120253_C179_404_405.jpg) Cam93\_MT20180925120253\_C160\_439\_440.jpg ![](pictures/Cam93_MT20180925120253_C160_439_440.jpg) Cam94\_MT20180925120253\_C141\_284\_496.jpg ![](pictures/Cam94_MT20180925120253_C141_284_496.jpg) Cam95\_MT20180925120253\_C159\_441\_443.jpg ![](pictures/Cam95_MT20180925120253_C159_441_443.jpg) Cam96\_MT20180925120253\_C145\_459.jpg ![](pictures/Cam96_MT20180925120253_C145_459.jpg) Cam97\_MT20180925120253\_402\_403.jpg ![](pictures/Cam97_MT20180925120253_402_403.jpg) Cam98\_MT20180925120253\_C154\_436\_437\_470.jpg ![](pictures/Cam98_MT20180925120253_C154_436_437_470.jpg) Cam99\_MT20180925120253\_C83\_3.jpg ![](pictures/Cam99_MT20180925120253_C83_3.jpg) Cam100\_MT20180925120253\_C171.jpg ![](pictures/Cam100_MT20180925120253_C171.jpg) Cam101\_MT20180925120253\_C77\_179.jpg ![](pictures/Cam101_MT20180925120253_C77_179.jpg) Cam102\_MT20180925120253\_C93\_293.jpg ![](pictures/Cam102_MT20180925120253_C93_293.jpg) Cam103\_MT20180925120253\_C78\_178.jpg ![](pictures/Cam103_MT20180925120253_C78_178.jpg) Cam104\_MT20180925120253\_C151\_469.jpg ![](pictures/Cam104_MT20180925120253_C151_469.jpg) Cam105\_MT20180925120253\_C170\_421\_422.jpg ![](pictures/Cam105_MT20180925120253_C170_421_422.jpg) Cam106\_MT20180925120253\_C79\_175.jpg ![](pictures/Cam106_MT20180925120253_C79_175.jpg) Cam107\_MT20180925120253\_C177\_276\_408.jpg ![](pictures/Cam107_MT20180925120253_C177_276_408.jpg) Cam108\_MT20180925120253\_121\_122.jpg ![](pictures/Cam108_MT20180925120253_121_122.jpg) Cam109\_MT20180925120253\_C82\_3\_299.jpg ![](pictures/Cam109_MT20180925120253_C82_3_299.jpg) Cam110\_MT20180925120253\_C89\_174\_190\_193.jpg ![](pictures/Cam110_MT20180925120253_C89_174_190_193.jpg) Cam111\_MT20180925120253\_C80\_136.jpg ![](pictures/Cam111_MT20180925120253_C80_136.jpg) Cam112\_MT20180925120253\_C165\_279\_416.jpg ![](pictures/Cam112_MT20180925120253_C165_279_416.jpg) Cam113\_MT20180925120253\_C131\_472.jpg ![](pictures/Cam113_MT20180925120253_C131_472.jpg) \#\#TEMPERATURES:
 
 ``` text
 NO SENSOR INFORMATION THIS YEAR
@@ -244,7 +393,7 @@ LIST OF BACKUP DIRECTORY AND SIZES:
 -----------------------------------
 
 ``` text
-total 410169584
+total 410361536
 -rw-r--r-- 1 user1 users 115322880 May  4 15:33 MT20180504153129.tar
 -rw-r--r-- 1 user1 users 115384320 May  4 15:38 MT20180504153701.tar
 -rw-r--r-- 1 user1 users  87592960 May 15 16:58 MT20180515165646.tar
@@ -6836,6 +6985,8 @@ total 410169584
 -rw-r--r-- 1 user1 users 102420480 Sep 25 16:15 MT20180925160811.tar
 -rw-r--r-- 1 user1 users 102789120 Sep 25 16:45 MT20180925163811.tar
 -rw-r--r-- 1 user1 users 102481920 Sep 25 17:52 MT20180925174511.tar
+-rw-r--r-- 1 user1 users 168335360 Sep 25 19:00 MT20180925185214.tar
+-rw-r--r-- 1 user1 users  28221440 Sep 25 20:06 MT20180925200029.tar
 -rw-r--r-- 1 user1 users       215 May 17 11:17 testscans.sh
 drwxr-xr-x 3 user1 users      4096 Jun  8 15:15 tmp
 ```
