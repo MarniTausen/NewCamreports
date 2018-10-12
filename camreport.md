@@ -1,6 +1,6 @@
 Camera Status report
 ================
-12/10/2018 - 10:00:49
+12/10/2018 - 11:00:19
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
@@ -10,74 +10,14 @@ Camera Status report
 -   [Latest-Images](#latest-images)
 -   [LIST OF BACKUP DIRECTORY AND SIZES:](#list-of-backup-directory-and-sizes)
 
-    Cameras currently down:
-        Names Status
-    1    cam3   down
-    2    cam4   down
-    3   cam16   down
-    4   cam17   down
-    5   cam23   down
-    6   cam26   down
-    7   cam27   down
-    8   cam28   down
-    9   cam33   down
-    10  cam35   down
-    11  cam39   down
-    12  cam40   down
-    13  cam43   down
-    14  cam44   down
-    15  cam45   down
-    16  cam46   down
-    17  cam49   down
-    18  cam53   down
-    19  cam54   down
-    20  cam55   down
-    21  cam57   down
-    22  cam58   down
-    23  cam60   down
-    24  cam61   down
-    25  cam62   down
-    26  cam63   down
-    27  cam64   down
-    28  cam66   down
-    29  cam67   down
-    30  cam74   down
-    31  cam76   down
-    32  cam78   down
-    33  cam79   down
-    34  cam80   down
-    35  cam81   down
-    36  cam82   down
-    37  cam83   down
-    38  cam84   down
-    39  cam86   down
-    40  cam88   down
-    41 cam102   down
-    42 cam110   down
-    43 cam114   down
-    44 cam117   down
-    45 cam119   down
-    46 cam126   down
-    47 cam129   down
-    48 cam130   down
-    49 cam134   down
-    50 cam140   down
-    51 cam146   down
-    52 cam148   down
-    53 cam152   down
-    54 cam153   down
-    55 cam158   down
-    56 cam159   down
-    57 cam161   down
-    58 cam162   down
-    59 cam165   down
-    60 cam168   down
-    61 cam169   down
-    62 cam171   down
-    63 cam172   down
-    64 cam179   down
+    Warning in file(file, "rt"): cannot open file 'camreport.csv': No such file
+    or directory
 
-![](camreport_files/figure-markdown_github/unnamed-chunk-3-1.svg)
+    Error in file(file, "rt"): cannot open the connection
+
+    Error in eval(lhs, parent, parent): object 'report' not found
+
+    Error in nrow(downlist): object 'downlist' not found
 
 Latest number of pictures from the Cameras
 ------------------------------------------
