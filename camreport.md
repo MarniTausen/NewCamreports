@@ -1,6 +1,6 @@
 Camera Status report
 ================
-21/10/2018 - 06:11:10
+21/10/2018 - 07:02:47
 
 -   [Latest number of pictures from the Cameras](#latest-number-of-pictures-from-the-cameras)
 -   [LIST OF DIRECTORIES AND FREE SPACE:](#list-of-directories-and-free-space)
